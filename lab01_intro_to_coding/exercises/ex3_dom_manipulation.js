@@ -15,21 +15,8 @@
 
 // Task
 // What does the following code do?
-const viz = document.body.querySelector(".viz");
-const button = document.body.querySelector("#button");
 
-console.log(viz, viz.children);
 
-const addChildToViz = () => {
-  const newChild = document.createElement("div");
-  newChild.className = "rectangle";
-  newChild.style.height = Math.random() * 100 + "px";
-  viz.appendChild(newChild);
-};
-
-// Task
-// Modify index.html to make this event listener work
-button.addEventListener("click", addChildToViz);
 
 // Task
 // Where can you see the results of the console.log below? How is it different from in previous exercises?
@@ -39,12 +26,31 @@ function drawIrisData() {
     .fetch("./iris_json.json")
     .then(data => data.json())
     .then(data => {
-      console.log(data);
+
+      const viz = document.body.querySelector(".viz");
+      const button = document.body.querySelector("#button");
+
+      const addChildToViz = () => {
+        for (let i =0; i < data.length; i++ ) {
+          const newChild = document.createElement("div");
+          newChild.className = "rectangle";
+          newChild.style.height = data[i].petallength * 10 + 'px';
+          viz.appendChild(newChild);
+        }
+    
+      };
+      
+      button.addEventListener("click", addChildToViz);
+
+
+
+         
+      console.log(data[0].petallength);
     });
+
+   
+
+
 }
 
 drawIrisData();
-
-// Task
-// Modify the code above to visualize the Iris dataset in the preview of index.html.
-// Feel free to add additional CSS properties in index.html, or using JavaScript, as you see fit.
