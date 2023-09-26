@@ -1,0 +1,48 @@
+
+.area-path {
+    fill: green;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.chart-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.chart {
+    flex: 1;
+}
+
+.image-column {
+    flex: 1;
+    padding: 20px;
+    background-color: #f0f0f0;
+    position: relative; /* Set the container as a reference for absolute positioning */
+    top: 20px;
+}
+
+.selected-range {
+    fill: #6e6a6a;
+    opacity: 0.5;
+}
+
+.image {
+    position: absolute; /* Position images absolutely within the container */
+}
+
+.totals {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+h1 {
+    text-align: center;
+}

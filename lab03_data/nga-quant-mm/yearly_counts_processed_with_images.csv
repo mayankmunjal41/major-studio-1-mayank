@@ -1,0 +1,6 @@
+Year,Drawing,Painting,Sculpture,Photograph,Print,DrawingImage,PaintingImage,SculptureImage,PhotographImage,PrintImage
+2000,100,200,150,50,80,"https://example.com/drawing_2000.jpg","https://example.com/painting_2000.jpg","https://example.com/sculpture_2000.jpg","https://example.com/photograph_2000.jpg","https://example.com/print_2000.jpg"
+2001,110,220,160,55,85,"https://example.com/drawing_2001.jpg","https://example.com/painting_2001.jpg","https://example.com/sculpture_2001.jpg","https://example.com/photograph_2001.jpg","https://example.com/print_2001.jpg"
+2002,120,240,170,60,90,"https://example.com/drawing_2002.jpg","https://example.com/painting_2002.jpg","https://example.com/sculpture_2002.jpg","https://example.com/photograph_2002.jpg","https://example.com/print_2002.jpg"
+2003,130,260,180,65,95,"https://example.com/drawing_2003.jpg","https://example.com/painting_2003.jpg","https://example.com/sculpture_2003.jpg","https://example.com/photograph_2003.jpg","https://example.com/print_2003.jpg"
+2004,140,280,190,70,100,"https://example.com/drawing_2004.jpg","https://example.com/painting_2004.jpg","https://example.com/sculpture_2004.jpg","https://example.com/photograph_2004.jpg","https://example.com/print_2004.jpg"
