@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Color Swatches with color-thief</title>
+    <style>
+        .swatch {
+            display: inline-block;
+            width: 50px;
+            height: 50px;
+            margin: 5px;
+            border: 1px solid #000;
+        }
+    </style>
+</head>
+<body>
+    <input type="file" id="imageInput" accept="image/*">
+    <div id="colorSwatches"></div>
+
+    <script src="https://cdn.rawgit.com/lokesh/color-thief/master/dist/color-thief.min.js"></script>
+    <script>
+        // Default image URL
+        const defaultImageUrl = 'https://source.unsplash.com/5VXH4RG88N0/800x600';
+
+        // Set the default image URL
+        const imageInput = document.getElementById('imageInput');
+        imageInput.value = ''; // Reset the input value
+        imageInput.src = defaultImageUrl;
+
+        function handleImage() {
+            const image = new Image();
+            image.onload = function () {
+                const colorThief = new ColorThief();
+                const colorPalette = colorThief.getPalette(image, 5); // Change the number of colors as needed
+                displayColorSwatches(colorPalette);
+            };
+
+            image.src = imageInput.src;
+        }
+
+        function displayColorSwatches(colorPalette) {
+            const colorSwatchesContainer = document.getElementById('colorSwatches');
+            colorSwatchesContainer.innerHTML = '';
+
+            colorPalette.forEach(color => {
+                const swatch = document.createElement('div');
+                swatch.className = 'swatch';
+                swatch.style.backgroundColor = `rgb(${color[0]}, ${color[1]}, ${color[2]})`;
+                colorSwatchesContainer.appendChild(swatch);
+            });
+        }
+
+        // Attach the event listener to the file input
+        document.getElementById('imageInput').addEventListener('change', handleImage);
+
+        // Trigger the handleImage function on page load
+        handleImage();
+    </script>
+</body>
+</html>

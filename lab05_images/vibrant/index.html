@@ -19,7 +19,7 @@
 </style>
 </head>
 <body>
-<img src = "assets/VanGogh-OliveTrees.jpg" />
+<img src = "test-four.jpeg" />
 <div id="palette_container"></div>
 </body>
 </html>
@@ -27,7 +27,7 @@
 <script>
   // Use `Vibrant` in script
   // Vibrant is exported to global. window.Vibrant === Vibrant
-  Vibrant.from('assets/VanGogh-OliveTrees.jpg').getPalette(function(err, palette) {
+  Vibrant.from('test-four.jpeg').getPalette(function(err, palette) {
 
     for (var swatch in palette){
       console.log(swatch, palette[swatch].getHex());

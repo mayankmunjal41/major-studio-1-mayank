@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Color Thief Example</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/color-thief/2.3.0/color-thief.umd.js"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    /* Style for the swatches & image */
+    .swatch {
+      border: 5px solid black;
+      height: 100px;
+      width: 100px;
+      float: left;
+    }
+    img {
+      max-width: 100px;
+      margin: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div id="selected_swatches">
+    <!-- Display the selected swatches here -->
+  </div>
+
+  <div class="selected-images">
+    <!-- Display the images with matching swatches here -->
+  </div>
+
+  <script>
+    const swatchesToSelect = 5; // Number of random swatches to select
+    const selectedSwatches = new Set();
+    const colorThief = new ColorThief();
+
+    // Function to generate random numbers within a range
+    function getRandomInt(min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    d3.csv('mmunjal.csv').then(function(data) {
+      data.slice(0, 5000).forEach(function(d, index) {
+        const image = new Image();
+        image.src = d.iiifthumburl;
+
+        image.onload = function() {
+          const swatch = colorThief.getColor(image);
+          const hexColor = `rgb(${swatch[0]}, ${swatch[1]}, ${swatch[2]})`;
+
+          if (selectedSwatches.size < swatchesToSelect) {
+            // Add the hex color to the selectedSwatches set
+            selectedSwatches.add(hexColor);
+
+            // Display the selected swatch
+            const swatchDiv = document.createElement("div");
+            swatchDiv.className = 'swatch';
+            swatchDiv.style.backgroundColor = hexColor;
+            document.querySelector('#selected_swatches').appendChild(swatchDiv);
+          }
+
+          if (selectedSwatches.size === swatchesToSelect) {
+            // All 5 swatches have been selected, display images matching with those swatches
+            if (selectedSwatches.has(hexColor)) {
+              // Display the image with a matching swatch
+              const img = document.createElement("img");
+              img.src = d.iiifthumburl;
+              document.querySelector('.selected-images').appendChild(img);
+            }
+          }
+        };
+      });
+    });
+  </script>
+</body>
+</html>

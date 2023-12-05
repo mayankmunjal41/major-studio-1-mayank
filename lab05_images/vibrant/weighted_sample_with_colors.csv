@@ -1,0 +1,1001 @@
+beginyear,medium,imageurl,colors,hex_color
+1480,print,"https://api.nga.gov/iiif/52160af2-2740-45e3-8943-db47be28f26b/full/!200,200/0/default.jpg",[ 52  98 159 120 167 203 145 192 224 210 237 249  72 123 185],#34629f
+1470,sculpture,"https://api.nga.gov/iiif/96c49c5c-3ebb-46f0-a979-45f7ad063340/full/!200,200/0/default.jpg",[  0   1   2 121 152 177  30  56  80  18  33  47  71  96 117],#000102
+1475,sculpture,"https://api.nga.gov/iiif/8b98d5e5-81ce-4ba8-bba6-58dd025d79b6/full/!200,200/0/default.jpg",[126 142 158 175 189 197   1   1   1  39  62  95  58  84 118],#7e8e9e
+1470,print,"https://api.nga.gov/iiif/513ddfd6-dddc-49c1-b844-9753691bb441/full/!200,200/0/default.jpg",[110 130 147 135 158 176 161 186 204  79  95 109 184 209 227],#6e8293
+1450,sculpture,"https://api.nga.gov/iiif/a4330c6b-a872-4dda-9549-1fdbbdbbda21/full/!200,200/0/default.jpg",[115 128 145  82  95 112  56  71  90   4   3   2  37  53  74],#738091
+1485,print,"https://api.nga.gov/iiif/53e0b6e7-e019-4aa4-ae3a-61108ebda2a6/full/!200,200/0/default.jpg",[111 121 129  46  54  62  80  89  98 187 202 213 147 157 165],#6f7981
+1470,print,"https://api.nga.gov/iiif/cf84131f-a128-4b24-acfc-ed175f5bf853/full/!200,200/0/default.jpg",[ 71  97 118 177 216 240 130 164 189 154 192 218 101 132 156],#476176
+1480,print,"https://api.nga.gov/iiif/ebcd2bd5-010c-4d69-8dd7-3e7bd29a2655/full/!200,200/0/default.jpg",[ 76 105 157 183 206 217  62  85 122  39  56  83 107 135 174],#4c699d
+1475,sculpture,"https://api.nga.gov/iiif/ba21b9cc-17da-4ead-b765-816331d82e58/full/!200,200/0/default.jpg",[ 54  77 100  26  44  61   1   0   1  37  59  79 109 138 148],#364d64
+1470,print,"https://api.nga.gov/iiif/cf84131f-a128-4b24-acfc-ed175f5bf853/full/!200,200/0/default.jpg",[ 71  97 118 177 216 240 130 164 189 154 192 218 101 132 156],#476176
+1450,sculpture,"https://api.nga.gov/iiif/27eeabd7-b7cc-43e0-ad99-0afce3b3ba53/full/!200,200/0/default.jpg",[  0   0   0  88 116 134  26  41  58  36  54  76  50  68  93],#000000
+1400,sculpture,"https://api.nga.gov/iiif/06070b90-905a-4555-95f8-c86f4e80c111/full/!200,200/0/default.jpg",[ 26  37  46  61  83 100   1   2   1  40  58  73 109 129 146],#1a252e
+1480,print,"https://api.nga.gov/iiif/5e920ebe-6908-4ca8-96e0-36baf7ccee03/full/!200,200/0/default.jpg",[ 58  97 220 194 229 248 109 150 185 144 193 235  73 106 135],#3a61dc
+1480,print,"https://api.nga.gov/iiif/14ba07af-9e2a-4e98-bc1d-df9db3607f5b/full/!200,200/0/default.jpg",[124 143 157 155 177 192 182 207 222  89 106 120 195 219 233],#7c8f9d
+1475,sculpture,"https://api.nga.gov/iiif/036b9c3c-d65e-429b-81ae-327a02329c0b/full/!200,200/0/default.jpg",[ 79  87  86   1   1   2  60  66  66  97 107 103 117 130 125],#4f5756
+1480,sculpture,"https://api.nga.gov/iiif/b4044623-033b-499b-9b9f-4079d5a07e35/full/!200,200/0/default.jpg",[ 51  88 122 143 183 207  72 119 161   0   0   1 101 147 182],#33587a
+1480,print,"https://api.nga.gov/iiif/773b8c69-0e25-493d-8ebb-745a30250abb/full/!200,200/0/default.jpg",[ 56 104 199 134 171 207  99 133 160 181 220 243  57  87 116],#3868c7
+1480,print,"https://api.nga.gov/iiif/ac668ca7-2cea-4c9f-82b2-d72c0847e535/full/!200,200/0/default.jpg",[ 70  92 116 131 168 199 176 216 240  49  66  88  97 125 153],#465c74
+1400,drawing,"https://api.nga.gov/iiif/98ff3282-f5d7-4e6f-a7ff-7980779e5fbf/full/!200,200/0/default.jpg",[143 167 194  78  99 121 114 136 159 203 225 239 161 189 214],#8fa7c2
+1470,print,"https://api.nga.gov/iiif/ee04fbc5-37a5-42bf-b9d8-88fc18a1462b/full/!200,200/0/default.jpg",[207 230 241  63  75  87 155 183 202 126 149 165  95 112 127],#cfe6f1
+1465,print,"https://api.nga.gov/iiif/a6273cf2-ce18-4367-958d-e1b3b0d45360/full/!200,200/0/default.jpg",[105 124 136 160 181 195 187 208 219 125 144 158 143 163 178],#697c88
+1450,sculpture,"https://api.nga.gov/iiif/256288b5-1da3-4bb7-9ebe-b4b0fccfd42a/full/!200,200/0/default.jpg",[  0   0   0  50  70 101  83 101 128 131 151 175  34  50  76],#000000
+1475,sculpture,"https://api.nga.gov/iiif/e32a713d-4a51-46ee-9a70-23b955315d97/full/!200,200/0/default.jpg",[106 132 162  71  96 127   0   0   1  24  47  74  44  68 100],#6a84a2
+1480,sculpture,"https://api.nga.gov/iiif/b4044623-033b-499b-9b9f-4079d5a07e35/full/!200,200/0/default.jpg",[ 51  88 122 143 183 207  72 119 161   0   0   1 101 147 182],#33587a
+1480,decorative art,"https://api.nga.gov/iiif/a7228d10-8211-4da5-987d-1c8e55383c3b/full/!200,200/0/default.jpg",[ 65 106 131 152 153 149  58  62  46 118 115  83 210 211 189],#416a83
+1450,print,"https://api.nga.gov/iiif/add7427c-4669-448f-b906-195d6cc988fb/full/!200,200/0/default.jpg",[137 158 172  65  77  90 100 116 130 177 202 218 213 235 246],#899eac
+1475,sculpture,"https://api.nga.gov/iiif/61976ad0-f15a-4aec-bcda-c8475f7cfd8a/full/!200,200/0/default.jpg",[ 11  11  11  65  77  88  89 102 116 121 138 154  42  50  58],#0b0b0b
+1470,print,"https://api.nga.gov/iiif/3efab3ee-55af-47a6-a8ce-7a8b727c0e7a/full/!200,200/0/default.jpg",[202 232 244  55  74  91  84 110 131 145 181 204 113 145 168],#cae8f4
+1475,sculpture,"https://api.nga.gov/iiif/18607639-c6f9-4661-9c76-df3bb9056d7d/full/!200,200/0/default.jpg",[ 36  78 126 112 150 182   1   1   2  45 100 158  28  60  98],#244e7e
+1400,sculpture,"https://api.nga.gov/iiif/1f0a85b3-9223-4555-ac3e-53f0680099ec/full/!200,200/0/default.jpg",[ 61  74  87   1   1   1  41  52  64  81  96 109 136 151 150],#3d4a57
+1475,sculpture,"https://api.nga.gov/iiif/2311d0de-d9ed-44f1-b5f5-c836fc7c1997/full/!200,200/0/default.jpg",[ 58  79 104  37  52  68 149 169 184  44  64  87   1   1   1],#3a4f68
+1475,sculpture,"https://api.nga.gov/iiif/356e7f55-795d-47d8-8fbe-40bbd2fb1e97/full/!200,200/0/default.jpg",[109 143 171   1   1   2  34  60  82  71 104 133  50  80 107],#6d8fab
+1470,sculpture,"https://api.nga.gov/iiif/807c1c2a-2f5b-4339-913b-f7123e952b23/full/!200,200/0/default.jpg",[ 35  66  94  46  78 106 126 147 166   1   1   1  74 100 121],#23425e
+1465,print,"https://api.nga.gov/iiif/2ddc6d93-6c41-4bb6-ae2e-10c3bc7e9d9d/full/!200,200/0/default.jpg",[188 213 225 155 180 196 102 124 139 122 144 160 140 163 180],#bcd5e1
+1490,print,"https://api.nga.gov/iiif/3b647a72-78d2-4212-bbec-4a4598e0d142/full/!200,200/0/default.jpg",[192 224 241 112 138 155 138 166 183  75  97 113 164 193 211],#c0e0f1
+1470,print,"https://api.nga.gov/iiif/03cbcd2c-926f-4f49-863a-b817c840c38f/full/!200,200/0/default.jpg",[127 157 169 168 195 207  95 128 140  72 101 110  56  79  86],#7f9da9
+1496,print,"https://api.nga.gov/iiif/2bc7e7c8-c74a-4ab0-870b-374f65c8f5a4/full/!200,200/0/default.jpg",[ 99 113 126 126 142 155 157 174 188 196 214 229  73  86  98],#63717e
+1480,print,"https://api.nga.gov/iiif/c6a9ad57-48b7-44ac-9291-e134505406ef/full/!200,200/0/default.jpg",[172 185 194  63  72  80 120 132 140 152 164 173  91 100 109],#acb9c2
+1480,print,"https://api.nga.gov/iiif/3d4b6913-ecfb-44fe-9065-3cf140321ee6/full/!200,200/0/default.jpg",[195 236 248  70 117 193  71  87 100 114 143 153 152 189 211],#c3ecf8
+1480,print,"https://api.nga.gov/iiif/a602e0c4-45f0-4a95-9a46-6db7299a04b5/full/!200,200/0/default.jpg",[190 209 220  51  57  64 151 166 178 120 133 143  81  90  99],#bed1dc
+1470,print,"https://api.nga.gov/iiif/d3ffa2f4-d4b3-4a0f-98bd-693959b915c6/full/!200,200/0/default.jpg",[115 169 203 144 193 226  55  85 145  78 130 121  90 137 168],#73a9cb
+1480,print,"https://api.nga.gov/iiif/ceff9b46-1de1-4a52-9a2e-e60480bbaa3e/full/!200,200/0/default.jpg",[182 201 214 115 130 142 214 235 247 148 165 177  80  93 104],#b6c9d6
+1475,sculpture,"https://api.nga.gov/iiif/e5204120-4862-42e3-8d2d-35904bab2551/full/!200,200/0/default.jpg",[ 15  38  61  54  83 107  78 108 136  33  59  86   0   0   1],#0f263d
+1480,print,"https://api.nga.gov/iiif/8f6129ff-4993-4305-8aa9-36ed09b29840/full/!200,200/0/default.jpg",[213 240 251  62  81 110  76 107 148 147 189 217 101 140 179],#d5f0fb
+1450,print,"https://api.nga.gov/iiif/b5c5cf58-ad62-43bc-91bf-9a6f64b490af/full/!200,200/0/default.jpg",[ 53  82  93  37  50  62  43  65  76  85 116 125  30  39  49],#35525d
+1450,sculpture,"https://api.nga.gov/iiif/36473e61-f76f-41ba-b2e6-c89973caf6fa/full/!200,200/0/default.jpg",[124 140 154  50  67  81   6   4   5  32  45  55  82  97 111],#7c8c9a
+1480,print,"https://api.nga.gov/iiif/711012e8-36a8-4b3c-b912-39b4cbe3c89f/full/!200,200/0/default.jpg",[154 172 180  76  91  99 176 198 208 129 146 154 104 120 128],#9aacb4
+1480,print,"https://api.nga.gov/iiif/c32dec97-8524-466e-9175-15d6e3e4855c/full/!200,200/0/default.jpg",[102 126 143 137 165 183  65  83  97 188 219 238 165 197 217],#667e8f
+1480,print,"https://api.nga.gov/iiif/52160af2-2740-45e3-8943-db47be28f26b/full/!200,200/0/default.jpg",[ 52  98 159 120 167 203 145 192 224 210 237 249  72 123 185],#34629f
+1470,sculpture,"https://api.nga.gov/iiif/0c0cbe70-ba1c-427c-bccb-0a5dbf8561bf/full/!200,200/0/default.jpg",[  2   1   1  72  92 117 117 141 169  29  43  64  44  61  86],#020101
+1480,print,"https://api.nga.gov/iiif/24d7d34a-cb52-41c1-856a-8a721ca34e6b/full/!200,200/0/default.jpg",[ 66  84 102 128 152 173 178 209 229 101 123 142 152 179 202],#425466
+1400,sculpture,"https://api.nga.gov/iiif/fb3bb4d7-a62f-467d-b91c-4d65ddca2548/full/!200,200/0/default.jpg",[ 42  61  83  28  42  60   0   0   1  71  89 105 121 141 153],#2a3d53
+1465,sculpture,"https://api.nga.gov/iiif/bdf69215-64ca-47a9-8b2c-a91e76009bf1/full/!200,200/0/default.jpg",[ 39  57  82  91 112 138  59  80 107   0   0   1 135 157 182],#273952
+1475,sculpture,"https://api.nga.gov/iiif/166f5600-9962-4ffd-b227-56f416276c47/full/!200,200/0/default.jpg",[ 41  58  67  32  46  52  72  94 103   1   1   1  57  72  76],#293a43
+1400,sculpture,"https://api.nga.gov/iiif/eef8800d-bf31-493d-9d36-4286475939c7/full/!200,200/0/default.jpg",[116 125 140  88  94 106  11  12  12  63  67  76  44  42  45],#747d8c
+1450,sculpture,"https://api.nga.gov/iiif/b55d89a7-1459-47b6-a886-ff13ae3dda5a/full/!200,200/0/default.jpg",[ 54  57  60 166 167 167 137 137 138 195 196 196 221 221 222],#36393c
+1470,drawing,"https://api.nga.gov/iiif/942425d5-018d-44a9-ba87-dfb0057226b7/full/!200,200/0/default.jpg",[177 194 207 211 221 232 225 243 252 199 211 223 220 228 239],#b1c2cf
+1480,print,"https://api.nga.gov/iiif/47bcd7e5-81e5-41b6-a0d0-37e84dd19491/full/!200,200/0/default.jpg",[194 225 233 102 155 207 157 118  20  74  90  96 178 181 146],#c2e1e9
+1450,sculpture,"https://api.nga.gov/iiif/1e277811-9073-4836-b9c6-fc35165ec4aa/full/!200,200/0/default.jpg",[ 61  64  63 101 106 105 129 131 130  81  85  84 213 213 213],#3d403f
+1475,sculpture,"https://api.nga.gov/iiif/4fe27dc9-e4c8-4b91-9196-e97b5b207c01/full/!200,200/0/default.jpg",[ 57  66  79 134 144 158   4   3   3  30  37  49  91 101 113],#39424f
+1450,sculpture,"https://api.nga.gov/iiif/74577e5f-0894-4966-b574-73a5314411f3/full/!200,200/0/default.jpg",[ 56 112 164   1   2   1 105 139 168  49  95 142  41  78 117],#3870a4
+1450,painting,"https://api.nga.gov/iiif/a21cc457-7ddf-4c4d-9934-8039bc919864/full/!200,200/0/default.jpg",[154 170 169  42  40 106  80  89 157  53  55  27 120 116  65],#9aaaa9
+1400,sculpture,"https://api.nga.gov/iiif/2d771805-355a-415f-bbe1-de2975d5cc3d/full/!200,200/0/default.jpg",[133 145 162  95 107 124  49  59  71   0   0   0  68  79  94],#8591a2
+1475,sculpture,"https://api.nga.gov/iiif/b56d1857-13d0-4022-a985-c7cdfd91f365/full/!200,200/0/default.jpg",[ 62  82  96  28  41  50  44  60  72   1   1   2  93 113 128],#3e5260
+1480,print,"https://api.nga.gov/iiif/59782f5f-3f30-45c7-bf9e-e25b62ae51ec/full/!200,200/0/default.jpg",[129 141 112 177 216 237 123 177 206  82 123 182  62  86 118],#818d70
+1470,sculpture,"https://api.nga.gov/iiif/a6f20d0f-6223-46fd-8df0-01945a503852/full/!200,200/0/default.jpg",[ 73  87  99  51  62  71 107 122 137 152 165 180   1   1   1],#495763
+1473,sculpture,"https://api.nga.gov/iiif/92e5f846-2dbf-4e56-b389-d66eb882f94e/full/!200,200/0/default.jpg",[ 54  63  74 129 137 150   1   0   1  71  79  89  97 105 116],#363f4a
+1400,sculpture,"https://api.nga.gov/iiif/21456ee0-c741-49a4-95ab-fada3bdcd18e/full/!200,200/0/default.jpg",[ 24  38  50   1   1   2  86 104 120  60  77  91  41  57  71],#182632
+1475,sculpture,"https://api.nga.gov/iiif/cb91f4d0-5854-4a73-8b5c-3fd78ae63320/full/!200,200/0/default.jpg",[110 126 143  81  97 114   2   2   2  45  55  60  61  74  84],#6e7e8f
+1425,sculpture,"https://api.nga.gov/iiif/f491ed46-842d-418b-ae90-b7b542d24199/full/!200,200/0/default.jpg",[ 78  90 107 129 138 153  48  63  82  33  46  61   1   2   1],#4e5a6b
+1480,print,"https://api.nga.gov/iiif/8a793092-407b-44a5-b92b-bdd11b37b0a8/full/!200,200/0/default.jpg",[ 52  74  90 140 175 195 186 218 233  81 110 125 109 143 158],#344a5a
+1470,print,"https://api.nga.gov/iiif/d28fb04f-612d-4de6-ac96-53e317d1e9c3/full/!200,200/0/default.jpg",[ 58  91 115 113 156 178 195 226 239 142 191 213  87 125 147],#3a5b73
+1480,print,"https://api.nga.gov/iiif/a52235d6-18eb-4ab1-8145-630d1dee18ef/full/!200,200/0/default.jpg",[166 205 231 120 152 175  75  96 114 143 179 204  99 126 147],#a6cde7
+1460,print,"https://api.nga.gov/iiif/d4f8c154-903b-4ffd-9642-c529bdc7e12a/full/!200,200/0/default.jpg",[ 53  83 106  79 114 137 134 182 203 188 221 236 103 145 167],#35536a
+1450,sculpture,"https://api.nga.gov/iiif/d0a7b9b0-b6cc-4706-bdeb-4d79ae5c1e41/full/!200,200/0/default.jpg",[182 182 182 144 144 145  42  46  50 215 215 215 109 110 111],#b6b6b6
+1470,sculpture,"https://api.nga.gov/iiif/b7e69dc0-8f18-432c-988f-2137ae64496d/full/!200,200/0/default.jpg",[  1   1   1  76 105 143  56  81 110  29  50  76  39  63  93],#010101
+1475,sculpture,"https://api.nga.gov/iiif/05251221-31d8-4c7f-920d-d9c7b76888db/full/!200,200/0/default.jpg",[ 61  77  91  41  56  71   1   1   2  92 110 122  27  40  53],#3d4d5b
+1400,sculpture,"https://api.nga.gov/iiif/0e9d3710-91bb-4542-8921-c9b1a5875188/full/!200,200/0/default.jpg",[114 119 122 206 210 212 143 148 151  82  91  98 175 180 183],#72777a
+1400,painting,"https://api.nga.gov/iiif/c9c0f26e-a559-43ab-b517-0384e347ade8/full/!200,200/0/default.jpg",[100 161 205  67 133 186  45  65  68  41  82 155  91 117 128],#64a1cd
+1480,print,"https://api.nga.gov/iiif/3870affc-5071-447f-86a3-89b7f0612ab3/full/!200,200/0/default.jpg",[117 134 148  98 115 129 135 154 168 186 205 213 156 175 190],#758694
+1480,print,"https://api.nga.gov/iiif/03c90d44-5e05-4eea-bf1b-0355615eeee3/full/!200,200/0/default.jpg",[ 66  76  86 129 149 165  83  95 105 104 119 132 197 216 224],#424c56
+1490,print,"https://api.nga.gov/iiif/979d294f-f9c1-4e83-95c1-9530d0e7aa6c/full/!200,200/0/default.jpg",[ 76  90 106 154 178 196 100 118 134 185 211 229 126 147 164],#4c5a6a
+1475,sculpture,"https://api.nga.gov/iiif/da9df55d-4d52-4085-8754-6f17f3aceede/full/!200,200/0/default.jpg",[ 11  12  12  84  91 101  45  47  52  64  68  75 111 130 145],#0b0c0c
+1475,sculpture,"https://api.nga.gov/iiif/12d96f49-affe-43a1-8557-9e1c2879320f/full/!200,200/0/default.jpg",[  1   1   1  99 120 140  64  87 107 145 164 183  46  67  85],#010101
+1470,painting,"https://api.nga.gov/iiif/8788f9a6-142d-40b7-953b-a9a208ff2eef/full/!200,200/0/default.jpg",[ 37  66  84  89  68  36  71 107 138 143 129 109 180 193 198],#254254
+1450,print,"https://api.nga.gov/iiif/bd581c62-3aba-4782-b4e5-681a27a9566f/full/!200,200/0/default.jpg",[ 51  65  79 149 182 205  81 101 118 208 231 244 108 138 162],#33414f
+1480,print,"https://api.nga.gov/iiif/3a8f7172-eaa6-45fc-bf6e-7a468e33cd72/full/!200,200/0/default.jpg",[ 60  73  84 119 138 152 138 160 176  89 105 117 177 197 211],#3c4954
+1460,print,"https://api.nga.gov/iiif/354c5e12-9354-42b6-961f-093bdfbb4ada/full/!200,200/0/default.jpg",[ 80 110 132 139 175 196  54  80 102 108 142 163 181 215 232],#506e84
+1450,print,"https://api.nga.gov/iiif/76f982fd-22cb-4fdd-a8e6-4b148cf4ff67/full/!200,200/0/default.jpg",[ 87 115 139  51  75  98 123 153 177 159 193 214 192 222 237],#57738b
+1475,sculpture,"https://api.nga.gov/iiif/936fe45e-0035-44bc-a01e-35b590727371/full/!200,200/0/default.jpg",[ 38  42  41 114 120 117  76  82  78 195 195 194 177 177 177],#262a29
+1490,drawing,"https://api.nga.gov/iiif/176ba39d-b0e3-4a8f-8e96-23dc3a9f4afb/full/!200,200/0/default.jpg",[134 177 208  86 128 166 106 149 185 146 202 227 122 164 197],#86b1d0
+1475,print,"https://api.nga.gov/iiif/3313c985-b93e-4ad4-9c5e-58bc1b9e1c23/full/!200,200/0/default.jpg",[130 145 157 190 209 219  99 111 123 160 176 189  73  82  92],#82919d
+1475,print,"https://api.nga.gov/iiif/8bcd5195-fbc6-4a44-9f8d-28ba059e52da/full/!200,200/0/default.jpg",[188 219 236 109 137 139  71  90 168 158 181 190  53  73  90],#bcdbec
+1400,print,"https://api.nga.gov/iiif/2fb6fc58-ec60-46a5-8c39-f817e9c2058b/full/!200,200/0/default.jpg",[140 165 185 107 129 147  69  89 106 163 192 213 178 209 230],#8ca5b9
+1450,sculpture,"https://api.nga.gov/iiif/98f263d0-27af-400a-9cd1-cc09191bcef9/full/!200,200/0/default.jpg",[ 62  86 114  39  56  78   0   0   0  97 128 160  19  29  42],#3e5672
+1490,drawing,"https://api.nga.gov/iiif/4e51caba-e7ca-4096-842d-cbea09538da5/full/!200,200/0/default.jpg",[220 243 250 183 213 231 132 169 199 161 194 218 101 139 174],#dcf3fa
+1400,sculpture,"https://api.nga.gov/iiif/bec571b2-3646-44ed-ae9d-e34efd99c3f0/full/!200,200/0/default.jpg",[ 49  81 131   0   0   1  73 106 151  36  62 105 111 144 184],#315183
+1480,print,"https://api.nga.gov/iiif/276893af-872c-4fc3-9ccd-f9749cbe7d5e/full/!200,200/0/default.jpg",[166 198 219  96 113 128 134 157 176  60  70  82 206 237 250],#a6c6db
+1490,print,"https://api.nga.gov/iiif/1398e4b0-2ecd-4da7-bc07-e7c67969b374/full/!200,200/0/default.jpg",[ 54  81 104 102 133 167 167 204 230  81 107 139 127 165 193],#365168
+1490,print,"https://api.nga.gov/iiif/3c4b7adc-cdf7-4c2b-8d77-609bcbce454f/full/!200,200/0/default.jpg",[188 215 229 132 154 170  84  96 108 159 184 201 106 123 137],#bcd7e5
+1450,drawing,"https://api.nga.gov/iiif/6006bbfb-c973-4d3e-80df-3324ecbacb2d/full/!200,200/0/default.jpg",[ 93 112 139 161 197 223 128 168 199 209 231 241  65  78  91],#5d708b
+1480,print,"https://api.nga.gov/iiif/9f73cbb3-8c3d-42a5-b534-be44aa29d810/full/!200,200/0/default.jpg",[198 220 234 133 151 165  76  89 101 107 123 136 160 179 194],#c6dcea
+1480,decorative art,"https://api.nga.gov/iiif/af553f55-32f3-47df-8df3-b996c4b560bc/full/!200,200/0/default.jpg",[212 213 213 111 117 112 167 169 169  66  68  58 191 192 191],#d4d5d5
+1480,sculpture,"https://api.nga.gov/iiif/35b8c046-f482-4d46-a5b9-1072a0224338/full/!200,200/0/default.jpg",[121 134 150   1   1   2  58  71  86  35  46  59  83  97 114],#798696
+1480,sculpture,"https://api.nga.gov/iiif/e61f4c6f-2554-444a-b293-2ee2a59b17e6/full/!200,200/0/default.jpg",[ 60  72  84  38  48  59  23  30  41   2   1   0  97 108 122],#3c4854
+1460,print,"https://api.nga.gov/iiif/e68140e3-2cd0-4baa-b95a-51153e932a62/full/!200,200/0/default.jpg",[112 156 183 185 223 244 158 204 235  79 115 133  68  96 188],#709cb7
+1400,sculpture,"https://api.nga.gov/iiif/e94ba103-02a9-4a59-bcc9-1a185261970c/full/!200,200/0/default.jpg",[ 71 144 191  35  84 122  52 109 152   0   1   2 159 199 220],#4790bf
+1480,print,"https://api.nga.gov/iiif/09f2ad5c-35b2-4024-9b77-08e178bb8a93/full/!200,200/0/default.jpg",[ 72 111 156  93 122  95 165 205 229  54  66  74 115 159 185],#486f9c
+1480,print,"https://api.nga.gov/iiif/9e2c6416-6c06-4774-87c7-4b29ec5d4fc1/full/!200,200/0/default.jpg",[195 223 239 110 131 147 141 165 181  76  92 107 172 198 215],#c3dfef
+1498,sculpture,"https://api.nga.gov/iiif/ffd9b608-2d8d-4851-90f8-e05675ba9d3b/full/!200,200/0/default.jpg",[ 75  86  93  51  61  68   0   0   0 108 120 128 149 161 169],#4b565d
+1475,sculpture,"https://api.nga.gov/iiif/48a9725e-7408-4d67-b58e-d91e0f050269/full/!200,200/0/default.jpg",[ 81 100 115 117 136 153  35  49  61  57  74  89   1   1   1],#516473
+1475,sculpture,"https://api.nga.gov/iiif/e4f32e9c-c253-4468-892a-ff9e02296632/full/!200,200/0/default.jpg",[  0   0   1  46  67  88  79 100 121 125 145 167  26  40  55],#000001
+1465,print,"https://api.nga.gov/iiif/a6273cf2-ce18-4367-958d-e1b3b0d45360/full/!200,200/0/default.jpg",[105 124 136 160 181 195 187 208 219 125 144 158 143 163 178],#697c88
+1470,sculpture,"https://api.nga.gov/iiif/484e9817-02a0-4f5f-a077-03838179029f/full/!200,200/0/default.jpg",[  0   0   1  82  96 108  57  70  81  33  44  53 122 134 146],#000001
+1480,sculpture,"https://api.nga.gov/iiif/14437ba0-2493-4138-a3b5-21e3f4ff92ef/full/!200,200/0/default.jpg",[  2   2   1  79  84  87  52  58  59  99 104 107  65  71  73],#020201
+1475,sculpture,"https://api.nga.gov/iiif/1c50a037-6741-4126-970d-a54bc8b966ca/full/!200,200/0/default.jpg",[177 178 178 186 186 187 108 116 128  79  86  97  55  61  71],#b1b2b2
+1490,print,"https://api.nga.gov/iiif/e732f037-99ac-4d75-9f6f-08119c535df3/full/!200,200/0/default.jpg",[187 209 219  90 106 119 111 128 142  47  52  59  70  83  95],#bbd1db
+1480,sculpture,"https://api.nga.gov/iiif/65e15a24-59a1-4638-9a24-90adf47e92bc/full/!200,200/0/default.jpg",[ 67 110 157 114 157 194   1   2   2  41  84 137  33  63 101],#436e9d
+1470,sculpture,"https://api.nga.gov/iiif/5c84fe44-d2f4-47d4-ad34-f2374ccc7231/full/!200,200/0/default.jpg",[125 138 151   1   1   1  89 101 111  58  72  80  36  48  55],#7d8a97
+1470,sculpture,"https://api.nga.gov/iiif/c73f61a2-1c0e-4f4b-adb4-d30100120abd/full/!200,200/0/default.jpg",[ 64  80 104  86 101 123  45  61  83   0   0   1 109 125 147],#405068
+1483,print,"https://api.nga.gov/iiif/db515404-2d76-4769-ad4a-3d1a796c57db/full/!200,200/0/default.jpg",[135 172 195 157 197 221 176 218 242 111 147 169  83 117 138],#87acc3
+1480,sculpture,"https://api.nga.gov/iiif/6f341bd4-f86c-4ddd-89a5-2318ac3f726d/full/!200,200/0/default.jpg",[ 68  86 113   1   1   2  46  61  85 153 171 192 105 122 144],#445671
+1472,sculpture,"https://api.nga.gov/iiif/d62e3667-389f-4941-831e-b47e5a637aa7/full/!200,200/0/default.jpg",[ 48  62  70   2   2   1  30  43  49 100 114 125  70  84  93],#303e46
+1400,sculpture,"https://api.nga.gov/iiif/7970ef2c-7796-4413-b028-ac5f6b5d6fd0/full/!200,200/0/default.jpg",[ 45  69  91  31  51  68   6   5   4  67  89 109  97 118 137],#2d455b
+1475,sculpture,"https://api.nga.gov/iiif/e2de56b6-92a0-4a63-a473-92dde6a230f9/full/!200,200/0/default.jpg",[ 33  39  45  53  61  67   1   1   1  86  93 100 129 136 144],#21272d
+1475,sculpture,"https://api.nga.gov/iiif/7261298d-5aaa-4f09-9f45-0523575913b5/full/!200,200/0/default.jpg",[ 55  77 101   0   0   0  84 108 134  32  52  72 122 150 176],#374d65
+1450,sculpture,"https://api.nga.gov/iiif/f91b038c-639e-4d7f-972d-abe6c704c901/full/!200,200/0/default.jpg",[ 26  39  54  99 116 133  65  81  96  42  57  72   0   0   1],#1a2736
+1480,print,"https://api.nga.gov/iiif/30d24b57-6d16-483e-9892-05626a331698/full/!200,200/0/default.jpg",[142 159 172 120 136 149 165 185 198 184 206 219  97 114 126],#8e9fac
+1480,print,"https://api.nga.gov/iiif/5ac21471-2b2c-40fb-b1ac-277e9a97e9db/full/!200,200/0/default.jpg",[143 170 187 169 198 217 111 134 151 190 218 235  76  94 110],#8faabb
+1490,print,"https://api.nga.gov/iiif/326aebcb-72f0-4625-bc57-b30f713f4883/full/!200,200/0/default.jpg",[149 162 172  49  56  63 110 121 130 193 213 221  78  87  96],#95a2ac
+1480,print,"https://api.nga.gov/iiif/c3edc6a7-c148-48a5-a7e6-3ef7637fc3a6/full/!200,200/0/default.jpg",[ 54 100 134  94 146 174 170 211 238 121 181 215 104 145  95],#366486
+1475,sculpture,"https://api.nga.gov/iiif/40daccce-e608-438e-96f1-4a3adbc0d0d9/full/!200,200/0/default.jpg",[ 40  54  71   2   2   3 153 168 184 109 122 139  70  84 101],#283647
+1470,print,"https://api.nga.gov/iiif/8ddbae1e-c8e6-4a38-81ca-5abe0333e3ef/full/!200,200/0/default.jpg",[ 85 121 139 177 211 233 141 181 207  55  85 106 113 149 172],#55798b
+1480,print,"https://api.nga.gov/iiif/42b6ddc4-77cb-4e35-a1a2-4d588184317a/full/!200,200/0/default.jpg",[116 140 156  90 110 126 167 196 215  63  79  92 142 168 186],#748c9c
+1400,painting,"https://api.nga.gov/iiif/2fb43ee0-b4bb-4fea-9868-f265225b18c4/full/!200,200/0/default.jpg",[ 43  90 159  92  61  27  29  54  84 163 200 226  87 158 203],#2b5a9f
+1480,print,"https://api.nga.gov/iiif/a722ae39-af79-4bca-9d61-fa9041c81d8e/full/!200,200/0/default.jpg",[119 140 156 185 214 230  60  71  83  89 105 119 154 180 197],#778c9c
+1480,sculpture,"https://api.nga.gov/iiif/c2c48250-18c9-4a9a-babc-798c8c34dae9/full/!200,200/0/default.jpg",[ 96 119 151  51  75 113 147 170 199   0   0   1  27  49  83],#607797
+1475,sculpture,"https://api.nga.gov/iiif/c9559935-7c1c-44cc-b16c-2eab6dee09f4/full/!200,200/0/default.jpg",[166 169 173 200 201 206 224 225 230 116 134 152  70  91 113],#a6a9ad
+1480,sculpture,"https://api.nga.gov/iiif/74d448ad-a0c5-4691-8631-0f017489f003/full/!200,200/0/default.jpg",[ 49  61  66  26  35  38   0   0   1  74  87  95 110 122 131],#313d42
+1475,sculpture,"https://api.nga.gov/iiif/8d4420eb-9757-43c5-b021-68ae76288667/full/!200,200/0/default.jpg",[116 135 152 169 186 200  61  78  93 145 162 177 105 123 139],#748798
+1470,print,"https://api.nga.gov/iiif/e1640271-22bb-4470-a971-9a078a89146a/full/!200,200/0/default.jpg",[215 243 251 125 148 166 157 186 205  65  75  88  92 109 124],#d7f3fb
+1480,print,"https://api.nga.gov/iiif/2b3ea273-756c-4998-b2d4-2fafe3614fe8/full/!200,200/0/default.jpg",[177 207 224  53  75  95 108 134 155  69  93 115  86 112 134],#b1cfe0
+1490,print,"https://api.nga.gov/iiif/a9e7a795-23b9-4f14-bf07-2209e8bd1b83/full/!200,200/0/default.jpg",[ 29  52  77  79 106 134 120 145 170 221 223 227 186 190 197],#1d344d
+1475,painting,"https://api.nga.gov/iiif/f0155917-ea57-444f-b3ed-d798b9dd942d/full/!200,200/0/default.jpg",[160 183 204  78 116 155 151 150 132  71  58  35  32  49  98],#a0b7cc
+1480,print,"https://api.nga.gov/iiif/8f7541d3-ce43-44b4-a1c9-fc5bacc49bcb/full/!200,200/0/default.jpg",[182 211 226  66  78  90 143 162 179 120 137 153  95 110 124],#b6d3e2
+1480,painting,"https://api.nga.gov/iiif/2f431fe3-d517-47af-9d01-de6fbce488b0/full/!200,200/0/default.jpg",[ 31  58 106 144 174 210  87 115 154  44  74 160  25  30  34],#1f3a6a
+1475,sculpture,"https://api.nga.gov/iiif/6db673df-c004-4588-9594-4b92d0fb6eda/full/!200,200/0/default.jpg",[ 48  71 108  68  94 128  38  58  91  27  44  73   0   0   1],#30476c
+1475,print,"https://api.nga.gov/iiif/08bf2409-44c8-4ed8-9e91-835c61b04df6/full/!200,200/0/default.jpg",[136 161 182  41  53  65  67  85 101  99 121 144 178 203 219],#88a1b6
+1490,print,"https://api.nga.gov/iiif/ef92e0ff-17ed-4c33-9fc4-ede779347a35/full/!200,200/0/default.jpg",[ 95 131 158 134 175 203  63  90 106 109 116  69 193 228 242],#5f839e
+1470,print,"https://api.nga.gov/iiif/d32e15ad-5bb5-439a-88de-a9dd41641a2d/full/!200,200/0/default.jpg",[157 180 196 129 149 164  78  91 104 103 120 134 190 216 231],#9db4c4
+1475,sculpture,"https://api.nga.gov/iiif/fb1273b8-c2b0-4340-aab7-8fe1cc135db9/full/!200,200/0/default.jpg",[124 147 171  91 113 133   4   4   3  54  74  98  69  91 116],#7c93ab
+1475,sculpture,"https://api.nga.gov/iiif/34b0d3fa-38b3-4e4d-a081-ab572c53b322/full/!200,200/0/default.jpg",[ 50  51  54  12  12  12 132 153 165  97 105 112  72  76  80],#323336
+1480,print,"https://api.nga.gov/iiif/78a58328-8745-46eb-8a97-23c935d78bab/full/!200,200/0/default.jpg",[138 179 207 209 239 249  88 116 138  61  82 100 114 149 174],#8ab3cf
+1480,print,"https://api.nga.gov/iiif/a6448dc9-2f8d-42d4-bf84-8d3087a2e05c/full/!200,200/0/default.jpg",[ 93 115 133 209 235 249 124 148 167 150 176 196 178 206 225],#5d7385
+1475,print,"https://api.nga.gov/iiif/1aaee26a-b56f-42ae-a53b-4836187f9f3c/full/!200,200/0/default.jpg",[ 66  96 133  43  63  94 127 166 201 211 241 247  88 122 172],#426085
+1400,sculpture,"https://api.nga.gov/iiif/7970ef2c-7796-4413-b028-ac5f6b5d6fd0/full/!200,200/0/default.jpg",[ 45  69  91  31  51  68   6   5   4  67  89 109  97 118 137],#2d455b
+1470,sculpture,"https://api.nga.gov/iiif/0be5a4fa-e717-4ba4-a8ef-ddabbc7b62d5/full/!200,200/0/default.jpg",[ 3  2  2 29 36 42 55 64 72 41 49 55 79 89 98],#030202
+1450,print,"https://api.nga.gov/iiif/a5ea518a-9656-4338-bfb8-90c2b42f9cf2/full/!200,200/0/default.jpg",[190 227 246  64 104 149 117 168 205  97 145 178 141 190 227],#bee3f6
+1470,print,"https://api.nga.gov/iiif/e6da19eb-99d8-442f-8b45-3bbc07f43a6c/full/!200,200/0/default.jpg",[151 178 199  90 107 123 222 244 249 117 139 156  63  77  91],#97b2c7
+1467,sculpture,"https://api.nga.gov/iiif/814b4273-7585-4f82-913c-9491cb0884af/full/!200,200/0/default.jpg",[  4   3   2  76  88  99 114 128 142  27  33  39  51  61  70],#040302
+1480,print,"https://api.nga.gov/iiif/30f68093-5e11-4d5f-b090-9eb25cd449ff/full/!200,200/0/default.jpg",[164 193 213 126 150 167 212 239 248  92 109 123  62  74  85],#a4c1d5
+1490,print,"https://api.nga.gov/iiif/f93aa8f0-361d-429c-9038-52b7183133ab/full/!200,200/0/default.jpg",[136 169 194  77 102 126  57  76  94 103 133 162 211 239 247],#88a9c2
+1480,print,"https://api.nga.gov/iiif/e2d8ae6e-02b8-4311-a37c-4418f7cdee9a/full/!200,200/0/default.jpg",[161 185 200  62  74  86  92 107 121 194 222 238 125 145 159],#a1b9c8
+1470,print,"https://api.nga.gov/iiif/cfbaf822-ef7f-4411-9fab-19fc3f354d10/full/!200,200/0/default.jpg",[ 48  61  70  73  93 102 103 127 137 135 164 179 171 205 223],#303d46
+1470,print,"https://api.nga.gov/iiif/8a011825-0822-4774-9388-e1eee460a31c/full/!200,200/0/default.jpg",[ 82  92 100 185 201 213 156 170 180 221 240 248 121 133 143],#525c64
+1465,print,"https://api.nga.gov/iiif/2f45b6fa-51b1-4ce6-b126-87eb785e8c6e/full/!200,200/0/default.jpg",[160 184 200 101 120 134 124 144 158 144 166 182 192 215 226],#a0b8c8
+1475,sculpture,"https://api.nga.gov/iiif/86507bd9-7e7b-418d-8973-8c16014eeec7/full/!200,200/0/default.jpg",[112 175 208  72 124 159  43  84 117   0   0   1  19  47  75],#70afd0
+1475,sculpture,"https://api.nga.gov/iiif/759ef368-388b-43e2-8a17-2a332b059cf4/full/!200,200/0/default.jpg",[164 167 169 119 130 138  65  73  79  42  48  52  89  99 105],#a4a7a9
+1475,sculpture,"https://api.nga.gov/iiif/f9c495b9-f187-43f8-bff4-3b4bb9b53f81/full/!200,200/0/default.jpg",[  2   2   2 109 136 158  79 105 128  37  59  81  57  81 105],#020202
+1496,sculpture,"https://api.nga.gov/iiif/2899b7bf-cc16-4d3b-90a3-f92a0514b8c0/full/!200,200/0/default.jpg",[108 126 148   0   0   1 148 165 187  46  65  91  75  94 118],#6c7e94
+1480,print,"https://api.nga.gov/iiif/9332a33e-3a4a-40d6-89eb-59616235cdef/full/!200,200/0/default.jpg",[ 69  80  90 182 204 215 122 143 159  50  57  65  96 111 124],#45505a
+1480,print,"https://api.nga.gov/iiif/b293a8b4-8bfb-4755-9617-3a2b73588f78/full/!200,200/0/default.jpg",[ 59  70  81  85  99 110 176 195 208 148 166 180 110 125 137],#3b4651
+1450,sculpture,"https://api.nga.gov/iiif/f0bb47e9-631a-4202-98a1-b48a8b3d14bf/full/!200,200/0/default.jpg",[ 92 101 106   5   4   3  68  78  82 125 134 140  51  62  68],#5c656a
+1480,sculpture,"https://api.nga.gov/iiif/80ad057a-52e3-48d2-aaf0-6c35b7a647ae/full/!200,200/0/default.jpg",[ 44  77 114   0   0   1  29  53  78  70 113 154 142 177 204],#2c4d72
+1480,print,"https://api.nga.gov/iiif/a3733fab-63fb-4d18-9736-83586dec4307/full/!200,200/0/default.jpg",[ 50  66  97  97 131 147 168 210 236 109 160 210  62  88 150],#324261
+1480,print,"https://api.nga.gov/iiif/ca30940d-0a7b-4f78-b729-390a6b0c849d/full/!200,200/0/default.jpg",[200 226 240 112 133 148 143 166 181 173 198 213  80  97 111],#c8e2f0
+1450,sculpture,"https://api.nga.gov/iiif/a8539655-02ef-4e54-8080-4367842e4aa9/full/!200,200/0/default.jpg",[ 76  79  82 121 122 122 200 202 202 229 229 228  52  53  53],#4c4f52
+1450,sculpture,"https://api.nga.gov/iiif/7988ee71-5719-4df0-b72b-c39105929cb7/full/!200,200/0/default.jpg",[ 69  79  87 100 110 119  47  57  63 139 149 160   5   5   4],#454f57
+1475,print,"https://api.nga.gov/iiif/0c827c9f-073d-42e5-b7be-66954d60fe11/full/!200,200/0/default.jpg",[133 175 202  64  85 119 129 140 114  91 123 174 182 216 234],#85afca
+1475,sculpture,"https://api.nga.gov/iiif/63d4baa7-38d6-4d5f-87f1-1761442eca77/full/!200,200/0/default.jpg",[130 144 157  87  99 109   1   1   1  32  38  43  53  62  69],#82909d
+1450,sculpture,"https://api.nga.gov/iiif/ee85d44f-568f-4266-8411-093858e466b5/full/!200,200/0/default.jpg",[104 121 147 135 153 180  52  68  88  77  95 119   1   2   1],#687993
+1470,sculpture,"https://api.nga.gov/iiif/4b6f01ab-8840-4ef3-b1e1-471823bd486e/full/!200,200/0/default.jpg",[129 138 147  54  63  73 235 233 234  87  97 109 224 225 225],#818a93
+1470,sculpture,"https://api.nga.gov/iiif/07a35482-10bd-4e85-b26c-b3e3ed266e9b/full/!200,200/0/default.jpg",[ 73  76  80 199 199 199  45  47  49 111 113 117 187 187 187],#494c50
+1470,sculpture,"https://api.nga.gov/iiif/56ae87b4-1191-4893-b5b0-6dd6b2d5c0c9/full/!200,200/0/default.jpg",[  0   0   1  69  81  91 136 146 160  50  60  67  98 110 123],#000001
+1470,decorative art,"https://api.nga.gov/iiif/8c0281f3-fbea-4b87-92df-2df01bb78ab2/full/!200,200/0/default.jpg",[113 170 207 204 205 210  56  77 101  74 115 150  87 138 176],#71aacf
+1475,sculpture,"https://api.nga.gov/iiif/3b296455-f4df-4330-bdec-5143040590b5/full/!200,200/0/default.jpg",[ 17  43  75   0   0   1  50  76 103 104 137 165  71  98 126],#112b4b
+1450,decorative art,"https://api.nga.gov/iiif/47ae2132-d7d3-493b-9bb0-66812cf2f979/full/!200,200/0/default.jpg",[149 152 151 179 180 179 200 200 200  89 101 108  44  44  44],#959897
+1470,sculpture,"https://api.nga.gov/iiif/0ea92b2e-3c23-44f0-a672-88e7314802a8/full/!200,200/0/default.jpg",[ 49  49  50 111 112 114  73  73  74 198 198 198 187 188 188],#313132
+1450,sculpture,"https://api.nga.gov/iiif/7ea7a125-caf2-4ebc-b6da-5fde10b66657/full/!200,200/0/default.jpg",[124 136 152  35  49  68   4   3   2  89 102 117  58  72  88],#7c8898
+1480,sculpture,"https://api.nga.gov/iiif/59bd6daf-b3ff-4236-b97d-6c02f1493ebf/full/!200,200/0/default.jpg",[ 48  59  69   1   1   0 103 118 134  72  84  96  28  36  43],#303b45
+1470,sculpture,"https://api.nga.gov/iiif/471c24ec-86e9-417d-953b-b2f96ff50f5d/full/!200,200/0/default.jpg",[ 18  31  51   0   0   1  81  98 119  48  64  82  27  44  66],#121f33
+1480,sculpture,"https://api.nga.gov/iiif/7b345f81-8cf4-4e2e-823b-2401eda6526d/full/!200,200/0/default.jpg",[  0   0   1 106 123 154  42  56  86 154 173 201  66  83 116],#000001
+1475,sculpture,"https://api.nga.gov/iiif/4660ed61-37c2-4267-ab50-c3176272f7b7/full/!200,200/0/default.jpg",[118 137 150  67  73  79  11  12  12  46  49  53  91 102 112],#768996
+1470,print,"https://api.nga.gov/iiif/513ddfd6-dddc-49c1-b844-9753691bb441/full/!200,200/0/default.jpg",[110 130 147 135 158 176 161 186 204  79  95 109 184 209 227],#6e8293
+1480,print,"https://api.nga.gov/iiif/b5c211d1-dd32-4649-a425-04318872e21a/full/!200,200/0/default.jpg",[142 170 190  64  79  92  88 107 123 115 138 155 170 202 222],#8eaabe
+1480,print,"https://api.nga.gov/iiif/17c246e8-8c4c-4ca1-b7ca-4ec73e2941c7/full/!200,200/0/default.jpg",[190 217 235  92 112 129 133 157 175 166 195 215  53  68  84],#bed9eb
+1490,sculpture,"https://api.nga.gov/iiif/4275adae-48a2-4139-aa03-3b53dee9dce0/full/!200,200/0/default.jpg",[110 129 147  38  52  70  65  83 104 161 182 197   0   0   0],#6e8193
+1470,sculpture,"https://api.nga.gov/iiif/df60bf76-9782-4a0d-aa3c-f13e6c0ce998/full/!200,200/0/default.jpg",[ 74  76  81 112 115 118 189 189 189  48  50  53 201 201 201],#4a4c51
+1480,print,"https://api.nga.gov/iiif/244d1131-42ca-4495-995b-1d6c56814f1a/full/!200,200/0/default.jpg",[ 65  80  95  99 116 132 148 169 186 126 146 162 169 192 209],#41505f
+1480,print,"https://api.nga.gov/iiif/9e1f1258-6c54-446f-8108-ebce5353908c/full/!200,200/0/default.jpg",[142 164 179 181 207 222  62  74  85 102 119 133 222 245 252],#8ea4b3
+1470,sculpture,"https://api.nga.gov/iiif/b7e69dc0-8f18-432c-988f-2137ae64496d/full/!200,200/0/default.jpg",[  1   1   1  76 105 143  56  81 110  29  50  76  39  63  93],#010101
+1475,sculpture,"https://api.nga.gov/iiif/101671e1-b897-4fb6-9355-0ccc155452cb/full/!200,200/0/default.jpg",[207 208 209  53  82 109  87 119 146 116 148 174 175 176 176],#cfd0d1
+1496,sculpture,"https://api.nga.gov/iiif/1f575bf7-f9e6-40ce-ba7c-7c352738b80f/full/!200,200/0/default.jpg",[158 180 194 127 150 165   0   0   1 101 124 141  77  98 114],#9eb4c2
+1480,decorative art,"https://api.nga.gov/iiif/1f4431a5-f06b-4048-8692-b0eef7a29808/full/!200,200/0/default.jpg",[190 192 192 212 214 213 167 170 170  69  78  71  99 119 136],#bec0c0
+1460,print,"https://api.nga.gov/iiif/6d919ef0-764a-4105-b66e-6a810b59e4ca/full/!200,200/0/default.jpg",[138 190 219  92 144 184 112 149 113 189 223 241  66  87 150],#8abedb
+1480,print,"https://api.nga.gov/iiif/59782f5f-3f30-45c7-bf9e-e25b62ae51ec/full/!200,200/0/default.jpg",[129 141 112 177 216 237 123 177 206  82 123 182  62  86 118],#818d70
+1480,sculpture,"https://api.nga.gov/iiif/65faf054-bc18-4bba-93f0-c76243e4f57e/full/!200,200/0/default.jpg",[  1   0   1 110 134 157 148 170 192  65  90 113  85 111 135],#010001
+1480,sculpture,"https://api.nga.gov/iiif/d493ee5d-3dfc-4c2a-ac6d-acf0e059b957/full/!200,200/0/default.jpg",[ 48  97 138  30  66 100  73 126 165   0   0   1 117 168 202],#30618a
+1450,print,"https://api.nga.gov/iiif/724f38d6-0aad-42be-b1e4-bc72547da04d/full/!200,200/0/default.jpg",[ 85 103 112 193 217 228 121 141 151  51  68  76 157 179 190],#556770
+1400,sculpture,"https://api.nga.gov/iiif/7c0e82d8-1947-47a3-aece-b8b6a75f5157/full/!200,200/0/default.jpg",[ 27  36  50   0   0   0  52  67  82  81  97 114 118 138 157],#1b2432
+1490,print,"https://api.nga.gov/iiif/21a70bd9-b372-4493-b480-11c08e0eb946/full/!200,200/0/default.jpg",[179 210 229 134 164 183 158 189 208 194 223 240 103 132 151],#b3d2e5
+1480,sculpture,"https://api.nga.gov/iiif/ab6668b4-14e7-420c-a056-3f79ba240156/full/!200,200/0/default.jpg",[ 68 117 152 143 183 202   0   0   1  54  98 134  43  82 116],#447598
+1470,sculpture,"https://api.nga.gov/iiif/c8e960a5-5edb-4d0d-ab8c-66edf7a1bed5/full/!200,200/0/default.jpg",[ 45  69 100  81  99 120   1   2   1 140 155 171  33  53  77],#2d4564
+1475,sculpture,"https://api.nga.gov/iiif/0367238e-83ea-4a4b-bb43-39c6d24a5554/full/!200,200/0/default.jpg",[ 71  80  88  97 114 126  12  12  12  47  51  56 132 158 174],#475058
+1475,sculpture,"https://api.nga.gov/iiif/1a9f3ad6-7849-4050-ad9c-51cff89af21b/full/!200,200/0/default.jpg",[124 139 152  49  54  59  96 109 120  11  11  12  73  82  89],#7c8b98
+1480,print,"https://api.nga.gov/iiif/d27bc431-5da1-47ae-be4b-2c23cc9a4085/full/!200,200/0/default.jpg",[152 169 180 110 124 134 208 230 240 187 212 225  68  78  88],#98a9b4
+1475,sculpture,"https://api.nga.gov/iiif/7261298d-5aaa-4f09-9f45-0523575913b5/full/!200,200/0/default.jpg",[ 55  77 101   0   0   0  84 108 134  32  52  72 122 150 176],#374d65
+1480,print,"https://api.nga.gov/iiif/da3c0fcc-69fd-4c16-820b-35b2d10b6da5/full/!200,200/0/default.jpg",[137 167 192 111 141 166  82 112 123  48  69  93 174 202 220],#89a7c0
+1475,sculpture,"https://api.nga.gov/iiif/690c1cdb-2088-41b1-91ea-a8883878e1ed/full/!200,200/0/default.jpg",[ 33  47  69 120 145 182   0   1   1  77 101 140  52  71 106],#212f45
+1480,print,"https://api.nga.gov/iiif/276893af-872c-4fc3-9ccd-f9749cbe7d5e/full/!200,200/0/default.jpg",[166 198 219  96 113 128 134 157 176  60  70  82 206 237 250],#a6c6db
+1470,drawing,"https://api.nga.gov/iiif/ab1654ed-db29-4eef-8674-58ba50422d50/full/!200,200/0/default.jpg",[104 117 126 168 185 195 140 154 164 216 238 247 185 202 213],#68757e
+1480,print,"https://api.nga.gov/iiif/f70f6831-e1e2-4201-8fb2-fa89c2a34090/full/!200,200/0/default.jpg",[ 87 127 160 123 152 104  51  81 120 169 212 234 125 169 196],#577fa0
+1470,print,"https://api.nga.gov/iiif/604c7a05-cfe7-4438-acf1-ab3543f13115/full/!200,200/0/default.jpg",[161 186 203 219 243 251  94 113 129 187 214 231 130 153 169],#a1bacb
+1480,painting,"https://api.nga.gov/iiif/70681fcc-b40a-4147-9803-c632037b4f74/full/!200,200/0/default.jpg",[125 177 210  92 141 182  31  48  47  61  94 130 247 251 252],#7db1d2
+1490,sculpture,"https://api.nga.gov/iiif/5411cf67-3000-4599-ba0e-1cb466d41a1b/full/!200,200/0/default.jpg",[ 2  1  1 50 60 70 27 33 46 36 44 57 79 88 97],#020101
+1480,print,"https://api.nga.gov/iiif/f34092a3-6e41-4337-81ac-79798302133a/full/!200,200/0/default.jpg",[162 203 230  73 144 219  81 107 103  65 113 166 123 164 191],#a2cbe6
+1480,print,"https://api.nga.gov/iiif/527f727c-0385-4460-bcf6-27eef2424493/full/!200,200/0/default.jpg",[129 151 167 102 119 133 185 204 215  75  89 101  50  60  70],#8197a7
+1490,drawing,"https://api.nga.gov/iiif/8e44372e-f378-4109-9ff5-d8b79fd50fb0/full/!200,200/0/default.jpg",[160 180 191 113 131 143 135 155 169  77  93 105 149 170 182],#a0b4bf
+1480,print,"https://api.nga.gov/iiif/cb2e64d9-eac6-4b7f-a52f-822385cad5e6/full/!200,200/0/default.jpg",[200 226 240 136 155 169  74  86  99 168 191 206 104 120 133],#c8e2f0
+1480,print,"https://api.nga.gov/iiif/29b5653c-1bcd-4418-a5b4-22a587352702/full/!200,200/0/default.jpg",[ 64  73  84  90 104 118 147 171 188 175 203 222 118 138 154],#404954
+1475,print,"https://api.nga.gov/iiif/c466bc19-6313-49c5-8d04-5d2b864a70a2/full/!200,200/0/default.jpg",[189 213 227 133 153 168 102 118 131 157 179 195  73  84  96],#bdd5e3
+1480,print,"https://api.nga.gov/iiif/e0aaa423-66da-42b5-ac13-3d48ac72071b/full/!200,200/0/default.jpg",[ 96 111 126 161 184 200  61  72  85 190 217 234 128 149 164],#606f7e
+1475,sculpture,"https://api.nga.gov/iiif/a680a031-258c-4744-87d1-a9d8e02b5fe1/full/!200,200/0/default.jpg",[  0   0   1 134 155 178  52  68  86  29  40  53  90 108 128],#000001
+1480,print,"https://api.nga.gov/iiif/14ba07af-9e2a-4e98-bc1d-df9db3607f5b/full/!200,200/0/default.jpg",[124 143 157 155 177 192 182 207 222  89 106 120 195 219 233],#7c8f9d
+1480,print,"https://api.nga.gov/iiif/602d5e19-08b0-45a8-ac00-6d60b3a74b18/full/!200,200/0/default.jpg",[ 99 124 162 134 166 205 159 193 221 186 218 241 130 153 164],#637ca2
+1470,sculpture,"https://api.nga.gov/iiif/4fad4339-3b6e-433f-9d4a-f0efe20c3555/full/!200,200/0/default.jpg",[ 97 110 126  46  59  74  30  41  51  62  77  94   0   0   1],#616e7e
+1480,print,"https://api.nga.gov/iiif/9551218a-b208-4577-8730-0f4307a32ae4/full/!200,200/0/default.jpg",[159 182 196 127 147 160  64  76  87 189 215 230  97 112 125],#9fb6c4
+1475,sculpture,"https://api.nga.gov/iiif/fe22fb5e-8bb9-44a1-bec9-83faf6fbd105/full/!200,200/0/default.jpg",[ 95 118 150  34  61  99  48  91 151   0   0   1  37  75 130],#5f7696
+1462,sculpture,"https://api.nga.gov/iiif/18e136a3-e6a5-4622-b7e6-10b20cac2e17/full/!200,200/0/default.jpg",[ 73  83  88 103 114 121   0   0   0  52  61  65 141 151 159],#495358
+1485,sculpture,"https://api.nga.gov/iiif/45151047-f81f-4dee-93bb-ccd12697d17a/full/!200,200/0/default.jpg",[ 70  82  91 107 120 132   0   0   1 150 163 174  43  53  58],#46525b
+1495,sculpture,"https://api.nga.gov/iiif/745663a1-155e-4dfc-a7c6-f3c9e4d87c23/full/!200,200/0/default.jpg",[ 36  55  68   2   2   2  49  75  96 123 168 191  62 100 129],#243744
+1490,print,"https://api.nga.gov/iiif/46b5da88-5758-4688-a1ee-54533232dfcd/full/!200,200/0/default.jpg",[ 90 123 128 179 214 233 105 145 160  72  98 105 137 176 199],#5a7b80
+1400,sculpture,"https://api.nga.gov/iiif/f53e9434-0069-451d-9d3e-84021be9d001/full/!200,200/0/default.jpg",[ 45  55  64  28  36  43   1   2   1 106 117 128  72  82  92],#2d3740
+1470,sculpture,"https://api.nga.gov/iiif/842e2fc0-81e2-481b-995c-719097ac9506/full/!200,200/0/default.jpg",[  5   4   6 158 189 199  93 108 118  62  75  84  41  54  63],#050406
+1480,print,"https://api.nga.gov/iiif/f7b6af70-e1e0-43a5-b6b0-d1e2a70e0fda/full/!200,200/0/default.jpg",[128 182 214  62 111 146 179 219 243  91 134  91  92 152 186],#80b6d6
+1400,drawing,"https://api.nga.gov/iiif/ddfa9d53-cc70-4643-9181-96d88f64cb3c/full/!200,200/0/default.jpg",[180 201 220 164 188 208 138 164 187  77 106 124 106 136 158],#b4c9dc
+1480,print,"https://api.nga.gov/iiif/4130d104-3624-44c3-80d5-a3425865e186/full/!200,200/0/default.jpg",[ 70  91 108 155 182 201  99 123 141 127 152 171 183 212 230],#465b6c
+1475,sculpture,"https://api.nga.gov/iiif/191ac656-3f20-42c6-b779-b31ee91d5817/full/!200,200/0/default.jpg",[ 66  78  90  25  33  43  42  53  64 100 114 127   2   1   2],#424e5a
+1480,print,"https://api.nga.gov/iiif/9e58fb6d-297e-480d-8f10-53e5f615ec55/full/!200,200/0/default.jpg",[ 68  92 100 189 222 235  92 121 136  45  62  73 123 154 179],#445c64
+1460,print,"https://api.nga.gov/iiif/c58f2b19-cf6e-4dce-8101-99f5e62de6ce/full/!200,200/0/default.jpg",[127 184 215 179 217 240  75 105 111  88 142 191 125 157  85],#7fb8d7
+1472,print,"https://api.nga.gov/iiif/1d254906-8ba3-4a1d-a161-89d0dba24466/full/!200,200/0/default.jpg",[ 68  84 101 147 170 189 180 206 226  94 113 131 119 140 158],#445465
+1460,print,"https://api.nga.gov/iiif/1614b409-3cd0-46dd-ad40-ec3c1bb5b208/full/!200,200/0/default.jpg",[115 134 150  78  94 108 214 242 251 168 197 218 147 171 188],#738696
+1480,print,"https://api.nga.gov/iiif/3d4b6913-ecfb-44fe-9065-3cf140321ee6/full/!200,200/0/default.jpg",[195 236 248  70 117 193  71  87 100 114 143 153 152 189 211],#c3ecf8
+1475,sculpture,"https://api.nga.gov/iiif/68f9080f-5773-4030-9b9c-b41aba1e9cbf/full/!200,200/0/default.jpg",[ 35  51  69  57  76  98   6   4   4 136 156 181  88 107 132],#233345
+1485,print,"https://api.nga.gov/iiif/337600d5-098f-4d48-b14e-b18ecb074b82/full/!200,200/0/default.jpg",[203 225 239  84 103 118 171 193 207 114 134 148 141 162 177],#cbe1ef
+1480,sculpture,"https://api.nga.gov/iiif/4b8a9c19-3666-4c70-814b-6d4480cae145/full/!200,200/0/default.jpg",[131 140 147  62  72  77  92 101 107  41  50  55   3   3   3],#838c93
+1480,print,"https://api.nga.gov/iiif/30f68093-5e11-4d5f-b090-9eb25cd449ff/full/!200,200/0/default.jpg",[164 193 213 126 150 167 212 239 248  92 109 123  62  74  85],#a4c1d5
+1480,print,"https://api.nga.gov/iiif/7d11341e-77d1-4b47-823a-76a794707abe/full/!200,200/0/default.jpg",[162 207 232 100 145 163 128 177 204  49  74  93  73 111 133],#a2cfe8
+1475,print,"https://api.nga.gov/iiif/bb3b0d9f-29de-4be9-9ed3-7b209c14698e/full/!200,200/0/default.jpg",[145 165 180  80  94 107 113 131 145 197 222 236 173 195 211],#91a5b4
+1475,sculpture,"https://api.nga.gov/iiif/2dd12e8e-de85-4555-993d-6fd9bc5947dd/full/!200,200/0/default.jpg",[ 54  78  99   0   0   1  83 114 139  28  46  63 126 163 188],#364e63
+1475,print,"https://api.nga.gov/iiif/0172e894-fcfa-4d58-bda9-b2d635da46ea/full/!200,200/0/default.jpg",[211 242 250  79 110 131  49  74  92 159 203 229 114 155 183],#d3f2fa
+1480,decorative art,"https://api.nga.gov/iiif/2a43a40e-c461-4ea3-a66d-b6eb85659ff7/full/!200,200/0/default.jpg",[ 37  79  86 158 159 158  69 146 176  96 122 114 185 190 192],#254f56
+1495,sculpture,"https://api.nga.gov/iiif/10b45115-8b1c-4123-80b8-33f271c3e734/full/!200,200/0/default.jpg",[ 34  57  81 106 128 152   0   0   1  65  87 110  18  35  52],#223951
+1485,decorative art,"https://api.nga.gov/iiif/cb873ca3-10c6-42e1-8e65-0f6224adde0a/full/!200,200/0/default.jpg",[159 162 162  83  95 111  38  51  72 181 184 185 130 134 135],#9fa2a2
+1470,print,"https://api.nga.gov/iiif/831bd107-aee9-443e-8e07-18389b2c66ba/full/!200,200/0/default.jpg",[ 57  79  96 175 213 241  90 126 149 126 164 203  64  85 186],#394f60
+1475,sculpture,"https://api.nga.gov/iiif/18bbdee8-5681-4a0e-b6de-f4f6d5855aad/full/!200,200/0/default.jpg",[107 120 138  71  83  99  41  51  66  22  28  40   0   0   1],#6b788a
+1452,sculpture,"https://api.nga.gov/iiif/7420c76a-9779-48ca-bee3-e53bad8fec50/full/!200,200/0/default.jpg",[ 54  63  69   0   0   0  78  88  95 111 122 130  32  40  44],#363f45
+1485,sculpture,"https://api.nga.gov/iiif/01d1e793-aeaf-4914-b938-9219c09a35bc/full/!200,200/0/default.jpg",[124 157 182  36  54  69  71  93 116  52  70  89   1   1   1],#7c9db6
+1475,sculpture,"https://api.nga.gov/iiif/f71fbe50-40e9-4d5a-8be3-9d94a6f9888a/full/!200,200/0/default.jpg",[ 69  82  97  33  44  57  50  62  77   4   3   2 100 112 128],#455261
+1475,sculpture,"https://api.nga.gov/iiif/4594c016-b5a2-4974-9786-7c0c443f41f6/full/!200,200/0/default.jpg",[147 163 176 173 187 200  49  64  78  90 106 119 113 131 147],#93a3b0
+1490,print,"https://api.nga.gov/iiif/77920b28-6441-481d-b2ed-8c9310f518b5/full/!200,200/0/default.jpg",[103 123 140 134 157 177  69  86 102 158 184 204 172 200 220],#677b8c
+1490,print,"https://api.nga.gov/iiif/dcd47ade-d579-4161-bff2-5465c45afb67/full/!200,200/0/default.jpg",[ 71 100 164  95 128 146 148 186 219 116 153 178  81 106 104],#4764a4
+1490,print,"https://api.nga.gov/iiif/5d734052-0e06-40a5-bb71-dd672de3de56/full/!200,200/0/default.jpg",[ 94 105 114 184 203 214  67  76  85 153 169 182 122 135 145],#5e6972
+1490,print,"https://api.nga.gov/iiif/ef92e0ff-17ed-4c33-9fc4-ede779347a35/full/!200,200/0/default.jpg",[ 95 131 158 134 175 203  63  90 106 109 116  69 193 228 242],#5f839e
+1470,portfolio,"https://api.nga.gov/iiif/62c7b35b-a5ac-4bdb-a59a-5eae6247eb5d/full/!200,200/0/default.jpg",[161 200 227  48  70  89 209 239 251  78 108 131 110 149 177],#a1c8e3
+1495,print,"https://api.nga.gov/iiif/ec77b379-0044-4be4-a137-84dfe7784472/full/!200,200/0/default.jpg",[104 121 135 198 222 237 133 154 169 163 186 202  78  90 102],#687987
+1480,print,"https://api.nga.gov/iiif/9523190f-2fa9-4ada-8158-fa8b900907ec/full/!200,200/0/default.jpg",[ 92 113 126 204 241 250 125 151 166 159 190 208  61  79  89],#5c717e
+1470,sculpture,"https://api.nga.gov/iiif/43237e44-a640-469a-8027-59e0881e2a7d/full/!200,200/0/default.jpg",[ 53  68  82   0   0   1  92 108 125 175 204 214  32  45  57],#354452
+1470,sculpture,"https://api.nga.gov/iiif/bcec7ac4-a849-4ec9-993c-086ebc419f1b/full/!200,200/0/default.jpg",[ 48  63  83 132 151 169  83 101 120  23  34  49   0   0   1],#303f53
+1450,painting,"https://api.nga.gov/iiif/c215e277-6a1a-4b25-8d0a-2bfa4db13d6a/full/!200,200/0/default.jpg",[  3  25 210  12  32  76  17  21  35   6  44 142  12 126 197],#0319d2
+1460,decorative art,"https://api.nga.gov/iiif/1d18c4d6-00bf-432e-86cf-8162bf8202ec/full/!200,200/0/default.jpg",[129 172 195 105 146 170  61  88 119  81 112 149  61  72  69],#81acc3
+1480,print,"https://api.nga.gov/iiif/dc5c1cb0-4aa8-4053-ae0c-901a78e37585/full/!200,200/0/default.jpg",[ 56  65  77 117 136 153 183 211 230  85  99 114 150 174 193],#38414d
+1475,sculpture,"https://api.nga.gov/iiif/03d140c0-9741-49a2-b6fe-e9f59a3a41b8/full/!200,200/0/default.jpg",[147 164 158  54  60  67 108 119 130  83  91 102  11  12  12],#93a49e
+1470,sculpture,"https://api.nga.gov/iiif/4d712296-2240-4fef-8da3-fb9ad3d8fb3c/full/!200,200/0/default.jpg",[  1   2   3  56  81 107 122 156 183  30  49  69  83 114 142],#010203
+1475,sculpture,"https://api.nga.gov/iiif/1488871e-4baf-4d87-a06f-bc24ba2f3f0d/full/!200,200/0/default.jpg",[104 112 121  54  57  63 140 152 164  12  12  13  80  85  92],#687079
+1480,print,"https://api.nga.gov/iiif/6fb8f84a-9ca4-4da7-a8f0-988db1fabfa1/full/!200,200/0/default.jpg",[112 135 153  88 106 122  66  80  94 163 192 212 137 163 183],#708799
+1475,sculpture,"https://api.nga.gov/iiif/3a1d0ace-e207-495c-a988-2319cbf076b6/full/!200,200/0/default.jpg",[  1   1   2  36  52  80  89 112 131  44  64 106  61  80 115],#010102
+1450,sculpture,"https://api.nga.gov/iiif/1a62c4c4-76bb-48b6-a670-4b7ce22b4cb2/full/!200,200/0/default.jpg",[128 129 129 202 204 204  51  52  53 221 221 220  80  82  85],#808181
+1450,sculpture,"https://api.nga.gov/iiif/42327ff1-5293-479c-9784-9baad558b51d/full/!200,200/0/default.jpg",[124 134 138  92 102 103  46  56  60   5   4   3  68  78  79],#7c868a
+1480,sculpture,"https://api.nga.gov/iiif/6f341bd4-f86c-4ddd-89a5-2318ac3f726d/full/!200,200/0/default.jpg",[ 68  86 113   1   1   2  46  61  85 153 171 192 105 122 144],#445671
+1475,sculpture,"https://api.nga.gov/iiif/8698c287-df23-4351-ae7f-a5ac4ef461ac/full/!200,200/0/default.jpg",[ 72 104 130 102 133 155  44  68  90   0   0   1  56  87 113],#486882
+1488,sculpture,"https://api.nga.gov/iiif/46da5445-eaec-4b5a-91a9-ae66ce9d5750/full/!200,200/0/default.jpg",[ 27  36  43  40  53  67  97 125 148  67  85 102   1   2   1],#1b242b
+1450,print,"https://api.nga.gov/iiif/916e0f4b-9474-44b8-90ca-a1d2e10107f3/full/!200,200/0/default.jpg",[107 140 161 215 243 251  50 104 156  61  83 101 152 194 220],#6b8ca1
+1475,print,"https://api.nga.gov/iiif/0f9e5b95-f1b8-44ba-825b-45cbd8670c6e/full/!200,200/0/default.jpg",[166 191 208 107 124 138  73  86  98 137 159 174 190 220 237],#a6bfd0
+1470,print,"https://api.nga.gov/iiif/86f107f3-f480-4f30-b66c-fb1452eee0dc/full/!200,200/0/default.jpg",[138 183 213  42  65  96 188 223 241  68 102 140  99 141 173],#8ab7d5
+1420,sculpture,"https://api.nga.gov/iiif/192f0638-6de0-45d8-8a31-ccbeab9f2485/full/!200,200/0/default.jpg",[ 60  69  81  28  37  49  40  49  62  88  98 109   0   0   0],#3c4551
+1475,sculpture,"https://api.nga.gov/iiif/05251221-31d8-4c7f-920d-d9c7b76888db/full/!200,200/0/default.jpg",[ 61  77  91  41  56  71   1   1   2  92 110 122  27  40  53],#3d4d5b
+1450,print,"https://api.nga.gov/iiif/b7a44217-4511-4b0b-b75c-6255ecfb3e89/full/!200,200/0/default.jpg",[128 158 186 102 118 120  75  85 179  56  61  87 174 211 231],#809eba
+1475,sculpture,"https://api.nga.gov/iiif/dcac193b-a85e-4ef7-99a9-0da412ae5088/full/!200,200/0/default.jpg",[ 41  44  48  11  12  12  99 108 115  60  64  67  76  82  87],#292c30
+1460,print,"https://api.nga.gov/iiif/110ac935-4abe-4c54-9ac7-fab5a062289d/full/!200,200/0/default.jpg",[ 89 112 128 186 218 235 127 153 169 161 191 208  49  66  80],#597080
+1475,sculpture,"https://api.nga.gov/iiif/628ba938-62c2-4770-a278-fd5354d5f65c/full/!200,200/0/default.jpg",[ 26  35  41  35  45  51  60 129 138  54  62  88   0   0   0],#1a2329
+1470,sculpture,"https://api.nga.gov/iiif/ef5a20fd-aaf7-4b44-b074-b6b9ac2c1a05/full/!200,200/0/default.jpg",[  1   1   1  42  52  58 121 132 141  84  96 104  64  77  85],#010101
+1480,print,"https://api.nga.gov/iiif/28310f4d-c097-4224-be4c-0a3629f88ac2/full/!200,200/0/default.jpg",[146 178 199 194 224 241 127 158 178  94 119 137  53  73  90],#92b2c7
+1492,sculpture,"https://api.nga.gov/iiif/23f95e8c-6b31-46de-9462-6b2efa379a86/full/!200,200/0/default.jpg",[ 97 107 117  62  72  82   0   0   0  47  56  64  35  43  50],#616b75
+1470,sculpture,"https://api.nga.gov/iiif/0f475f11-41d1-43d7-9177-a739b785bd19/full/!200,200/0/default.jpg",[ 79 109 138  26  47  71  49  76 107 120 153 183   0   1   2],#4f6d8a
+1480,print,"https://api.nga.gov/iiif/b0838173-8d9b-471c-980e-911bd6e35645/full/!200,200/0/default.jpg",[135 161 180  62  74  87 161 191 212  86 103 118 110 133 150],#87a1b4
+1490,sculpture,"https://api.nga.gov/iiif/1a03027e-5a59-4b8c-a0a4-2d18b5a00604/full/!200,200/0/default.jpg",[180 197 212 156 172 186 126 134 142 110 115 119 139 155 170],#b4c5d4
+1475,sculpture,"https://api.nga.gov/iiif/1c50a037-6741-4126-970d-a54bc8b966ca/full/!200,200/0/default.jpg",[177 178 178 186 186 187 108 116 128  79  86  97  55  61  71],#b1b2b2
+1475,painting,"https://api.nga.gov/iiif/8297c11b-591d-4b1e-832b-ee2bb9bec53e/full/!200,200/0/default.jpg",[ 59 109 176  18  23  28  34  62 148 101 146 209  26  37  75],#3b6db0
+1470,sculpture,"https://api.nga.gov/iiif/29ca7394-e6f7-4230-9092-a93fb6df0fb7/full/!200,200/0/default.jpg",[220 238 241  31  36  59   1   1   2 101 114 149  53  63  88],#dceef1
+1400,sculpture,"https://api.nga.gov/iiif/3a0f182e-8aa1-46d5-9139-169b933d7431/full/!200,200/0/default.jpg",[  0   0   1  65 133 177 103 172 213  39  99 143  21  67 107],#000001
+1475,print,"https://api.nga.gov/iiif/ca754572-aa45-43ef-a8f6-9b9dfc61c443/full/!200,200/0/default.jpg",[104 126 141 137 161 177  67  86 100 194 222 237 166 193 209],#687e8d
+1470,sculpture,"https://api.nga.gov/iiif/0f475f11-41d1-43d7-9177-a739b785bd19/full/!200,200/0/default.jpg",[ 79 109 138  26  47  71  49  76 107 120 153 183   0   1   2],#4f6d8a
+1470,painting,"https://api.nga.gov/iiif/89f3a6fb-5b1d-4bca-8508-90c6444cd8ea/full/!200,200/0/default.jpg",[126 142 192  86 101 136  27  38  50  40  52 108  74  77  57],#7e8ec0
+1470,sculpture,"https://api.nga.gov/iiif/1a7e79f0-728c-416e-8e2b-610b0d7b0898/full/!200,200/0/default.jpg",[ 75 103 127   0   0   1  43  67  88 117 148 172  17  35  52],#4b677f
+1480,sculpture,"https://api.nga.gov/iiif/687e5b78-3417-4e20-8db4-8372b3f139d9/full/!200,200/0/default.jpg",[ 87  93  98 109 115 121  69  75  80  53  59  63   5   3   2],#575d62
+1490,print,"https://api.nga.gov/iiif/52bfee24-6789-41cf-b2b0-c28cf13d50dd/full/!200,200/0/default.jpg",[175 186 194  79  84  89 100 105 110 215 231 240 121 127 133],#afbac2
+1475,sculpture,"https://api.nga.gov/iiif/40111181-2861-49e9-b1ef-45e4172e1de6/full/!200,200/0/default.jpg",[120 147 177  81 110 145  40  64  94  55  87 125   0   0   1],#7893b1
+1460,print,"https://api.nga.gov/iiif/fe9bf3d7-c495-427e-b5b2-266f8a652977/full/!200,200/0/default.jpg",[190 222 238  99 144 172 136 178 200  52  84 110  80 115 139],#bedeee
+1495,print,"https://api.nga.gov/iiif/bc3f1d7b-4703-4b2b-8042-08987deaec2e/full/!200,200/0/default.jpg",[ 74  85  97  99 114 127 190 215 230 155 177 193 127 146 162],#4a5561
+1450,sculpture,"https://api.nga.gov/iiif/2ab0bb36-c2eb-4db5-9557-49c2ff7c1208/full/!200,200/0/default.jpg",[ 94 126 153 133 168 194  64  94 119  34  57  79   1   1   3],#5e7e99
+1400,sculpture,"https://api.nga.gov/iiif/a2ec2668-ffb5-43c6-bd76-497b96aa7455/full/!200,200/0/default.jpg",[ 33  45  53   1   1   1  54  67  76  78  91 101 115 129 141],#212d35
+1450,sculpture,"https://api.nga.gov/iiif/01731176-e775-4790-9372-fe5eb772bb9b/full/!200,200/0/default.jpg",[ 12  12  13 143 153 165  77  80  87  97 102 111  58  60  66],#0c0c0d
+1475,sculpture,"https://api.nga.gov/iiif/1488871e-4baf-4d87-a06f-bc24ba2f3f0d/full/!200,200/0/default.jpg",[104 112 121  54  57  63 140 152 164  12  12  13  80  85  92],#687079
+1480,print,"https://api.nga.gov/iiif/1a5d2682-6868-49c5-9354-7efd3b384fc5/full/!200,200/0/default.jpg",[ 80 104 117 182 215 232 143 176 196 110 139 155  51  69  82],#506875
+1480,drawing,"https://api.nga.gov/iiif/48f2dfc6-9122-44b0-be28-c8e10ebe5226/full/!200,200/0/default.jpg",[ 46  63  72  60  81  94  73  97 112 178 201 213  90 114 130],#2e3f48
+1475,sculpture,"https://api.nga.gov/iiif/d55102dd-bc77-4797-86bf-b6c0fd9686c0/full/!200,200/0/default.jpg",[ 69 112 145  42  71  92   0   0   1 106 151 176  57  96 124],#457091
+1450,print,"https://api.nga.gov/iiif/bd581c62-3aba-4782-b4e5-681a27a9566f/full/!200,200/0/default.jpg",[ 51  65  79 149 182 205  81 101 118 208 231 244 108 138 162],#33414f
+1480,print,"https://api.nga.gov/iiif/8857d611-0ca2-46bd-91e9-9120e26b3eaa/full/!200,200/0/default.jpg",[179 201 214 117 133 147 203 225 237  81  94 107 149 167 181],#b3c9d6
+1480,print,"https://api.nga.gov/iiif/30d24b57-6d16-483e-9892-05626a331698/full/!200,200/0/default.jpg",[142 159 172 120 136 149 165 185 198 184 206 219  97 114 126],#8e9fac
+1475,sculpture,"https://api.nga.gov/iiif/0d886841-ea80-42d7-915b-24efc1fe4cce/full/!200,200/0/default.jpg",[ 38  54  66   3   2   1  55  71  80  25  38  54  85 101 111],#263642
+1470,sculpture,"https://api.nga.gov/iiif/bfccd3fe-d051-41a4-98bb-7857fb5281de/full/!200,200/0/default.jpg",[ 85 123 150 131 176 204  43  78 106  20  47  72   0   1   2],#557b96
+1475,print,"https://api.nga.gov/iiif/8bcd5195-fbc6-4a44-9f8d-28ba059e52da/full/!200,200/0/default.jpg",[188 219 236 109 137 139  71  90 168 158 181 190  53  73  90],#bcdbec
+1475,sculpture,"https://api.nga.gov/iiif/99d78ba0-03e5-481f-9645-429aca013eab/full/!200,200/0/default.jpg",[ 74  77  80  11  11  12  99 108 112 129 142 150  50  52  55],#4a4d50
+1400,print,"https://api.nga.gov/iiif/ee742e17-9780-43fc-aee1-c21d6d0241d9/full/!200,200/0/default.jpg",[115 154 189  53  72  91 104 104  76  75 109 153 194 221 244],#739abd
+1475,sculpture,"https://api.nga.gov/iiif/8e16ade8-8f24-465c-a61f-4ac2e129ec58/full/!200,200/0/default.jpg",[ 40  71 110   0   0   1  28  48  71  97 130 162  67  95 133],#28476e
+1475,print,"https://api.nga.gov/iiif/0172e894-fcfa-4d58-bda9-b2d635da46ea/full/!200,200/0/default.jpg",[211 242 250  79 110 131  49  74  92 159 203 229 114 155 183],#d3f2fa
+1460,sculpture,"https://api.nga.gov/iiif/29f72f19-f787-4bd4-9d5c-08e48adae359/full/!200,200/0/default.jpg",[131 148 163  97 101 104 114 118 121 192 197 201 155 175 192],#8394a3
+1480,print,"https://api.nga.gov/iiif/f9ba4886-6b9f-451c-aed2-e437b47e736e/full/!200,200/0/default.jpg",[ 99 120 146 204 229 246 177 204 226 149 176 200 122 147 174],#637892
+1475,sculpture,"https://api.nga.gov/iiif/665ab661-1bc6-4bb2-b137-b362467370b9/full/!200,200/0/default.jpg",[191 194 199  54  73  92 101 125 147 211 213 218 168 172 175],#bfc2c7
+1475,sculpture,"https://api.nga.gov/iiif/1e66f058-04ed-4501-8168-065ede03bb7a/full/!200,200/0/default.jpg",[  0   0   0 129 139 156 163 172 187  83  94 109 104 115 132],#000000
+1450,sculpture,"https://api.nga.gov/iiif/11b0d53d-d07d-459e-9ea3-9379ac223c14/full/!200,200/0/default.jpg",[130 136 141 185 187 189  97  99 100 153 156 158 111 119 125],#82888d
+1480,print,"https://api.nga.gov/iiif/602d5e19-08b0-45a8-ac00-6d60b3a74b18/full/!200,200/0/default.jpg",[ 99 124 162 134 166 205 159 193 221 186 218 241 130 153 164],#637ca2
+1490,sculpture,"https://api.nga.gov/iiif/62699aab-5eca-4502-840a-2abb54146873/full/!200,200/0/default.jpg",[ 78 116 146  33  58  76 134 169 192  51  85 112   1   2   1],#4e7492
+1480,print,"https://api.nga.gov/iiif/338f0ff4-1639-476e-bf88-28dc7a852afc/full/!200,200/0/default.jpg",[ 97 115 130 129 152 168 160 186 203 193 220 237  64  76  88],#617382
+1480,print,"https://api.nga.gov/iiif/42aa9c72-545f-4796-b8b5-b601954f0f96/full/!200,200/0/default.jpg",[ 69  83  96 165 193 210 191 219 236 136 160 176 103 123 138],#455360
+1480,print,"https://api.nga.gov/iiif/94ee3252-2066-4f59-93b7-2c79f2f82eab/full/!200,200/0/default.jpg",[181 199 209  96 107 117 118 131 141  73  81  90 146 162 173],#b5c7d1
+1450,print,"https://api.nga.gov/iiif/5fa8c34a-89ba-4145-8632-54b5f9dc6d36/full/!200,200/0/default.jpg",[ 55  82 115 100 138 142 124 165 194 154 198 230  59 106 220],#375273
+1400,sculpture,"https://api.nga.gov/iiif/72ef63c5-a3c6-4e5c-839f-2f87d5a06684/full/!200,200/0/default.jpg",[101 119 148  32  48  83  57  75 108   0   0   0  18  28  58],#657794
+1480,print,"https://api.nga.gov/iiif/8f1fb01a-b3a1-49a0-9889-335a1aa781e9/full/!200,200/0/default.jpg",[149 163 173  92 102 111 180 196 205 120 131 140  65  74  82],#95a3ad
+1472,print,"https://api.nga.gov/iiif/60e456e5-08de-4c89-bff9-8d54ca199fc2/full/!200,200/0/default.jpg",[112 127 141 208 227 240  79  92 105 143 160 174 173 192 205],#707f8d
+1470,sculpture,"https://api.nga.gov/iiif/cd416830-2c47-4914-9df7-c593b927067b/full/!200,200/0/default.jpg",[ 42  58  74 135 151 169   0   0   1  87 102 117  19  32  44],#2a3a4a
+1475,sculpture,"https://api.nga.gov/iiif/810cea1c-5517-4f2a-b805-dfe44a9da4a7/full/!200,200/0/default.jpg",[  0   0   1  92 171 212  41  92 134  61 130 175  19  53  85],#000001
+1480,print,"https://api.nga.gov/iiif/e622b589-8cf7-4b7b-bdb2-4c07736ea6a5/full/!200,200/0/default.jpg",[114 135 150  80  97 111 190 216 232 144 168 184 170 195 212],#728796
+1480,print,"https://api.nga.gov/iiif/b0838173-8d9b-471c-980e-911bd6e35645/full/!200,200/0/default.jpg",[135 161 180  62  74  87 161 191 212  86 103 118 110 133 150],#87a1b4
+1400,sculpture,"https://api.nga.gov/iiif/37b7f359-b5f2-4089-bc00-f90720fc0b04/full/!200,200/0/default.jpg",[ 26  36  54  65  83 106  43  67  92  37  53  72   0   0   1],#1a2436
+1475,sculpture,"https://api.nga.gov/iiif/0a24ad02-0224-4a55-8301-9ded88491540/full/!200,200/0/default.jpg",[102 103 103 119 130 137 189 205 215 165 182 193 151 159 164],#666767
+1475,sculpture,"https://api.nga.gov/iiif/b6179c61-0d93-4c8d-b638-2ac7d3bc7984/full/!200,200/0/default.jpg",[156 159 162 195 196 199 224 224 227 117 126 134  64  85 106],#9c9fa2
+1480,print,"https://api.nga.gov/iiif/c32dec97-8524-466e-9175-15d6e3e4855c/full/!200,200/0/default.jpg",[102 126 143 137 165 183  65  83  97 188 219 238 165 197 217],#667e8f
+1496,sculpture,"https://api.nga.gov/iiif/5a5784c2-27bd-4032-a2c4-aa2414c064a1/full/!200,200/0/default.jpg",[118 125 132  95 101 108  78  84  90 148 155 163   0   1   1],#767d84
+1480,print,"https://api.nga.gov/iiif/f7b6af70-e1e0-43a5-b6b0-d1e2a70e0fda/full/!200,200/0/default.jpg",[128 182 214  62 111 146 179 219 243  91 134  91  92 152 186],#80b6d6
+1470,print,"https://api.nga.gov/iiif/e8bb5e0d-ae51-4bf2-8247-867670d9bcbc/full/!200,200/0/default.jpg",[168 180 189  95 103 112 145 155 165 187 203 212 119 128 137],#a8b4bd
+1470,sculpture,"https://api.nga.gov/iiif/fa38d4ef-83db-49ed-8a0f-94b85a5a6274/full/!200,200/0/default.jpg",[ 19  38  54  76 111 147   1   1   1  55  80 107  32  56  79],#132636
+1480,print,"https://api.nga.gov/iiif/17c246e8-8c4c-4ca1-b7ca-4ec73e2941c7/full/!200,200/0/default.jpg",[190 217 235  92 112 129 133 157 175 166 195 215  53  68  84],#bed9eb
+1465,print,"https://api.nga.gov/iiif/28f38555-56ba-42d2-8dc1-61adc8dcc91b/full/!200,200/0/default.jpg",[ 62  71  86 223 244 251  88  96 110 168 187 201  72  81  96],#3e4756
+1475,print,"https://api.nga.gov/iiif/08bf2409-44c8-4ed8-9e91-835c61b04df6/full/!200,200/0/default.jpg",[136 161 182  41  53  65  67  85 101  99 121 144 178 203 219],#88a1b6
+1470,sculpture,"https://api.nga.gov/iiif/07fb5d15-2fb4-4797-b48b-e21ae6abd88c/full/!200,200/0/default.jpg",[167 178 182 128 140 142  63  75  76  94 107 108   0   0   0],#a7b2b6
+1470,sculpture,"https://api.nga.gov/iiif/1c36355b-ade6-4210-98b3-dccde7cbf89f/full/!200,200/0/default.jpg",[123 129 136  87  94 102  43  51  59  60  68  77   0   0   0],#7b8188
+1470,sculpture,"https://api.nga.gov/iiif/ffd48a0c-0104-404e-87fa-e01586d68208/full/!200,200/0/default.jpg",[  0   0   1 109 131 150  57  82 106  30  57  81  18  41  60],#000001
+1480,print,"https://api.nga.gov/iiif/4e89674d-4f7b-4266-88e7-50ecd71a214c/full/!200,200/0/default.jpg",[173 212 238 120 118  74  63 121 228 116 157 191  55  67 132],#add4ee
+1480,print,"https://api.nga.gov/iiif/23221382-f279-4b21-9f44-c9535eabb459/full/!200,200/0/default.jpg",[ 62  73  85  92 108 122 122 142 158 154 178 194 186 213 229],#3e4955
+1400,sculpture,"https://api.nga.gov/iiif/d196f704-aa4e-476a-aafa-7d2b71234b86/full/!200,200/0/default.jpg",[ 63  78  92  34  44  53   2   2   1  83 102 120 109 127 146],#3f4e5c
+1470,print,"https://api.nga.gov/iiif/d44dbd75-4109-4ed9-9826-050c3ff82200/full/!200,200/0/default.jpg",[180 216 239  70  98 120 134 170 194 161 198 223 104 137 161],#b4d8ef
+1475,sculpture,"https://api.nga.gov/iiif/d3bb0d01-76b9-4705-ad1c-4e281173e0e1/full/!200,200/0/default.jpg",[156 156 161  49  59  76  36  42  54 214 215 218  94  98 106],#9c9ca1
+1480,print,"https://api.nga.gov/iiif/977eca79-3c7e-401a-b26d-d40cf0dddb0e/full/!200,200/0/default.jpg",[201 231 247  98 122  99  67 112 206 137 176 200  49  62 133],#c9e7f7
+1480,sculpture,"https://api.nga.gov/iiif/ba4ef8ae-d9a6-4843-85ec-fd6575d405c1/full/!200,200/0/default.jpg",[ 97 123 156 147 172 201   0   0   1  59  84 122  41  59  86],#617b9c
+1480,sculpture,"https://api.nga.gov/iiif/7025700d-ff4e-4f67-b6a8-b490625e4f6b/full/!200,200/0/default.jpg",[ 67  98 121  54  78  97  39  55  71   0   0   1 122 138 154],#436279
+1475,sculpture,"https://api.nga.gov/iiif/4660ed61-37c2-4267-ab50-c3176272f7b7/full/!200,200/0/default.jpg",[118 137 150  67  73  79  11  12  12  46  49  53  91 102 112],#768996
+1460,print,"https://api.nga.gov/iiif/15df55a8-9276-433e-a128-a28e86c14b07/full/!200,200/0/default.jpg",[ 88 127 144 143 186 208  58  93 112 111 158 178 185 221 235],#587f90
+1495,sculpture,"https://api.nga.gov/iiif/e0554314-65b9-4c31-a328-aa0c3b9e4509/full/!200,200/0/default.jpg",[122 141 172  61  77 106  89 106 137  43  59  80   2   2   2],#7a8dac
+1475,sculpture,"https://api.nga.gov/iiif/7fd0873b-9381-4b5f-928f-c0d98decdc7a/full/!200,200/0/default.jpg",[ 35  54  78  82 101 127   0   0   0 121 139 162  53  73 102],#23364e
+1450,sculpture,"https://api.nga.gov/iiif/32848139-e73b-4808-bfff-a4e9e188d39e/full/!200,200/0/default.jpg",[ 47 102 152  34  82 126  28  61  92  79 146 187   1   1   1],#2f6698
+1490,painting,"https://api.nga.gov/iiif/8d4d3401-5d6a-4ab1-9542-6d2886519a29/full/!200,200/0/default.jpg",[118 185 204  57 102 122  90 142 154  78 174 209  25  60  78],#76b9cc
+1400,drawing,"https://api.nga.gov/iiif/285d04a8-70ae-4e16-9489-350714616a34/full/!200,200/0/default.jpg",[153 173 199  73  90 109 131 150 178 102 121 148 169 193 215],#99adc7
+1475,sculpture,"https://api.nga.gov/iiif/d3bb0d01-76b9-4705-ad1c-4e281173e0e1/full/!200,200/0/default.jpg",[156 156 161  49  59  76  36  42  54 214 215 218  94  98 106],#9c9ca1
+1475,sculpture,"https://api.nga.gov/iiif/86507bd9-7e7b-418d-8973-8c16014eeec7/full/!200,200/0/default.jpg",[112 175 208  72 124 159  43  84 117   0   0   1  19  47  75],#70afd0
+1498,print,"https://api.nga.gov/iiif/0bf474d7-3aee-4fdc-a553-100a5d0e5f21/full/!200,200/0/default.jpg",[ 76  92 105 205 228 243 166 188 201 105 122 136 133 153 167],#4c5c69
+1480,sculpture,"https://api.nga.gov/iiif/fad0561b-9e3f-408b-8c4f-d6817fb4da54/full/!200,200/0/default.jpg",[ 42  53  58   0   0   1 116 131 143  19  25  29  71  86  96],#2a353a
+1470,sculpture,"https://api.nga.gov/iiif/25d95461-6d71-4e8e-946f-f9737214aa29/full/!200,200/0/default.jpg",[122 148 172  39  73  99  28  58  83  76 104 128   1   1   2],#7a94ac
+1480,sculpture,"https://api.nga.gov/iiif/e949bf58-ee9c-4769-9d5c-24e837a86175/full/!200,200/0/default.jpg",[125 136 145   0   0   0  51  60  66 175 186 194  84  94 102],#7d8891
+1480,print,"https://api.nga.gov/iiif/28310f4d-c097-4224-be4c-0a3629f88ac2/full/!200,200/0/default.jpg",[146 178 199 194 224 241 127 158 178  94 119 137  53  73  90],#92b2c7
+1400,painting,"https://api.nga.gov/iiif/c9c0f26e-a559-43ab-b517-0384e347ade8/full/!200,200/0/default.jpg",[100 161 205  67 133 186  45  65  68  41  82 155  91 117 128],#64a1cd
+1480,print,"https://api.nga.gov/iiif/42b6ddc4-77cb-4e35-a1a2-4d588184317a/full/!200,200/0/default.jpg",[116 140 156  90 110 126 167 196 215  63  79  92 142 168 186],#748c9c
+1475,print,"https://api.nga.gov/iiif/08bf2409-44c8-4ed8-9e91-835c61b04df6/full/!200,200/0/default.jpg",[136 161 182  41  53  65  67  85 101  99 121 144 178 203 219],#88a1b6
+1400,drawing,"https://api.nga.gov/iiif/6d114d2a-ffb0-44c8-8219-62942eaa932a/full/!200,200/0/default.jpg",[212 232 243 142 163 180 105 125 144  72  91 110 171 195 211],#d4e8f3
+1470,print,"https://api.nga.gov/iiif/d9801bf3-1d37-4350-85c8-6659a44eaa9f/full/!200,200/0/default.jpg",[125 171 208 191 226 244  70  79  71  68 107 141  91 134 177],#7dabd0
+1490,print,"https://api.nga.gov/iiif/ba4f6c48-275c-4e2c-85e9-0eb8ed2f7024/full/!200,200/0/default.jpg",[112 152 184  59  87 119  71 103 143  88 124 162 204 236 248],#7098b8
+1475,sculpture,"https://api.nga.gov/iiif/2268d4c9-1f65-46d6-a79a-769f75747e83/full/!200,200/0/default.jpg",[  2   2   2  61  80 107  81 103 131  42  60  83 124 152 184],#020202
+1450,print,"https://api.nga.gov/iiif/68d86972-d994-4b70-9ceb-b92901881b36/full/!200,200/0/default.jpg",[200 219 234  74  86  98 146 169 186  93 108 122 116 134 149],#c8dbea
+1480,sculpture,"https://api.nga.gov/iiif/cd966c79-c468-4559-927b-998d9b1e2c9a/full/!200,200/0/default.jpg",[140 161 175  45  59  75 101 119 132   1   1   1  23  33  47],#8ca1af
+1450,sculpture,"https://api.nga.gov/iiif/d331e7d1-4f7a-4284-a4e8-2bd9e6549c62/full/!200,200/0/default.jpg",[ 32  54  74 126 170 196  85 119 145  54  81 106   0   0   1],#20364a
+1484,sculpture,"https://api.nga.gov/iiif/6620a36c-cc5d-4c9f-8fa5-31dad77cc654/full/!200,200/0/default.jpg",[  0   0   0  64  76  90 148 160 176 102 115 131  35  45  56],#000000
+1496,print,"https://api.nga.gov/iiif/db863f91-fb5d-4f93-b6e7-a3d25c96f4ab/full/!200,200/0/default.jpg",[150 175 192 120 143 159 188 215 232  63  81  95  92 113 128],#96afc0
+1475,sculpture,"https://api.nga.gov/iiif/20354737-5847-4c1b-b244-2e03f0ccbbb3/full/!200,200/0/default.jpg",[ 36  59  75   1   2   2 116 154 175  63  98 125  45  77 101],#243b4b
+1450,sculpture,"https://api.nga.gov/iiif/8a20394e-9627-4586-aab5-edf0cf5366ee/full/!200,200/0/default.jpg",[ 48  79 106  70 105 135 105 142 172   1   1   2  25  50  72],#304f6a
+1480,print,"https://api.nga.gov/iiif/16c06b40-33ad-40aa-bd61-6aaae9119142/full/!200,200/0/default.jpg",[ 99 128 155  41  58  79  67  90 116 193 227 246 142 177 202],#63809b
+1490,print,"https://api.nga.gov/iiif/dae85b6c-4665-4385-ba3b-515da3e640d1/full/!200,200/0/default.jpg",[ 61  82 102 154 189 215  97 122 146 128 155 177 175 209 230],#3d5266
+1475,sculpture,"https://api.nga.gov/iiif/cfa7b8ec-26ed-45b0-8e4b-9bdc4ba71360/full/!200,200/0/default.jpg",[132 156 170 105 124 136  11  11  12  80  93 103  54  61  68],#849caa
+1490,print,"https://api.nga.gov/iiif/99fa1465-18bc-462e-a2c6-12cd40c22d68/full/!200,200/0/default.jpg",[ 77 110 129 111  96  52  68  82 188 117 160 179 168 211 235],#4d6e81
+1470,sculpture,"https://api.nga.gov/iiif/c324b426-56d2-4dbf-b16d-c7b6fd41ed4c/full/!200,200/0/default.jpg",[119 145 164  45  65  81   0   0   1  20  35  46  77 101 119],#7791a4
+1400,sculpture,"https://api.nga.gov/iiif/9945a541-cfbc-43d2-a24c-0661ccb48d81/full/!200,200/0/default.jpg",[ 90 100 109 138 149 161  34  43  50   1   1   1  60  70  79],#5a646d
+1480,sculpture,"https://api.nga.gov/iiif/7c139daf-1850-48c7-9ecc-2342f678d290/full/!200,200/0/default.jpg",[156 184 195  54  82 112  74 108 142 101 136 162   1   1   2],#9cb8c3
+1400,print,"https://api.nga.gov/iiif/ab107ab5-58a8-42cd-b250-b480a0cefc88/full/!200,200/0/default.jpg",[ 64  82  99 140 167 190  94 116 135 119 143 165 177 205 222],#405263
+1480,print,"https://api.nga.gov/iiif/d45dfcae-36c7-437e-b1af-0235a7c87a47/full/!200,200/0/default.jpg",[128 147 160  93 108 121  61  71  81 190 217 232 161 183 198],#8093a0
+1475,sculpture,"https://api.nga.gov/iiif/26c4d359-89ff-4356-9c89-630faf9b1781/full/!200,200/0/default.jpg",[ 65  68  70   3   2   2 102 107 113 198 207 220 142 149 159],#414446
+1450,sculpture,"https://api.nga.gov/iiif/76351ff8-6773-4edc-a33b-e70aeaaa815a/full/!200,200/0/default.jpg",[132 176 206  48  84 118  82 122 155  28  55  81   0   0   1],#84b0ce
+1475,sculpture,"https://api.nga.gov/iiif/936fe45e-0035-44bc-a01e-35b590727371/full/!200,200/0/default.jpg",[ 38  42  41 114 120 117  76  82  78 195 195 194 177 177 177],#262a29
+1492,print,"https://api.nga.gov/iiif/21756363-6a36-48d6-a563-66b1ae296c86/full/!200,200/0/default.jpg",[150 170 182  81  98 106 114 133 142 181 205 221  46  63  69],#96aab6
+1475,sculpture,"https://api.nga.gov/iiif/665ab661-1bc6-4bb2-b137-b362467370b9/full/!200,200/0/default.jpg",[191 194 199  54  73  92 101 125 147 211 213 218 168 172 175],#bfc2c7
+1480,sculpture,"https://api.nga.gov/iiif/59bd6daf-b3ff-4236-b97d-6c02f1493ebf/full/!200,200/0/default.jpg",[ 48  59  69   1   1   0 103 118 134  72  84  96  28  36  43],#303b45
+1450,sculpture,"https://api.nga.gov/iiif/5f5066b7-8676-4d76-b244-343caa1cf6cd/full/!200,200/0/default.jpg",[ 31  39  45  85  93 100   7   5   5  54  63  70 119 127 135],#1f272d
+1475,sculpture,"https://api.nga.gov/iiif/b56d1857-13d0-4022-a985-c7cdfd91f365/full/!200,200/0/default.jpg",[ 62  82  96  28  41  50  44  60  72   1   1   2  93 113 128],#3e5260
+1450,print,"https://api.nga.gov/iiif/916e0f4b-9474-44b8-90ca-a1d2e10107f3/full/!200,200/0/default.jpg",[107 140 161 215 243 251  50 104 156  61  83 101 152 194 220],#6b8ca1
+1475,sculpture,"https://api.nga.gov/iiif/03ad3c26-4be1-409b-a88e-2cfdb1209519/full/!200,200/0/default.jpg",[ 84  90  98  14  12  13  41  42  45 122 134 145  59  62  67],#545a62
+1488,painting,"https://api.nga.gov/iiif/7681ffe3-535b-4e75-9d28-a288d7ce0cf5/full/!200,200/0/default.jpg",[ 84 122 165  36  69  89 148 141 115 177 185 177  20  25  35],#547aa5
+1480,print,"https://api.nga.gov/iiif/d30528b0-0ed8-4dd8-9ed3-68cc8149f8a8/full/!200,200/0/default.jpg",[141 172 192  67  95 119 185 215 234 105 189 226  96 130 151],#8dacc0
+1490,print,"https://api.nga.gov/iiif/979d294f-f9c1-4e83-95c1-9530d0e7aa6c/full/!200,200/0/default.jpg",[ 76  90 106 154 178 196 100 118 134 185 211 229 126 147 164],#4c5a6a
+1480,print,"https://api.nga.gov/iiif/474feb33-b7aa-4234-8a0f-1f1cd5fa39a0/full/!200,200/0/default.jpg",[161 190 211 108 130 149 137 163 183  74  91 107 184 213 233],#a1bed3
+1485,sculpture,"https://api.nga.gov/iiif/762a789f-4d42-4863-947f-f390677f7f67/full/!200,200/0/default.jpg",[119 143 173  82 105 136  35  53  82  52  72 105   0   0   1],#778fad
+1470,sculpture,"https://api.nga.gov/iiif/484e9817-02a0-4f5f-a077-03838179029f/full/!200,200/0/default.jpg",[  0   0   1  82  96 108  57  70  81  33  44  53 122 134 146],#000001
+1465,print,"https://api.nga.gov/iiif/ddc94e93-23b0-47ae-8dc9-f1c8c27ab618/full/!200,200/0/default.jpg",[105 126 140 125 146 160 154 178 194 140 163 178 190 213 224],#697e8c
+1475,sculpture,"https://api.nga.gov/iiif/27d10051-1cf6-46df-a3e6-2adee540d474/full/!200,200/0/default.jpg",[ 85 101 109   1   2   1 121 136 146  64  79  88  45  59  67],#55656d
+1480,print,"https://api.nga.gov/iiif/c4caec23-29a4-4d68-b72c-4ce8071895fa/full/!200,200/0/default.jpg",[ 92 107 121 125 143 158 162 184 200  61  72  84 198 223 238],#5c6b79
+1485,sculpture,"https://api.nga.gov/iiif/b7d48e1f-1532-48e6-a87b-cd48b2bf976b/full/!200,200/0/default.jpg",[155 168 181 116 130 145  86  99 114  63  75  92   0   0   0],#9ba8b5
+1480,drawing,"https://api.nga.gov/iiif/330c2b66-ffd0-4d07-aabc-8e48afb670f6/full/!200,200/0/default.jpg",[ 72  94 111 146 180 202 168 201 221 124 157 180 100 129 151],#485e6f
+1470,sculpture,"https://api.nga.gov/iiif/1c36355b-ade6-4210-98b3-dccde7cbf89f/full/!200,200/0/default.jpg",[123 129 136  87  94 102  43  51  59  60  68  77   0   0   0],#7b8188
+1470,print,"https://api.nga.gov/iiif/cf84131f-a128-4b24-acfc-ed175f5bf853/full/!200,200/0/default.jpg",[ 71  97 118 177 216 240 130 164 189 154 192 218 101 132 156],#476176
+1475,sculpture,"https://api.nga.gov/iiif/ba8b487c-6987-491b-8cea-e700257a3bed/full/!200,200/0/default.jpg",[ 49  89 120   1   1   2  63 105 138  34  64  85  78 123 156],#315978
+1450,sculpture,"https://api.nga.gov/iiif/5f5066b7-8676-4d76-b244-343caa1cf6cd/full/!200,200/0/default.jpg",[ 31  39  45  85  93 100   7   5   5  54  63  70 119 127 135],#1f272d
+1445,sculpture,"https://api.nga.gov/iiif/889dfda3-cf5e-461f-9cca-c8e0411315e3/full/!200,200/0/default.jpg",[ 24  31  41  38  48  61  57  68  84   3   2   1  85  95 110],#181f29
+1475,painting,"https://api.nga.gov/iiif/a3bbffa3-3e50-465a-832a-fff278cd945c/full/!200,200/0/default.jpg",[ 83 142 215  35  76 143  13  28  54  17  46  98  44 101 188],#538ed7
+1475,sculpture,"https://api.nga.gov/iiif/e95812ff-d68a-42bc-b1e6-555fea2ed4dc/full/!200,200/0/default.jpg",[  0   0   1  98 116 142  68  84 110  46  62  87  27  42  62],#000001
+1490,print,"https://api.nga.gov/iiif/f283a8f6-81d4-40f9-b7e9-928bf371b6c1/full/!200,200/0/default.jpg",[174 205 225 110 131 148 141 168 187  58  68  79  82  98 113],#aecde1
+1480,print,"https://api.nga.gov/iiif/fc5e80b7-1cc0-4467-8aa6-6574d23af2c0/full/!200,200/0/default.jpg",[148 193 222  65  80  94  91 113 130 204 235 249 125 154 175],#94c1de
+1400,sculpture,"https://api.nga.gov/iiif/e63eab5b-c6c9-4f35-95d0-70e0a516af9c/full/!200,200/0/default.jpg",[ 30  48  72  39  63  92 117 140 167  54  79 110   4   3   3],#1e3048
+1475,sculpture,"https://api.nga.gov/iiif/e6c61339-bf7b-453b-97d0-5675f99b3dcc/full/!200,200/0/default.jpg",[ 70 111 152  46  85 127   1   1   2 100 143 185  29  67 106],#466f98
+1498,print,"https://api.nga.gov/iiif/c593ce36-650c-42df-8aee-cd3d08d07fd9/full/!200,200/0/default.jpg",[185 204 213 149 166 180 120 135 148  95 108 120  68  78  89],#b9ccd5
+1475,sculpture,"https://api.nga.gov/iiif/e4121a90-605a-4c00-8866-6d3e8719cfd0/full/!200,200/0/default.jpg",[ 51  65  89   0   0   0 120 129 147  75  88 111  27  40  58],#334159
+1475,sculpture,"https://api.nga.gov/iiif/6420af8d-a3da-42c7-87a8-8020a8a39666/full/!200,200/0/default.jpg",[201 215 223 130 145 155 163 167 168  88 105 116 183 184 185],#c9d7df
+1480,sculpture,"https://api.nga.gov/iiif/25ff18be-9cc4-4ad1-bb09-3a8bd2dfc7c7/full/!200,200/0/default.jpg",[131 181 205  90 141 168   0   0   1  60 107 138  38  71  99],#83b5cd
+1470,painting,"https://api.nga.gov/iiif/99820c90-ed52-4981-9954-bd0512acacfc/full/!200,200/0/default.jpg",[ 34  47  94 119 138 166  63  70  52  24  33  39  73  95 126],#222f5e
+1450,print,"https://api.nga.gov/iiif/59e480a5-48ee-488e-ba9d-5cc4840f4541/full/!200,200/0/default.jpg",[181 203 218  71  82  94 138 157 170 105 119 132 218 238 249],#b5cbda
+1480,print,"https://api.nga.gov/iiif/955df577-3f7f-46b9-a7e4-099916e6d4b1/full/!200,200/0/default.jpg",[120 144 124  72 108 184  57  71 106 186 222 243 133 171 197],#78907c
+1470,sculpture,"https://api.nga.gov/iiif/4adaae9b-cf23-4deb-8679-4b6d681c2602/full/!200,200/0/default.jpg",[ 93 107 122  71  84  97   0   0   1  36  48  56  53  65  77],#5d6b7a
+1475,sculpture,"https://api.nga.gov/iiif/4c712aab-df03-41ba-84b2-8e814bb00ecb/full/!200,200/0/default.jpg",[  0   0   1  76  92 109 112 126 144  53  68  82 153 164 182],#000001
+1450,print,"https://api.nga.gov/iiif/52656bfa-797f-40f8-b941-40aa650cb009/full/!200,200/0/default.jpg",[129 151 165 156 182 197  78  92 103 104 122 134 183 211 227],#8197a5
+1470,sculpture,"https://api.nga.gov/iiif/45409538-6fba-42e6-940b-e870f717eb4f/full/!200,200/0/default.jpg",[136 152 157  83  94 106  61  71  80  43  51  56   1   1   1],#88989d
+1475,sculpture,"https://api.nga.gov/iiif/614fcbe8-c263-4ca8-a92f-b131b5338c12/full/!200,200/0/default.jpg",[ 79 115 159   3   4   4 119 156 193  61  95 139  48  76 114],#4f739f
+1475,sculpture,"https://api.nga.gov/iiif/9ac28092-0312-488f-b2fa-f8e5ce5d5382/full/!200,200/0/default.jpg",[ 28  40  64  37  55  87  75  89 111   1   1   1 141 158 175],#1c2840
+1475,sculpture,"https://api.nga.gov/iiif/aeda6ec0-5443-4055-92e1-0742cd34a237/full/!200,200/0/default.jpg",[ 68  83  97   5   4   3 129 144 158  49  62  73  92 108 120],#445361
+1480,print,"https://api.nga.gov/iiif/712a9829-6039-4971-8c5f-89ea7ac8d1f6/full/!200,200/0/default.jpg",[187 208 223 142 159 172 161 180 194 177 198 213 119 136 149],#bbd0df
+1470,print,"https://api.nga.gov/iiif/513ddfd6-dddc-49c1-b844-9753691bb441/full/!200,200/0/default.jpg",[110 130 147 135 158 176 161 186 204  79  95 109 184 209 227],#6e8293
+1470,sculpture,"https://api.nga.gov/iiif/807c1c2a-2f5b-4339-913b-f7123e952b23/full/!200,200/0/default.jpg",[ 35  66  94  46  78 106 126 147 166   1   1   1  74 100 121],#23425e
+1480,print,"https://api.nga.gov/iiif/140aacfb-21a1-4f9e-9b0b-349a3c2c34d1/full/!200,200/0/default.jpg",[ 90 106 120 121 141 157  62  72  85 154 178 196 186 213 230],#5a6a78
+1470,sculpture,"https://api.nga.gov/iiif/539aafa5-946c-44e2-8a5e-96087f28e0a2/full/!200,200/0/default.jpg",[  1   1   2  78 101 124  26  43  61 127 152 175  42  65  90],#010102
+1450,sculpture,"https://api.nga.gov/iiif/97221cbc-0a9e-4d91-89ff-2fdea8579b76/full/!200,200/0/default.jpg",[203 211 223  85  86  87 145 152 160 173 182 192 115 118 123],#cbd3df
+1450,print,"https://api.nga.gov/iiif/bc6e8cc2-d0fb-4486-b0c8-0efec0892e72/full/!200,200/0/default.jpg",[190 221 240  97 141 169 153 193 218 122 167 194  71 109 133],#beddf0
+1475,sculpture,"https://api.nga.gov/iiif/00d6f221-c269-44b4-9ad6-670c24bb1abc/full/!200,200/0/default.jpg",[ 39  46  54   3   2   2  28  33  42  58  66  73  87 102 126],#272e36
+1450,sculpture,"https://api.nga.gov/iiif/0b8db265-0648-4e30-9950-5f0399813abe/full/!200,200/0/default.jpg",[108 116 125  88  94 101  72  76  81  56  58  62  11  12  12],#6c747d
+1470,sculpture,"https://api.nga.gov/iiif/9c4b9700-465c-445e-bd39-ef508c845e87/full/!200,200/0/default.jpg",[  1   1   2  58  92 123  57 113 158  33  87 134  28  68 104],#010102
+1480,print,"https://api.nga.gov/iiif/ceff9b46-1de1-4a52-9a2e-e60480bbaa3e/full/!200,200/0/default.jpg",[182 201 214 115 130 142 214 235 247 148 165 177  80  93 104],#b6c9d6
+1400,print,"https://api.nga.gov/iiif/fc0dd59f-517a-4410-b931-9e7f5a5ce473/full/!200,200/0/default.jpg",[166 194 210  56  72  86 139 161 180  90 106 122 121 142 159],#a6c2d2
+1400,sculpture,"https://api.nga.gov/iiif/bb308db0-234c-49a2-8c1b-617c3beb074c/full/!200,200/0/default.jpg",[111 122 133  47  58  69  72  83  94  29  38  49   5   4   3],#6f7a85
+1450,sculpture,"https://api.nga.gov/iiif/09ae204b-bec2-4979-83e6-2a5c2058a8df/full/!200,200/0/default.jpg",[111 154 188  28  53  76  74 111 143  51  81 108   0   0   1],#6f9abc
+1475,sculpture,"https://api.nga.gov/iiif/44e56d36-2953-47c7-9a6d-50a974437829/full/!200,200/0/default.jpg",[ 44  61  81  75  94 116  97 118 142  59  77  98   7   6   5],#2c3d51
+1480,print,"https://api.nga.gov/iiif/0d09c49a-338a-42f4-8b57-b47156324f30/full/!200,200/0/default.jpg",[ 50  68 134 113 156 190 106 110  94 177 214 237  57 115 226],#324486
+1400,sculpture,"https://api.nga.gov/iiif/e5180a6d-0c4d-4c73-a67a-d7e8721e7a9b/full/!200,200/0/default.jpg",[ 96 121 144  63  89 111  45  66  87  28  44  62   2   1   0],#607990
+1480,sculpture,"https://api.nga.gov/iiif/d59baf8a-f4a7-44b1-92cf-038ed939b41b/full/!200,200/0/default.jpg",[ 70  75  76 139 153 162   5   3   2  88  95  98 112 122 129],#464b4c
+1475,print,"https://api.nga.gov/iiif/a4cbc08b-a51c-4702-968e-bf26b168cc23/full/!200,200/0/default.jpg",[128 143 156 157 177 191 182 203 216  98 110 121  66  75  84],#808f9c
+1480,sculpture,"https://api.nga.gov/iiif/e949bf58-ee9c-4769-9d5c-24e837a86175/full/!200,200/0/default.jpg",[125 136 145   0   0   0  51  60  66 175 186 194  84  94 102],#7d8891
+1485,sculpture,"https://api.nga.gov/iiif/4e0bbed9-5486-4d73-86ce-80d55a3236df/full/!200,200/0/default.jpg",[ 98 124 150  44  76 111  36  61  88   0   0   1  27  48  70],#627c96
+1490,drawing,"https://api.nga.gov/iiif/4e51caba-e7ca-4096-842d-cbea09538da5/full/!200,200/0/default.jpg",[220 243 250 183 213 231 132 169 199 161 194 218 101 139 174],#dcf3fa
+1450,sculpture,"https://api.nga.gov/iiif/a3e6adfb-e4e2-4acd-9ce2-53c6385cafcb/full/!200,200/0/default.jpg",[ 27  36  50  46  58  73   3   1   1  76  88 101 124 137 151],#1b2432
+1470,sculpture,"https://api.nga.gov/iiif/27e4d56a-2e4d-4a2d-82c9-b78ef826b3cb/full/!200,200/0/default.jpg",[ 81  90 102  60  69  81 111 118 129 228 228 228 203 205 206],#515a66
+1495,drawing,"https://api.nga.gov/iiif/137f897f-486a-4907-accd-bfd65ecd2823/full/!200,200/0/default.jpg",[123 165 194  82 116 142 152 199 229 105 143 171 137 186 218],#7ba5c2
+1452,sculpture,"https://api.nga.gov/iiif/6a54c836-98d8-46e1-94ee-8c7fe3345066/full/!200,200/0/default.jpg",[ 87 115 148  61  90 125  44  70 102   1   1   2 126 157 187],#577394
+1400,drawing,"https://api.nga.gov/iiif/76558a95-e3f1-47df-ac78-0ec12f0c8be0/full/!200,200/0/default.jpg",[105 121 142  71  86 104 161 179 201 176 197 215 138 155 179],#69798e
+1480,print,"https://api.nga.gov/iiif/f34092a3-6e41-4337-81ac-79798302133a/full/!200,200/0/default.jpg",[162 203 230  73 144 219  81 107 103  65 113 166 123 164 191],#a2cbe6
+1465,print,"https://api.nga.gov/iiif/d7ea13b7-817f-4494-8a1a-454197894540/full/!200,200/0/default.jpg",[138 158 171 219 241 248 155 174 188 170 191 206 119 139 152],#8a9eab
+1480,print,"https://api.nga.gov/iiif/b21e2ac3-07f2-4ded-9879-27ce229a4641/full/!200,200/0/default.jpg",[188 221 235  69 125 226  74 108 147  94 121  82 121 166 181],#bcddeb
+1400,drawing,"https://api.nga.gov/iiif/6d114d2a-ffb0-44c8-8219-62942eaa932a/full/!200,200/0/default.jpg",[212 232 243 142 163 180 105 125 144  72  91 110 171 195 211],#d4e8f3
+1480,print,"https://api.nga.gov/iiif/ff0f32d6-f2b3-447e-9857-295d5a3a81b8/full/!200,200/0/default.jpg",[ 89 106 121 126 148 165 109 129 145 184 207 219 139 163 180],#596a79
+1470,sculpture,"https://api.nga.gov/iiif/47543a99-cc03-4c14-b9d8-91473727d293/full/!200,200/0/default.jpg",[ 81  92 101 124 135 145   0   0   1  30  39  47  53  63  72],#515c65
+1470,print,"https://api.nga.gov/iiif/92801bd2-b358-4ce3-87de-e90b1ee163ee/full/!200,200/0/default.jpg",[102 151 183  76 119 152 170 211 236  38  70 131 124 183 217],#6697b7
+1475,sculpture,"https://api.nga.gov/iiif/3ca90817-7cce-47f1-a866-242f14749ba7/full/!200,200/0/default.jpg",[ 78  95 113 114 133 153  30  43  56   0   0   0  51  67  82],#4e5f71
+1480,sculpture,"https://api.nga.gov/iiif/d59baf8a-f4a7-44b1-92cf-038ed939b41b/full/!200,200/0/default.jpg",[ 70  75  76 139 153 162   5   3   2  88  95  98 112 122 129],#464b4c
+1470,print,"https://api.nga.gov/iiif/513ddfd6-dddc-49c1-b844-9753691bb441/full/!200,200/0/default.jpg",[110 130 147 135 158 176 161 186 204  79  95 109 184 209 227],#6e8293
+1480,print,"https://api.nga.gov/iiif/42aa9c72-545f-4796-b8b5-b601954f0f96/full/!200,200/0/default.jpg",[ 69  83  96 165 193 210 191 219 236 136 160 176 103 123 138],#455360
+1480,print,"https://api.nga.gov/iiif/5ac21471-2b2c-40fb-b1ac-277e9a97e9db/full/!200,200/0/default.jpg",[143 170 187 169 198 217 111 134 151 190 218 235  76  94 110],#8faabb
+1470,sculpture,"https://api.nga.gov/iiif/0be5a4fa-e717-4ba4-a8ef-ddabbc7b62d5/full/!200,200/0/default.jpg",[ 3  2  2 29 36 42 55 64 72 41 49 55 79 89 98],#030202
+1470,sculpture,"https://api.nga.gov/iiif/c324b426-56d2-4dbf-b16d-c7b6fd41ed4c/full/!200,200/0/default.jpg",[119 145 164  45  65  81   0   0   1  20  35  46  77 101 119],#7791a4
+1480,print,"https://api.nga.gov/iiif/007ed13a-1c2c-4c59-93b2-acbb5e35d43f/full/!200,200/0/default.jpg",[203 228 239 143 162 176 105 118 130 176 199 213  69  79  90],#cbe4ef
+1480,print,"https://api.nga.gov/iiif/33c59944-1f1e-403d-bec4-2634443b5fb5/full/!200,200/0/default.jpg",[190 224 242  74 114 184 134 173 191  47  64 113  94 117  90],#bee0f2
+1465,print,"https://api.nga.gov/iiif/a40435d8-0425-4aaf-95af-f356918a5b4b/full/!200,200/0/default.jpg",[210 231 241 131 146 159 176 194 207  99 113 125 155 171 185],#d2e7f1
+1475,sculpture,"https://api.nga.gov/iiif/ec262fb9-eaaa-4e7d-9e95-9e093199e6a5/full/!200,200/0/default.jpg",[132 157 181  84 108 134  32  55  79  50  75 103   0   0   0],#849db5
+1475,sculpture,"https://api.nga.gov/iiif/f517095e-7a3f-412a-8cee-c57c1035393b/full/!200,200/0/default.jpg",[ 11  11  12  70  76  86  49  52  59  93 105 118 121 143 163],#0b0b0c
+1480,print,"https://api.nga.gov/iiif/68435d8b-773b-4941-a9a7-a8163978111f/full/!200,200/0/default.jpg",[144 164 179 115 131 144 191 212 222  84  97 108  57  66  74],#90a4b3
+1475,print,"https://api.nga.gov/iiif/45fb42d0-659a-4027-a7eb-47d89e5b329b/full/!200,200/0/default.jpg",[182 210 227 132 155 172  76  94 109 159 184 201 104 124 141],#b6d2e3
+1450,print,"https://api.nga.gov/iiif/31cc2803-399c-4d38-881a-a2dcf26bf1be/full/!200,200/0/default.jpg",[ 33  53  76 181 208 224  57  83 114  96 127 160  78 107 139],#21354c
+1470,sculpture,"https://api.nga.gov/iiif/4be1c415-b3d5-499a-8f79-9e3d416b9fe1/full/!200,200/0/default.jpg",[108 117 126 208 215 225 139 150 161  36  47  62 172 184 196],#6c757e
+1480,print,"https://api.nga.gov/iiif/f70f6831-e1e2-4201-8fb2-fa89c2a34090/full/!200,200/0/default.jpg",[ 87 127 160 123 152 104  51  81 120 169 212 234 125 169 196],#577fa0
+1470,sculpture,"https://api.nga.gov/iiif/bfccd3fe-d051-41a4-98bb-7857fb5281de/full/!200,200/0/default.jpg",[ 85 123 150 131 176 204  43  78 106  20  47  72   0   1   2],#557b96
+1400,sculpture,"https://api.nga.gov/iiif/a8c63ee6-bcb8-48c3-b328-c339821fa0d7/full/!200,200/0/default.jpg",[  5   4   3 103 124 130 179 194 200  56  79  84  73  96 100],#050403
+1470,sculpture,"https://api.nga.gov/iiif/732b6752-42e2-45ec-885e-eba63d00dd5b/full/!200,200/0/default.jpg",[113 132 121  97 114 103   0   0   0  81  96  86 150 165 169],#718479
+1460,print,"https://api.nga.gov/iiif/8b8f55cb-01a4-4f5b-a06e-43a073c9ea55/full/!200,200/0/default.jpg",[ 82 116 145 179 217 237 130 166 108  44  60 107 107 170 210],#527491
+1480,print,"https://api.nga.gov/iiif/aff1c2e3-0efe-430a-b564-98a4f2cb8f53/full/!200,200/0/default.jpg",[141 188 223 105 144 193 186 222 244  49  71  92  89 115 136],#8dbcdf
+1480,print,"https://api.nga.gov/iiif/a52235d6-18eb-4ab1-8145-630d1dee18ef/full/!200,200/0/default.jpg",[166 205 231 120 152 175  75  96 114 143 179 204  99 126 147],#a6cde7
+1450,print,"https://api.nga.gov/iiif/66878662-0e54-41bc-940d-2e47e26e90be/full/!200,200/0/default.jpg",[ 68  79  88  95 107 117 176 194 205 119 133 143 146 162 174],#444f58
+1475,painting,"https://api.nga.gov/iiif/e2dd819e-1abc-4613-9c65-0753a34ad85e/full/!200,200/0/default.jpg",[ 19  27  24  27  39  28  33  65  95  47 106 142  32  44  49],#131b18
+1470,print,"https://api.nga.gov/iiif/06d64251-20d4-452f-8725-0cf500f9abcf/full/!200,200/0/default.jpg",[113 136 152  78  99 114 193 222 237 144 170 187 173 202 218],#718898
+1480,print,"https://api.nga.gov/iiif/30d24b57-6d16-483e-9892-05626a331698/full/!200,200/0/default.jpg",[142 159 172 120 136 149 165 185 198 184 206 219  97 114 126],#8e9fac
+1475,sculpture,"https://api.nga.gov/iiif/827f951e-6f06-4651-be8f-e9db82948401/full/!200,200/0/default.jpg",[116 129 141  57  69  79   1   1   1  36  47  57  82  95 106],#74818d
+1470,print,"https://api.nga.gov/iiif/61d94170-fea6-453a-b417-54b490a88164/full/!200,200/0/default.jpg",[186 224 246  97 118 130 111 146 196 144 186 219  69  88  84],#bae0f6
+1465,print,"https://api.nga.gov/iiif/a5d30707-7e9c-4f42-b2ca-bcd603b70964/full/!200,200/0/default.jpg",[144 162 176 187 210 222 129 146 158 158 177 191 111 127 139],#90a2b0
+1480,print,"https://api.nga.gov/iiif/4a5efcaa-8f31-45af-8fff-f024fe2932dc/full/!200,200/0/default.jpg",[187 224 244  48  67  91 147 190 219  81 108 137  64  88 118],#bbe0f4
+1480,decorative art,"https://api.nga.gov/iiif/af553f55-32f3-47df-8df3-b996c4b560bc/full/!200,200/0/default.jpg",[212 213 213 111 117 112 167 169 169  66  68  58 191 192 191],#d4d5d5
+1480,sculpture,"https://api.nga.gov/iiif/1595ea1a-2edb-4ffc-bcd2-0a1980bad4ab/full/!200,200/0/default.jpg",[  0   0   1  23  37  51  58  81 103  38  58  78  95 117 138],#000001
+1480,print,"https://api.nga.gov/iiif/f90e59ba-111a-4861-8d32-d6ae189109c5/full/!200,200/0/default.jpg",[147 172 188 178 197 209 123 142 155  70  81  90  98 113 124],#93acbc
+1475,sculpture,"https://api.nga.gov/iiif/c1b6591f-a427-4033-bbc8-667fbadc2707/full/!200,200/0/default.jpg",[  1   1   1 130 143 159  90 103 118  58  70  83  34  45  57],#010101
+1480,sculpture,"https://api.nga.gov/iiif/7025700d-ff4e-4f67-b6a8-b490625e4f6b/full/!200,200/0/default.jpg",[ 67  98 121  54  78  97  39  55  71   0   0   1 122 138 154],#436279
+1460,sculpture,"https://api.nga.gov/iiif/9c083d24-c409-4eee-96aa-5af90ad10903/full/!200,200/0/default.jpg",[111 122 133   4   3   2  71  83  93 145 154 165  90 101 111],#6f7a85
+1470,print,"https://api.nga.gov/iiif/1cc73f15-9121-4c61-8f23-4c78feff6b19/full/!200,200/0/default.jpg",[ 66  80  94 157 185 204 126 150 168 186 216 235  96 115 131],#42505e
+1475,sculpture,"https://api.nga.gov/iiif/b6179c61-0d93-4c8d-b638-2ac7d3bc7984/full/!200,200/0/default.jpg",[156 159 162 195 196 199 224 224 227 117 126 134  64  85 106],#9c9fa2
+1480,painting,"https://api.nga.gov/iiif/2ea2d362-7c35-4819-860d-d3c7de2db4b8/full/!200,200/0/default.jpg",[ 42  57  72  22  27  30 119 166 210  87 129 168  53  91 132],#2a3948
+1400,sculpture,"https://api.nga.gov/iiif/a04e357a-38db-4e06-8a8d-6ff895d2b449/full/!200,200/0/default.jpg",[ 58  76  90   3   3   3  85 106 126  40  54  64 138 155 170],#3a4c5a
+1480,print,"https://api.nga.gov/iiif/0ee018b5-346f-42d1-9543-8148f95e2706/full/!200,200/0/default.jpg",[104 127 144 161 194 217 178 211 232  71  89 105 134 163 185],#687f90
+1470,print,"https://api.nga.gov/iiif/91b00626-a5a4-4aa9-92c8-b28d4930454b/full/!200,200/0/default.jpg",[158 201 232  59 110 213  94 123 135  54  83 110 119 159 191],#9ec9e8
+1475,sculpture,"https://api.nga.gov/iiif/5c3c67ae-a22b-4a01-9657-21ef3a9bdafe/full/!200,200/0/default.jpg",[106 139 170  31  48  69   0   0   1  73 100 130  49  71  99],#6a8baa
+1450,sculpture,"https://api.nga.gov/iiif/562ebf7a-f15a-45f1-aff2-7637da0ba751/full/!200,200/0/default.jpg",[ 71 113 157  55  91 132   1   2   1  44  68  98  91 144 190],#47719d
+1480,print,"https://api.nga.gov/iiif/b3d800f0-5556-408a-b1e5-d3d4e3a6d6c0/full/!200,200/0/default.jpg",[ 67  82  95 182 210 227 208 237 248 107 126 141 146 169 185],#43525f
+1475,sculpture,"https://api.nga.gov/iiif/d8cdb475-9d1d-4451-b093-d18e9c3475bf/full/!200,200/0/default.jpg",[121 149 175  57  81 106   0   0   1  36  57  77  85 111 137],#7995af
+1430,drawing,"https://api.nga.gov/iiif/48dc2f7b-eb25-40a2-9a37-8aea6fd417f2/full/!200,200/0/default.jpg",[ 86  84  94 130 170 206 143 132 138 228 239 252  81 102 166],#56545e
+1475,sculpture,"https://api.nga.gov/iiif/037fdc93-59fe-41a8-80a6-accec5e4f20e/full/!200,200/0/default.jpg",[ 50  68  83   0   0   0  30  46  60  79  96 110 122 139 155],#324453
+1480,print,"https://api.nga.gov/iiif/fde45f01-c8ea-4074-9646-391288c2971c/full/!200,200/0/default.jpg",[101 120 137  69  85 100 183 214 230 135 159 179  42  55  68],#657889
+1480,sculpture,"https://api.nga.gov/iiif/b67d605d-628f-4f90-a474-3c4fd96df909/full/!200,200/0/default.jpg",[ 84  97 119  67  78  91   0   0   0 114 139 168  28  47  63],#546177
+1490,print,"https://api.nga.gov/iiif/4e9af385-8033-4598-a0b9-6bad8cb01f69/full/!200,200/0/default.jpg",[ 52  59  65 179 197 208 134 150 162  77  86  94 101 112 121],#343b41
+1440,print,"https://api.nga.gov/iiif/d8a0bbf2-c17a-4166-8711-a1b721d1345f/full/!200,200/0/default.jpg",[121 163 142 116 197 232  59  80  91  67  82 157 195 225 237],#79a38e
+1475,print,"https://api.nga.gov/iiif/05a22f47-6fb2-423e-9837-b4734f4c30d0/full/!200,200/0/default.jpg",[ 87 110 127 123 148 164 193 224 242  50  69  86 161 186 203],#576e7f
+1480,sculpture,"https://api.nga.gov/iiif/df97a25b-5ece-4fcd-bfc3-0cd1e2089c8e/full/!200,200/0/default.jpg",[ 79 107 132   1   1   1 106 132 158 142 164 186  58  84 106],#4f6b84
+1465,print,"https://api.nga.gov/iiif/347aba55-1147-4317-98fb-ddb1f4779933/full/!200,200/0/default.jpg",[190 214 227 100 123 139 123 146 163 139 163 180 151 175 192],#bed6e3
+1400,sculpture,"https://api.nga.gov/iiif/c71b084c-6436-4f02-9e02-a402573ae984/full/!200,200/0/default.jpg",[185 187 187 112 117 124  64  70  78 202 202 201 230 228 226],#b9bbbb
+1475,decorative art,"https://api.nga.gov/iiif/06360224-a344-491e-8ea2-fa79549eac88/full/!200,200/0/default.jpg",[201 220 238 166 183 200  85 114 156  61  84 119  30  47  77],#c9dcee
+1490,print,"https://api.nga.gov/iiif/7e109171-4cb8-4e84-ad31-f47b2344c93d/full/!200,200/0/default.jpg",[197 220 234  71  83  96  96 112 126 156 177 192 124 142 157],#c5dcea
+1475,sculpture,"https://api.nga.gov/iiif/4d61d14b-89a6-4b6c-aceb-ea314b780a01/full/!200,200/0/default.jpg",[  1   1   2  53  85 121  70 105 141  38  67  98  93 129 159],#010102
+1400,sculpture,"https://api.nga.gov/iiif/fb737ad1-332d-4332-aa99-59d8a347c5be/full/!200,200/0/default.jpg",[234 231 230 209 206 204 107 108 112 189 188 187  58  59  64],#eae7e6
+1497,print,"https://api.nga.gov/iiif/839f2f71-6041-46bd-95f2-6a5d07ee0d5f/full/!200,200/0/default.jpg",[105 118 129 208 226 238 137 154 165  71  82  92 170 188 200],#697681
+1480,print,"https://api.nga.gov/iiif/42ab33c0-34c2-4974-ab17-8e2c9049b564/full/!200,200/0/default.jpg",[163 183 197 143 162 176 116 132 147  60  71  83  87 102 115],#a3b7c5
+1480,sculpture,"https://api.nga.gov/iiif/1b20f160-e70e-4d82-ba8f-8bc966593cac/full/!200,200/0/default.jpg",[ 65  90 108   0   0   0  94 117 133 118 141 157 158 207 211],#415a6c
+1490,print,"https://api.nga.gov/iiif/52bfee24-6789-41cf-b2b0-c28cf13d50dd/full/!200,200/0/default.jpg",[175 186 194  79  84  89 100 105 110 215 231 240 121 127 133],#afbac2
+1475,sculpture,"https://api.nga.gov/iiif/59589e63-912a-4d5f-b800-d6939369c17b/full/!200,200/0/default.jpg",[ 75  93 109 150 169 185  43  59  73   1   2   1 110 128 144],#4b5d6d
+1475,sculpture,"https://api.nga.gov/iiif/e5204120-4862-42e3-8d2d-35904bab2551/full/!200,200/0/default.jpg",[ 15  38  61  54  83 107  78 108 136  33  59  86   0   0   1],#0f263d
+1470,sculpture,"https://api.nga.gov/iiif/73cc459b-677c-4a97-90fa-3be7d32b8fee/full/!200,200/0/default.jpg",[ 28  35  42  66  75  84 103 112 117   2   1   1  42  51  61],#1c232a
+1470,sculpture,"https://api.nga.gov/iiif/4be1c415-b3d5-499a-8f79-9e3d416b9fe1/full/!200,200/0/default.jpg",[108 117 126 208 215 225 139 150 161  36  47  62 172 184 196],#6c757e
+1480,print,"https://api.nga.gov/iiif/b091fa2a-83e8-4011-9f72-f040549fca78/full/!200,200/0/default.jpg",[100 121 138  74  89 103 184 214 231 155 183 202 128 153 171],#64798a
+1480,sculpture,"https://api.nga.gov/iiif/5c696842-ebdb-4671-bdef-481b9435ea63/full/!200,200/0/default.jpg",[ 50  65  75   0   0   0 120 136 153  78  94 109  29  43  53],#32414b
+1475,sculpture,"https://api.nga.gov/iiif/ed0d6785-bdf5-4725-a9d9-c113a802dbcf/full/!200,200/0/default.jpg",[ 69  74  79 210 210 210 112 119 125 180 180 181  48  52  56],#454a4f
+1465,print,"https://api.nga.gov/iiif/ddc94e93-23b0-47ae-8dc9-f1c8c27ab618/full/!200,200/0/default.jpg",[105 126 140 125 146 160 154 178 194 140 163 178 190 213 224],#697e8c
+1490,print,"https://api.nga.gov/iiif/c7eba198-0a7c-43e2-bb65-e38a299c6eaa/full/!200,200/0/default.jpg",[116 135 150 144 166 182 171 195 212  84  99 114 193 219 235],#748796
+1450,sculpture,"https://api.nga.gov/iiif/9c1853b2-1f33-4e54-b053-9f81f04eff11/full/!200,200/0/default.jpg",[134 136 134  90  93  93 108 112 111  68  71  71 208 207 208],#868886
+1480,print,"https://api.nga.gov/iiif/84288bb0-eb01-4126-9c38-400117bf887b/full/!200,200/0/default.jpg",[106 121 132  70  82  92 161 179 193 138 156 169 197 216 227],#6a7984
+1470,print,"https://api.nga.gov/iiif/af760aa8-72c9-40f0-97d4-e01c8e8bff11/full/!200,200/0/default.jpg",[ 52  71  89 151 188 215  81 111 133 116 151 174 211 239 249],#344759
+1480,sculpture,"https://api.nga.gov/iiif/b67d605d-628f-4f90-a474-3c4fd96df909/full/!200,200/0/default.jpg",[ 84  97 119  67  78  91   0   0   0 114 139 168  28  47  63],#546177
+1458,sculpture,"https://api.nga.gov/iiif/9b392f50-a944-48f7-a0d8-4b7424fc73aa/full/!200,200/0/default.jpg",[ 83 105 133 114 138 166  36  56  81   0   0   0  50  76 115],#536985
+1480,print,"https://api.nga.gov/iiif/3a8f7172-eaa6-45fc-bf6e-7a468e33cd72/full/!200,200/0/default.jpg",[ 60  73  84 119 138 152 138 160 176  89 105 117 177 197 211],#3c4954
+1480,sculpture,"https://api.nga.gov/iiif/2d416f08-7a2e-4b59-b032-c33c3d409e67/full/!200,200/0/default.jpg",[ 72  92 115   0   0   0  45  63  83 107 127 152  31  47  58],#485c73
+1480,print,"https://api.nga.gov/iiif/7e303e85-8504-43ff-9281-bd04364e1743/full/!200,200/0/default.jpg",[185 202 214 156 172 184 123 137 147 103 115 125  72  82  92],#b9cad6
+1450,sculpture,"https://api.nga.gov/iiif/ecdb0e76-0ce0-428b-b6ae-21b19860183b/full/!200,200/0/default.jpg",[ 93 110 129  52  64  80   1   0   1  30  39  54 154 171 184],#5d6e81
+1475,sculpture,"https://api.nga.gov/iiif/9bb202f2-936a-4f35-a8c1-10c94ed444e0/full/!200,200/0/default.jpg",[ 59  65  68  90  97 101 137 144 150   0   0   0  35  41  44],#3b4144
+1470,print,"https://api.nga.gov/iiif/f4773445-9c0a-4758-b0ea-19ae31783b23/full/!200,200/0/default.jpg",[182 219 247  46  51  53  63  92  91 113 178 222  61  92 177],#b6dbf7
+1480,print,"https://api.nga.gov/iiif/ac2a6c07-c015-431d-af80-686d7bab7b09/full/!200,200/0/default.jpg",[185 216 235  93 111 127  58  72  85 157 184 202 126 149 166],#b9d8eb
+1475,print,"https://api.nga.gov/iiif/8bcd5195-fbc6-4a44-9f8d-28ba059e52da/full/!200,200/0/default.jpg",[188 219 236 109 137 139  71  90 168 158 181 190  53  73  90],#bcdbec
+1480,print,"https://api.nga.gov/iiif/60a13f59-0244-453a-b768-fc94dfa5fc0a/full/!200,200/0/default.jpg",[107 139 160  83 110 131  58  81 106 140 174 195 189 222 238],#6b8ba0
+1475,sculpture,"https://api.nga.gov/iiif/8545d8e9-fbcc-4e55-9715-899b88b2b19c/full/!200,200/0/default.jpg",[233 233 233  58  64  70 224 224 224 148 153 157  97 104 111],#e9e9e9
+1480,print,"https://api.nga.gov/iiif/36debdd1-3b78-4da0-9618-01a7e6742f26/full/!200,200/0/default.jpg",[188 225 246 129 177 216  80 115 148  59  81 106 103 145 182],#bce1f6
+1480,print,"https://api.nga.gov/iiif/8f799879-3565-46f4-bdfd-927535a8bd9b/full/!200,200/0/default.jpg",[106  92  52  53 109 222  86 136 164 143 197 234  57  82  96],#6a5c34
+1400,sculpture,"https://api.nga.gov/iiif/fb3bb4d7-a62f-467d-b91c-4d65ddca2548/full/!200,200/0/default.jpg",[ 42  61  83  28  42  60   0   0   1  71  89 105 121 141 153],#2a3d53
+1400,print,"https://api.nga.gov/iiif/ee742e17-9780-43fc-aee1-c21d6d0241d9/full/!200,200/0/default.jpg",[115 154 189  53  72  91 104 104  76  75 109 153 194 221 244],#739abd
+1470,print,"https://api.nga.gov/iiif/92801bd2-b358-4ce3-87de-e90b1ee163ee/full/!200,200/0/default.jpg",[102 151 183  76 119 152 170 211 236  38  70 131 124 183 217],#6697b7
+1475,sculpture,"https://api.nga.gov/iiif/5e4b5eb2-ace5-45ce-97a7-6cddce7dd6e8/full/!200,200/0/default.jpg",[  6   5   4 120 131 136 102 112 117 149 158 164  82  93  98],#060504
+1430,sculpture,"https://api.nga.gov/iiif/10b4387f-3370-4b89-ad8f-353251db61ee/full/!200,200/0/default.jpg",[133 148 156  33  52  64  50  71  84  76  94 106   0   0   0],#85949c
+1475,painting,"https://api.nga.gov/iiif/9d7fd726-6565-49b5-ae42-fd8f570fbf08/full/!200,200/0/default.jpg",[ 25  41  69  59 102 159  90 140 202  38  70 117  16  18  25],#192945
+1480,print,"https://api.nga.gov/iiif/33c59944-1f1e-403d-bec4-2634443b5fb5/full/!200,200/0/default.jpg",[190 224 242  74 114 184 134 173 191  47  64 113  94 117  90],#bee0f2
+1470,sculpture,"https://api.nga.gov/iiif/a1c015bb-2182-4485-889e-5d7377cc83a4/full/!200,200/0/default.jpg",[ 55  78 108  42  63  89 125 135 150   0   0   1  29  46  69],#374e6c
+1480,sculpture,"https://api.nga.gov/iiif/cf9ab358-80e7-4ecc-9aa7-17ed5b606877/full/!200,200/0/default.jpg",[144 153 148  84  96  98   1   0   0  28  39  46  42  56  66],#909994
+1480,print,"https://api.nga.gov/iiif/edce32fe-7eae-4960-9c26-4cfd83407685/full/!200,200/0/default.jpg",[193 226 243 103 151 190  83 110 139  64  77  98  44  53  65],#c1e2f3
+1450,painting,"https://api.nga.gov/iiif/851eaa44-5707-44d8-910e-42c41c557110/full/!200,200/0/default.jpg",[136 169 188 120  92  62  34  49  60  48  85 124  80 124 159],#88a9bc
+1460,print,"https://api.nga.gov/iiif/e0f10ffd-23bf-4fd6-9e4e-e2aedd7a1002/full/!200,200/0/default.jpg",[ 70 100 121 168 204 227 126 160 183 101 134 156 149 184 207],#466479
+1450,sculpture,"https://api.nga.gov/iiif/4429274c-919f-4618-9deb-a7ed6989f01f/full/!200,200/0/default.jpg",[ 52  66  78   1   1   2  39  51  62  68  81  94  95 107 123],#34424e
+1475,print,"https://api.nga.gov/iiif/c94a7af6-705f-4066-b60d-66c911194c99/full/!200,200/0/default.jpg",[194 221 237 136 159 176  68  81  95 168 195 213 102 120 135],#c2dded
+1475,sculpture,"https://api.nga.gov/iiif/b71d84bc-d7f9-477c-9bf7-eb7e2f1ebc59/full/!200,200/0/default.jpg",[  2   2   1  45  59  69  63  78  89  84  99 112 116 131 144],#020201
+1470,sculpture,"https://api.nga.gov/iiif/26d908e6-3668-4a0d-b0ab-f50f7efd0c04/full/!200,200/0/default.jpg",[107 110 114  73  76  80  47  50  54 183 184 184 193 193 193],#6b6e72
+1466,sculpture,"https://api.nga.gov/iiif/3e9396e4-ffd8-4885-b68d-462c2f4deaa7/full/!200,200/0/default.jpg",[ 86 113 147   0   0   0  64  88 124 122 152 182  48  67  95],#567193
+1480,print,"https://api.nga.gov/iiif/ee6227f5-550b-426f-91d3-4863870a137a/full/!200,200/0/default.jpg",[ 99 114 128 168 191 206 136 156 170 197 222 235  67  77  89],#637280
+1490,sculpture,"https://api.nga.gov/iiif/e423d994-cc19-420d-a9de-01976ddf4874/full/!200,200/0/default.jpg",[ 42  65 103 126 153 178  30  48  75   0   0   0  79 102 130],#2a4167
+1475,sculpture,"https://api.nga.gov/iiif/229a4265-93cc-43e8-b197-fea501a16ece/full/!200,200/0/default.jpg",[ 90 122 165  52  75 110  73 100 140 139 173 210 112 147 187],#5a7aa5
+1470,sculpture,"https://api.nga.gov/iiif/4d712296-2240-4fef-8da3-fb9ad3d8fb3c/full/!200,200/0/default.jpg",[  1   2   3  56  81 107 122 156 183  30  49  69  83 114 142],#010203
+1470,painting,"https://api.nga.gov/iiif/84719d50-679d-4c7f-9df0-0af6d44700d3/full/!200,200/0/default.jpg",[136 148 123  73 118 160  85  85  41 124 169 203  27  36  63],#88947b
+1470,sculpture,"https://api.nga.gov/iiif/be64a708-879f-4091-93f7-cd49cc281bd6/full/!200,200/0/default.jpg",[ 84 105 132 122 145 174  29  46  68   1   1   2  54  74 100],#546984
+1475,sculpture,"https://api.nga.gov/iiif/fbc38dec-9639-419f-badc-df8be98c63ac/full/!200,200/0/default.jpg",[ 83 106 132  40  60  82   0   0   1  60  83 109 113 136 160],#536a84
+1475,sculpture,"https://api.nga.gov/iiif/e4121a90-605a-4c00-8866-6d3e8719cfd0/full/!200,200/0/default.jpg",[ 51  65  89   0   0   0 120 129 147  75  88 111  27  40  58],#334159
+1450,sculpture,"https://api.nga.gov/iiif/da60a64d-a8c4-4c90-b26e-70074ad2727d/full/!200,200/0/default.jpg",[147 166 181 113 130 146  45  68  89   1   1   1  31  47  65],#93a6b5
+1450,sculpture,"https://api.nga.gov/iiif/f0ce7b5f-b012-4b35-819a-15044721d67d/full/!200,200/0/default.jpg",[ 75 143 172  47 105 137   0   0   1  24  64  88 124 193 216],#4b8fac
+1452,sculpture,"https://api.nga.gov/iiif/a040e3c2-4ef0-468c-9ed0-80590e0fec23/full/!200,200/0/default.jpg",[ 83  95 107  57  68  78 120 132 145   0   0   0  35  43  51],#535f6b
+1475,print,"https://api.nga.gov/iiif/c466bc19-6313-49c5-8d04-5d2b864a70a2/full/!200,200/0/default.jpg",[189 213 227 133 153 168 102 118 131 157 179 195  73  84  96],#bdd5e3
+1470,print,"https://api.nga.gov/iiif/cef0e177-dc95-4358-83e1-120d1f139c36/full/!200,200/0/default.jpg",[130 161 183  41  40 159 175 209 228  47  65  83  89 118 133],#82a1b7
+1475,sculpture,"https://api.nga.gov/iiif/744cd5aa-1659-48d9-a26a-ca9f1ba05377/full/!200,200/0/default.jpg",[ 96 112 120  73  88  95   1   1   1  42  55  62  58  73  80],#607078
+1475,print,"https://api.nga.gov/iiif/c94a7af6-705f-4066-b60d-66c911194c99/full/!200,200/0/default.jpg",[194 221 237 136 159 176  68  81  95 168 195 213 102 120 135],#c2dded
+1400,painting,"https://api.nga.gov/iiif/789d7bcb-9bb2-4fdc-b049-1c9e8ebcce51/full/!200,200/0/default.jpg",[ 30  45  51  84 136 169  70  98 102 111 169 204  42  93 160],#1e2d33
+1480,sculpture,"https://api.nga.gov/iiif/7f547664-a111-453c-b207-ec262a7f4226/full/!200,200/0/default.jpg",[ 79 100 119 117 141 155  59  78  96  97 119 136   0   0   1],#4f6477
+1470,print,"https://api.nga.gov/iiif/8a011825-0822-4774-9388-e1eee460a31c/full/!200,200/0/default.jpg",[ 82  92 100 185 201 213 156 170 180 221 240 248 121 133 143],#525c64
+1450,sculpture,"https://api.nga.gov/iiif/1a62c4c4-76bb-48b6-a670-4b7ce22b4cb2/full/!200,200/0/default.jpg",[128 129 129 202 204 204  51  52  53 221 221 220  80  82  85],#808181
+1460,sculpture,"https://api.nga.gov/iiif/3de5d95d-ff88-4003-ba13-ef585db6f094/full/!200,200/0/default.jpg",[ 53  74  94 113 138 159  31  51  70  78 101 121   0   0   1],#354a5e
+1490,sculpture,"https://api.nga.gov/iiif/9a134e37-ebaa-4e8c-9de3-ee0937b72ab9/full/!200,200/0/default.jpg",[100 120 145   0   0   0  65  84 110 140 161 186  41  59  82],#647891
+1480,print,"https://api.nga.gov/iiif/3a8f7172-eaa6-45fc-bf6e-7a468e33cd72/full/!200,200/0/default.jpg",[ 60  73  84 119 138 152 138 160 176  89 105 117 177 197 211],#3c4954
+1470,print,"https://api.nga.gov/iiif/e538db84-f481-42e5-b117-30e693463d67/full/!200,200/0/default.jpg",[139 162 178 216 244 251 105 126 141 174 201 216  71  86 100],#8ba2b2
+1450,sculpture,"https://api.nga.gov/iiif/62e1a53d-b0c0-4fc4-8e04-e50e2a0d0093/full/!200,200/0/default.jpg",[ 74 107 142 111 148 181  31  56  86  47  78 114   1   1   1],#4a6b8e
+1480,print,"https://api.nga.gov/iiif/fea8bfab-daf1-4ca8-9cb7-390d990366da/full/!200,200/0/default.jpg",[ 71  86 100  96 113 128 145 166 183 119 138 155 178 202 218],#475664
+1480,print,"https://api.nga.gov/iiif/03c90d44-5e05-4eea-bf1b-0355615eeee3/full/!200,200/0/default.jpg",[ 66  76  86 129 149 165  83  95 105 104 119 132 197 216 224],#424c56
+1470,drawing,"https://api.nga.gov/iiif/ab1654ed-db29-4eef-8674-58ba50422d50/full/!200,200/0/default.jpg",[104 117 126 168 185 195 140 154 164 216 238 247 185 202 213],#68757e
+1470,print,"https://api.nga.gov/iiif/19db0c87-ea05-4b3e-bdad-89b280bca8da/full/!200,200/0/default.jpg",[162 183 197 181 203 217 132 151 164 102 119 132  71  88 100],#a2b7c5
+1470,print,"https://api.nga.gov/iiif/f6fb4364-7e55-4f1c-9df6-35a5a4efdc4c/full/!200,200/0/default.jpg",[113 170 209 108 151 115 162 202 227  61  86 113  74 119 191],#71aad1
+1490,print,"https://api.nga.gov/iiif/dae85b6c-4665-4385-ba3b-515da3e640d1/full/!200,200/0/default.jpg",[ 61  82 102 154 189 215  97 122 146 128 155 177 175 209 230],#3d5266
+1480,print,"https://api.nga.gov/iiif/b6927d6c-27a0-4210-ace7-3af9497fd97e/full/!200,200/0/default.jpg",[ 60  68  76 155 168 180  89  99 108 111 122 132 192 214 224],#3c444c
+1475,print,"https://api.nga.gov/iiif/08bf2409-44c8-4ed8-9e91-835c61b04df6/full/!200,200/0/default.jpg",[136 161 182  41  53  65  67  85 101  99 121 144 178 203 219],#88a1b6
+1480,print,"https://api.nga.gov/iiif/4562e9b0-098a-4431-b598-53fed2bb56fe/full/!200,200/0/default.jpg",[171 199 218 142 167 185 117 138 154  89 106 122  63  74  86],#abc7da
+1480,print,"https://api.nga.gov/iiif/2d58ef71-acfc-4bd2-abcf-3c06d88b4d90/full/!200,200/0/default.jpg",[130 145 157  70  79  89  99 112 122 197 216 228 160 177 190],#82919d
+1475,sculpture,"https://api.nga.gov/iiif/78f31e7b-2ef1-4d2f-b0ee-c17cd26bb138/full/!200,200/0/default.jpg",[201 201 201  50  56  62  79  87  93 135 138 140 182 183 183],#c9c9c9
+1465,print,"https://api.nga.gov/iiif/2db714e9-55c5-4f34-8877-cb623bb3d2ed/full/!200,200/0/default.jpg",[191 212 224 150 169 183 164 184 198 135 153 167 113 131 145],#bfd4e0
+1480,sculpture,"https://api.nga.gov/iiif/65faf054-bc18-4bba-93f0-c76243e4f57e/full/!200,200/0/default.jpg",[  1   0   1 110 134 157 148 170 192  65  90 113  85 111 135],#010001
+1400,sculpture,"https://api.nga.gov/iiif/7f47fd00-1ae5-4ea6-8ef7-faf881cc556a/full/!200,200/0/default.jpg",[197 203 208 100 107 111  71  78  83 128 137 143 160 171 178],#c5cbd0
+1495,print,"https://api.nga.gov/iiif/a306ee11-5e7e-4bf3-8eee-1e21f1b462be/full/!200,200/0/default.jpg",[107 125 140 200 225 239  79  93 106 166 190 205 138 159 175],#6b7d8c
+1475,sculpture,"https://api.nga.gov/iiif/d8cdb475-9d1d-4451-b093-d18e9c3475bf/full/!200,200/0/default.jpg",[121 149 175  57  81 106   0   0   1  36  57  77  85 111 137],#7995af
+1475,painting,"https://api.nga.gov/iiif/8af6e0ff-0847-4335-8fe3-72702e74fca5/full/!200,200/0/default.jpg",[169 203 219  36  37  36 108 141 164  68  77  90  41  60 163],#a9cbdb
+1400,sculpture,"https://api.nga.gov/iiif/5eaa641b-d3f3-4ed8-81a3-24e91a184aef/full/!200,200/0/default.jpg",[ 73  90 108 107 124 143  33  47  62   5   4   3  49  66  84],#495a6c
+1480,print,"https://api.nga.gov/iiif/338f0ff4-1639-476e-bf88-28dc7a852afc/full/!200,200/0/default.jpg",[ 97 115 130 129 152 168 160 186 203 193 220 237  64  76  88],#617382
+1475,sculpture,"https://api.nga.gov/iiif/78a87952-bf7a-4858-9eee-82357bf4a84c/full/!200,200/0/default.jpg",[ 73  82  97  49  59  76 109 117 132  31  40  54   0   0   1],#495261
+1490,print,"https://api.nga.gov/iiif/284dd458-a8a1-48ee-ba4d-97c8f731755a/full/!200,200/0/default.jpg",[ 92 108 120 167 190 203  56  67  78 197 224 239 130 149 162],#5c6c78
+1475,sculpture,"https://api.nga.gov/iiif/46374e4f-8d0a-4596-9dca-3e8193fa6e1f/full/!200,200/0/default.jpg",[ 58  79 102  78 101 124  36  53  69   1   0   1  47  66  86],#3a4f66
+1475,painting,"https://api.nga.gov/iiif/e2dd819e-1abc-4613-9c65-0753a34ad85e/full/!200,200/0/default.jpg",[ 19  27  24  27  39  28  33  65  95  47 106 142  32  44  49],#131b18
+1480,print,"https://api.nga.gov/iiif/68435d8b-773b-4941-a9a7-a8163978111f/full/!200,200/0/default.jpg",[144 164 179 115 131 144 191 212 222  84  97 108  57  66  74],#90a4b3
+1400,sculpture,"https://api.nga.gov/iiif/d81d6aa8-0c1b-45bb-a592-f8405dbfb416/full/!200,200/0/default.jpg",[ 61  77  96   3   3   2 146 160 178  95 112 133  36  48  65],#3d4d60
+1485,sculpture,"https://api.nga.gov/iiif/6788c901-99ff-4452-9168-e23ad7f3b39c/full/!200,200/0/default.jpg",[117 136 159  74  89 110  37  53  81  22  34  51   0   0   1],#75889f
+1480,print,"https://api.nga.gov/iiif/b091fa2a-83e8-4011-9f72-f040549fca78/full/!200,200/0/default.jpg",[100 121 138  74  89 103 184 214 231 155 183 202 128 153 171],#64798a
+1475,sculpture,"https://api.nga.gov/iiif/369dfc9e-4f34-42c8-9b57-31299a1257e1/full/!200,200/0/default.jpg",[ 16  40  78  42  78 133  29  57 103 100 130 170   0   0   1],#10284e
+1475,sculpture,"https://api.nga.gov/iiif/ee7406bd-40c9-43ee-8609-52b672d6cb0e/full/!200,200/0/default.jpg",[172 175 178  59  77  98 102 122 144 225 225 230 203 204 208],#acafb2
+1470,sculpture,"https://api.nga.gov/iiif/aa570ac3-d480-443f-8b2a-5a84393eb447/full/!200,200/0/default.jpg",[ 71  91 116  45  64  90  32  48  69 118 141 170   2   1   1],#475b74
+1475,sculpture,"https://api.nga.gov/iiif/a4d32d6c-d788-41ff-be66-90ca3dc85433/full/!200,200/0/default.jpg",[ 61  74  79  72  86  91   2   1   1  50  62  67  89 104 110],#3d4a4f
+1440,print,"https://api.nga.gov/iiif/1e338bfd-2094-42a3-af97-fdf246c880ee/full/!200,200/0/default.jpg",[ 99 137 170 127 169 191 186 219 237 157 197 220  68  99 146],#6389aa
+1480,print,"https://api.nga.gov/iiif/ff6fc0f9-b704-424d-ae7f-37418b468504/full/!200,200/0/default.jpg",[162 184 199  64  73  83  93 106 118 190 215 230 126 144 157],#a2b8c7
+1470,painting,"https://api.nga.gov/iiif/c747c66d-a38d-4cdc-a0a3-9c55930303b8/full/!200,200/0/default.jpg",[ 44  80 105 250 251 252  47 118 161 108 154 178  30  41  44],#2c5069
+1480,print,"https://api.nga.gov/iiif/d27bc431-5da1-47ae-be4b-2c23cc9a4085/full/!200,200/0/default.jpg",[152 169 180 110 124 134 208 230 240 187 212 225  68  78  88],#98a9b4
+1480,print,"https://api.nga.gov/iiif/0ee018b5-346f-42d1-9543-8148f95e2706/full/!200,200/0/default.jpg",[104 127 144 161 194 217 178 211 232  71  89 105 134 163 185],#687f90
+1475,print,"https://api.nga.gov/iiif/947d1670-5a34-4daf-960b-3445b76d36d8/full/!200,200/0/default.jpg",[158 185 205 107 127 145 133 156 175  80  97 113 185 214 231],#9eb9cd
+1475,print,"https://api.nga.gov/iiif/a4cbc08b-a51c-4702-968e-bf26b168cc23/full/!200,200/0/default.jpg",[128 143 156 157 177 191 182 203 216  98 110 121  66  75  84],#808f9c
+1460,print,"https://api.nga.gov/iiif/000f1fa7-7f05-4242-bfa0-6b217d1e9553/full/!200,200/0/default.jpg",[ 63  82 104 171 210 232 133 171 197  95 125 152  69 114 216],#3f5268
+1480,print,"https://api.nga.gov/iiif/aff1c2e3-0efe-430a-b564-98a4f2cb8f53/full/!200,200/0/default.jpg",[141 188 223 105 144 193 186 222 244  49  71  92  89 115 136],#8dbcdf
+1470,sculpture,"https://api.nga.gov/iiif/f9db988a-f31f-4075-a941-1036b140841b/full/!200,200/0/default.jpg",[ 96 110 121   0   0   0  44  56  62 135 147 161  67  82  91],#606e79
+1480,sculpture,"https://api.nga.gov/iiif/2d416f08-7a2e-4b59-b032-c33c3d409e67/full/!200,200/0/default.jpg",[ 72  92 115   0   0   0  45  63  83 107 127 152  31  47  58],#485c73
+1470,sculpture,"https://api.nga.gov/iiif/866bcb01-0f19-4ffd-a03f-2703cb37cde2/full/!200,200/0/default.jpg",[  1   1   1  43  58  72  30  43  57  78  94 108  57  73  87],#010101
+1480,sculpture,"https://api.nga.gov/iiif/c20af1fa-ba5b-43b0-a7ad-4a31d8dbdcb2/full/!200,200/0/default.jpg",[ 52  72  88  33  50  65 104 133 156  73  96 115   2   2   1],#344858
+1475,sculpture,"https://api.nga.gov/iiif/c9f6e29b-943b-42d8-a70a-6571690ae47b/full/!200,200/0/default.jpg",[ 59  80  93  72  93 107  45  64  76  87 108 124   1   1   1],#3b505d
+1475,sculpture,"https://api.nga.gov/iiif/20354737-5847-4c1b-b244-2e03f0ccbbb3/full/!200,200/0/default.jpg",[ 36  59  75   1   2   2 116 154 175  63  98 125  45  77 101],#243b4b
+1480,sculpture,"https://api.nga.gov/iiif/749c2336-43a0-4654-bdd9-c3d74226b2de/full/!200,200/0/default.jpg",[  1   2   2  44  60  74 100 115 128 154 165 169  62  81 100],#010202
+1490,print,"https://api.nga.gov/iiif/4082eb41-d20d-41b2-97e0-d09ec20ffee4/full/!200,200/0/default.jpg",[ 64  75  87 186 210 225 117 135 150  89 104 117 148 169 185],#404b57
+1470,print,"https://api.nga.gov/iiif/225a6426-c48a-4dba-869f-dd49eb4d7a0c/full/!200,200/0/default.jpg",[152 190 214  95 123 142 181 216 236  66  87 104 125 157 178],#98bed6
+1475,print,"https://api.nga.gov/iiif/4081fa95-53c8-451b-b59c-69ebac592906/full/!200,200/0/default.jpg",[173 204 225  59  70  82  88 105 120 117 140 157 146 173 193],#adcce1
+1480,print,"https://api.nga.gov/iiif/17c246e8-8c4c-4ca1-b7ca-4ec73e2941c7/full/!200,200/0/default.jpg",[190 217 235  92 112 129 133 157 175 166 195 215  53  68  84],#bed9eb
+1475,sculpture,"https://api.nga.gov/iiif/7319a99c-a468-47a1-b7a6-16ae535ec3dd/full/!200,200/0/default.jpg",[  0   0   0  94 124 150  60  89 118  34  60  87 147 176 199],#000000
+1470,sculpture,"https://api.nga.gov/iiif/56ae87b4-1191-4893-b5b0-6dd6b2d5c0c9/full/!200,200/0/default.jpg",[  0   0   1  69  81  91 136 146 160  50  60  67  98 110 123],#000001
+1480,print,"https://api.nga.gov/iiif/4130d104-3624-44c3-80d5-a3425865e186/full/!200,200/0/default.jpg",[ 70  91 108 155 182 201  99 123 141 127 152 171 183 212 230],#465b6c
+1475,sculpture,"https://api.nga.gov/iiif/216ddc86-6c5f-4eda-8dce-4a663d57070c/full/!200,200/0/default.jpg",[ 80 100 123  34  50  69 112 134 157  54  72  95   1   1   2],#50647b
+1470,sculpture,"https://api.nga.gov/iiif/8371d4e0-dec7-46ec-b8da-97a2154c2773/full/!200,200/0/default.jpg",[ 25  48  79  41  66  97  97 114 135   0   0   0  15  34  59],#19304f
+1470,print,"https://api.nga.gov/iiif/890016dc-9d6a-4262-b911-532e130b2abd/full/!200,200/0/default.jpg",[136 154 168 166 187 201  74  87  99 192 216 231 106 122 135],#889aa8
+1475,sculpture,"https://api.nga.gov/iiif/d4e8dc56-f039-49c2-a2bf-c8b614bd98bf/full/!200,200/0/default.jpg",[ 71  98 123   0   0   0  86 121 151  51  72  92 125 155 177],#47627b
+1470,sculpture,"https://api.nga.gov/iiif/55a76d0a-3330-4e25-bb6d-256f90cea3a2/full/!200,200/0/default.jpg",[ 84 112 143   0   0   0  19  47  77  29  60  97  43  75 118],#54708f
+1475,sculpture,"https://api.nga.gov/iiif/56f477df-c4be-4c6a-b4f0-6f235014561f/full/!200,200/0/default.jpg",[  1   1   1  49  78 106  32  53  73  42  68  93  61  90 119],#010101
+1470,sculpture,"https://api.nga.gov/iiif/c324b426-56d2-4dbf-b16d-c7b6fd41ed4c/full/!200,200/0/default.jpg",[119 145 164  45  65  81   0   0   1  20  35  46  77 101 119],#7791a4
+1475,print,"https://api.nga.gov/iiif/d007beb1-e63e-4eeb-9fec-eacb709ad413/full/!200,200/0/default.jpg",[186 206 220 219 236 244 161 179 191 135 152 164 106 122 134],#bacedc
+1400,sculpture,"https://api.nga.gov/iiif/29e0ad1a-d248-476c-8d0d-d92fb6ad8470/full/!200,200/0/default.jpg",[ 95 113 133 131 150 172  65  83 102   2   2   2  37  49  61],#5f7185
+1480,print,"https://api.nga.gov/iiif/9332a33e-3a4a-40d6-89eb-59616235cdef/full/!200,200/0/default.jpg",[ 69  80  90 182 204 215 122 143 159  50  57  65  96 111 124],#45505a
+1480,print,"https://api.nga.gov/iiif/03b07007-1ca1-47fd-8130-80ce51015ece/full/!200,200/0/default.jpg",[ 51  68  95 122 156 182 168 208 231  85 107 134  64  85 116],#33445f
+1475,sculpture,"https://api.nga.gov/iiif/9a0f2a87-c1fc-4dd5-b07b-ad06818689a6/full/!200,200/0/default.jpg",[ 27  40  55  94 110 127   1   0   1  44  59  73  65  81  96],#1b2837
+1475,print,"https://api.nga.gov/iiif/0fd7e1a4-fefb-4bd9-9ef8-fbc81e391757/full/!200,200/0/default.jpg",[ 55  67  79 110 126 142  82  96 110 176 205 224 141 161 178],#37434f
+1475,sculpture,"https://api.nga.gov/iiif/7be254ce-db76-4758-98af-586cf7e8a3b5/full/!200,200/0/default.jpg",[  1   1   1  57  91 112 106 143 165  42  72  91  23  46  63],#010101
+1450,sculpture,"https://api.nga.gov/iiif/562ebf7a-f15a-45f1-aff2-7637da0ba751/full/!200,200/0/default.jpg",[ 71 113 157  55  91 132   1   2   1  44  68  98  91 144 190],#47719d
+1475,sculpture,"https://api.nga.gov/iiif/03d140c0-9741-49a2-b6fe-e9f59a3a41b8/full/!200,200/0/default.jpg",[147 164 158  54  60  67 108 119 130  83  91 102  11  12  12],#93a49e
+1480,sculpture,"https://api.nga.gov/iiif/74d448ad-a0c5-4691-8631-0f017489f003/full/!200,200/0/default.jpg",[ 49  61  66  26  35  38   0   0   1  74  87  95 110 122 131],#313d42
+1475,sculpture,"https://api.nga.gov/iiif/2dd7445f-136d-44da-ba44-70fdb269554c/full/!200,200/0/default.jpg",[122 154 180  84 116 145  37  60  78   0   0   1  55  87 116],#7a9ab4
+1470,sculpture,"https://api.nga.gov/iiif/0ea92b2e-3c23-44f0-a672-88e7314802a8/full/!200,200/0/default.jpg",[ 49  49  50 111 112 114  73  73  74 198 198 198 187 188 188],#313132
+1480,sculpture,"https://api.nga.gov/iiif/c4c95ba1-df2a-42d8-a816-0f63c3f2387a/full/!200,200/0/default.jpg",[198 202 204 153 165 175  57  89 117 107 128 145  29  53  76],#c6cacc
+1480,sculpture,"https://api.nga.gov/iiif/229bbd7c-25a2-4b97-aa0e-7214d322545a/full/!200,200/0/default.jpg",[ 52  77 103 149 181 202  76 105 133 104 136 162   4   4   4],#344d67
+1475,sculpture,"https://api.nga.gov/iiif/665b1697-4c9c-43bb-9a82-a707f274d661/full/!200,200/0/default.jpg",[ 78  84  94 174 175 175  53  58  67 184 185 185 105 112 123],#4e545e
+1400,print,"https://api.nga.gov/iiif/16fd5444-f9c1-4afd-81b3-7ebd51a96ff0/full/!200,200/0/default.jpg",[120 161 193 197 232 247  98 136 166  50  73  98  77 105 136],#78a1c1
+1450,drawing,"https://api.nga.gov/iiif/14d4da1f-8387-439f-9c7b-8c513c756d2e/full/!200,200/0/default.jpg",[ 86 124 159  38  65  89 114 155 185 218 236 248 134 179 206],#567c9f
+1480,print,"https://api.nga.gov/iiif/4130d104-3624-44c3-80d5-a3425865e186/full/!200,200/0/default.jpg",[ 70  91 108 155 182 201  99 123 141 127 152 171 183 212 230],#465b6c
+1470,print,"https://api.nga.gov/iiif/e538db84-f481-42e5-b117-30e693463d67/full/!200,200/0/default.jpg",[139 162 178 216 244 251 105 126 141 174 201 216  71  86 100],#8ba2b2
+1475,sculpture,"https://api.nga.gov/iiif/ed0d6785-bdf5-4725-a9d9-c113a802dbcf/full/!200,200/0/default.jpg",[ 69  74  79 210 210 210 112 119 125 180 180 181  48  52  56],#454a4f
+1465,print,"https://api.nga.gov/iiif/aa1c4054-882a-4932-b9bf-04dd5919a3d5/full/!200,200/0/default.jpg",[111 133 148 214 241 249 157 181 197 135 157 173 179 204 221],#6f8594
+1480,print,"https://api.nga.gov/iiif/4bbe1662-ced0-43e2-b78e-546d56186a46/full/!200,200/0/default.jpg",[ 86 121 151 208 240 249 159 201 229  55  82 105 119 160 191],#567997
+1480,print,"https://api.nga.gov/iiif/7bc4c08d-56fe-465d-afd5-7624b450ae1d/full/!200,200/0/default.jpg",[ 98 126 152 137 173 200  67  90 114  40  56  76 188 223 243],#627e98
+1480,print,"https://api.nga.gov/iiif/333565e8-bf2e-4e28-90bf-96645bfce417/full/!200,200/0/default.jpg",[ 97 107 117 153 168 180  71  79  88 121 133 144 182 199 210],#616b75
+1475,sculpture,"https://api.nga.gov/iiif/6db673df-c004-4588-9594-4b92d0fb6eda/full/!200,200/0/default.jpg",[ 48  71 108  68  94 128  38  58  91  27  44  73   0   0   1],#30476c
+1400,print,"https://api.nga.gov/iiif/2fb6fc58-ec60-46a5-8c39-f817e9c2058b/full/!200,200/0/default.jpg",[140 165 185 107 129 147  69  89 106 163 192 213 178 209 230],#8ca5b9
+1475,sculpture,"https://api.nga.gov/iiif/68f9080f-5773-4030-9b9c-b41aba1e9cbf/full/!200,200/0/default.jpg",[ 35  51  69  57  76  98   6   4   4 136 156 181  88 107 132],#233345
+1475,print,"https://api.nga.gov/iiif/8cd7c056-33b8-454c-9784-5d9ee6e3a447/full/!200,200/0/default.jpg",[139 169 185 207 233 246  74  95 111 110 136 150 169 200 216],#8ba9b9
+1480,sculpture,"https://api.nga.gov/iiif/c38be475-900f-41ec-9d67-14b229c90097/full/!200,200/0/default.jpg",[103 130 161  30  56  87  69  99 137   1   0   2  46  76 115],#6782a1
+1480,print,"https://api.nga.gov/iiif/59cfd899-2bce-45c0-b4b6-22f4c016e9e3/full/!200,200/0/default.jpg",[176 209 229  84 104 119 150 177 195 117 139 156  52  65  78],#b0d1e5
+1475,sculpture,"https://api.nga.gov/iiif/43e7b4a2-1c20-4dca-9388-c1315b4ab061/full/!200,200/0/default.jpg",[ 53  59  68 183 184 184 104 111 121  78  84  93 174 176 176],#353b44
+1400,sculpture,"https://api.nga.gov/iiif/743263f9-86d3-4416-b4f0-2360bfca5283/full/!200,200/0/default.jpg",[ 47  60  67  98 123 133  58  72  79   1   0   1  35  48  54],#2f3c43
+1495,sculpture,"https://api.nga.gov/iiif/a995d21c-ea6f-4e1e-9f46-a088e0f4d75f/full/!200,200/0/default.jpg",[  0   0   0  36  45  48  98 108 113  58  69  74 155 164 171],#000000
+1480,decorative art,"https://api.nga.gov/iiif/ca7be133-331f-4b5e-9a27-1017f40abaa5/full/!200,200/0/default.jpg",[106 137 170 176 178 179 157 158 159 202 203 203  85  96 103],#6a89aa
+1475,sculpture,"https://api.nga.gov/iiif/f947caf8-be38-423a-b154-6e4c14998046/full/!200,200/0/default.jpg",[ 30  40  57 107 121 141  47  59  77  71  84 103   1   1   1],#1e2839
+1480,print,"https://api.nga.gov/iiif/067663dd-7132-442d-a5c5-c8a04b8b9540/full/!200,200/0/default.jpg",[173 212 238  79 113 142  48  69  87 110 148 173 136 179 216],#add4ee
+1450,sculpture,"https://api.nga.gov/iiif/5aba2495-c2fa-409a-bbb7-e7ae7502e87e/full/!200,200/0/default.jpg",[ 51  66  71  33  46  49   4   3   2  74  86  92 106 122 130],#334247
+1475,sculpture,"https://api.nga.gov/iiif/42c7eb25-e4a2-42c7-8114-ee91a0191391/full/!200,200/0/default.jpg",[149 150 151  43  64  92  98 123 156  74  98 130 170 173 173],#959697
+1470,print,"https://api.nga.gov/iiif/7d616e89-ce0a-471b-bc6c-dad73cc20f0a/full/!200,200/0/default.jpg",[ 71  80  90 188 207 216  91 103 114 141 157 171 114 128 141],#47505a
+1475,print,"https://api.nga.gov/iiif/cf952249-f83c-4ff0-90e5-f4d3f489f4cb/full/!200,200/0/default.jpg",[194 221 237  83 100 115 173 201 219 115 134 150 145 168 185],#c2dded
+1470,sculpture,"https://api.nga.gov/iiif/d2fb858e-c720-4d73-8ab1-68d3cdf244aa/full/!200,200/0/default.jpg",[134 145 156  51  62  77  95 105 116 166 173 178  33  43  56],#86919c
+1480,print,"https://api.nga.gov/iiif/59782f5f-3f30-45c7-bf9e-e25b62ae51ec/full/!200,200/0/default.jpg",[129 141 112 177 216 237 123 177 206  82 123 182  62  86 118],#818d70
+1490,print,"https://api.nga.gov/iiif/b0eab836-4987-42e5-a822-8ddd9cb167c7/full/!200,200/0/default.jpg",[186 216 233 126 148 163 158 183 199  91 108 122  58  69  80],#bad8e9
+1475,sculpture,"https://api.nga.gov/iiif/ed0d6785-bdf5-4725-a9d9-c113a802dbcf/full/!200,200/0/default.jpg",[ 69  74  79 210 210 210 112 119 125 180 180 181  48  52  56],#454a4f
+1480,print,"https://api.nga.gov/iiif/14504fac-f1f1-4c88-8c43-ffaacd9f2368/full/!200,200/0/default.jpg",[ 56  69  85 190 226 248 109 150 201  62  89 124  74 107 175],#384555
+1480,print,"https://api.nga.gov/iiif/ee6227f5-550b-426f-91d3-4863870a137a/full/!200,200/0/default.jpg",[ 99 114 128 168 191 206 136 156 170 197 222 235  67  77  89],#637280
+1470,sculpture,"https://api.nga.gov/iiif/eb2694a1-a18b-445b-b9a1-e5413b349c40/full/!200,200/0/default.jpg",[103 104 103 197 200 201 129 132 131 170 176 177 149 154 154],#676867
+1480,decorative art,"https://api.nga.gov/iiif/af553f55-32f3-47df-8df3-b996c4b560bc/full/!200,200/0/default.jpg",[212 213 213 111 117 112 167 169 169  66  68  58 191 192 191],#d4d5d5
+1475,sculpture,"https://api.nga.gov/iiif/9a55039f-3052-472a-a77e-d07e8b789e62/full/!200,200/0/default.jpg",[ 99 117 145  67  85 111  42  56  75   6   4   4 149 165 192],#637591
+1470,sculpture,"https://api.nga.gov/iiif/e3f99219-99ba-4e96-a265-4e0d8bf8566c/full/!200,200/0/default.jpg",[  0   0   1  26  50  72  16  36  51  41  69  97  82 107 128],#000001
+1480,sculpture,"https://api.nga.gov/iiif/e949bf58-ee9c-4769-9d5c-24e837a86175/full/!200,200/0/default.jpg",[125 136 145   0   0   0  51  60  66 175 186 194  84  94 102],#7d8891
+1465,print,"https://api.nga.gov/iiif/5dd49e74-1ab7-4780-8cb9-3cc20b07f1ec/full/!200,200/0/default.jpg",[124 145 160 102 123 138 159 182 197 192 214 225 143 165 180],#7c91a0
+1480,print,"https://api.nga.gov/iiif/31a3f458-370c-4d72-b882-361b81f224e0/full/!200,200/0/default.jpg",[101 124 140 178 209 228 128 153 171 154 182 200  75  93 108],#657c8c
+1470,sculpture,"https://api.nga.gov/iiif/47543a99-cc03-4c14-b9d8-91473727d293/full/!200,200/0/default.jpg",[ 81  92 101 124 135 145   0   0   1  30  39  47  53  63  72],#515c65
+1400,sculpture,"https://api.nga.gov/iiif/3d5e282d-ed9f-48a8-a2b0-85c9b7b1d046/full/!200,200/0/default.jpg",[  2   2   2  82 102 126  56  75  98  42  60  80  29  44  61],#020202
+1480,print,"https://api.nga.gov/iiif/42ab33c0-34c2-4974-ab17-8e2c9049b564/full/!200,200/0/default.jpg",[163 183 197 143 162 176 116 132 147  60  71  83  87 102 115],#a3b7c5
+1470,print,"https://api.nga.gov/iiif/fda9bb28-c25d-4b2c-a6ad-64d54f934762/full/!200,200/0/default.jpg",[142 168 186 192 214 226  67  90 106 111 138 157 159 185 202],#8ea8ba
+1465,sculpture,"https://api.nga.gov/iiif/bdf69215-64ca-47a9-8b2c-a91e76009bf1/full/!200,200/0/default.jpg",[ 39  57  82  91 112 138  59  80 107   0   0   1 135 157 182],#273952
+1450,print,"https://api.nga.gov/iiif/3201198b-7040-4e91-9de9-1d55c70143ad/full/!200,200/0/default.jpg",[103 121 135  74  91 104 207 230 241 169 190 203 134 154 167],#677987
+1490,print,"https://api.nga.gov/iiif/41c1883d-1fcb-4b72-ae2d-3a24b59c16e6/full/!200,200/0/default.jpg",[160 184 200 194 221 238  56  67  79  90 105 119 126 146 160],#a0b8c8
+1475,sculpture,"https://api.nga.gov/iiif/896cf169-2a93-44ce-91fa-a498ad9653f2/full/!200,200/0/default.jpg",[ 13  15  16  76  89 102  50  62  75  62  76  90  90 106 122],#0d0f10
+1450,sculpture,"https://api.nga.gov/iiif/2487b203-6326-4cbd-b78f-ab0dab36f094/full/!200,200/0/default.jpg",[ 41  59  73  67  86 100  27  43  55 132 148 153   0   0   1],#293b49
+1470,sculpture,"https://api.nga.gov/iiif/a1c015bb-2182-4485-889e-5d7377cc83a4/full/!200,200/0/default.jpg",[ 55  78 108  42  63  89 125 135 150   0   0   1  29  46  69],#374e6c
+1470,print,"https://api.nga.gov/iiif/9f753a95-cf58-429f-a049-29365ffe1000/full/!200,200/0/default.jpg",[104 136 159 182 218 241  71  99 122 162 199 224 133 167 192],#68889f
+1475,sculpture,"https://api.nga.gov/iiif/c4fe807f-6953-40dc-83f8-deddd8755ad2/full/!200,200/0/default.jpg",[188 200 210  85 115 139 118 140 157  56  85 110 161 176 189],#bcc8d2
+1475,technical material,"https://api.nga.gov/iiif/f9a3bdc9-11a0-4eb1-a742-409ec97ede37/full/!200,200/0/default.jpg",[ 58 104 161  78 126 179  38  71 114   2   4   8  43  87 148],#3a68a1
+1400,sculpture,"https://api.nga.gov/iiif/1c4ed376-d421-4fa3-b449-b23f501dbe4c/full/!200,200/0/default.jpg",[  0   0   1  84 126 158  67  99 130 137 175 201  48  72  97],#000001
+1475,sculpture,"https://api.nga.gov/iiif/323287cb-4eab-42f2-ae2c-1f8f1e92accb/full/!200,200/0/default.jpg",[115 123 130 228 227 231  63  85 107 148 156 164 187 190 196],#737b82
+1470,print,"https://api.nga.gov/iiif/18b0a13a-3a92-4f8d-acc8-1157d87ab901/full/!200,200/0/default.jpg",[ 91 108 121 117 135 148 183 203 217 166 185 199 142 160 174],#5b6c79
+1475,sculpture,"https://api.nga.gov/iiif/b2eea249-9975-48fc-837c-2507fce6284a/full/!200,200/0/default.jpg",[ 23  68 116  13  58 105  94 125 155   0   0   2  42  82 127],#174474
+1475,sculpture,"https://api.nga.gov/iiif/00d6f221-c269-44b4-9ad6-670c24bb1abc/full/!200,200/0/default.jpg",[ 39  46  54   3   2   2  28  33  42  58  66  73  87 102 126],#272e36
+1475,sculpture,"https://api.nga.gov/iiif/c9559935-7c1c-44cc-b16c-2eab6dee09f4/full/!200,200/0/default.jpg",[166 169 173 200 201 206 224 225 230 116 134 152  70  91 113],#a6a9ad
+1480,sculpture,"https://api.nga.gov/iiif/9a262c5e-41a7-49c0-bad9-85e18ca71c84/full/!200,200/0/default.jpg",[133 141 150 229 230 230 181 189 194  79  70  65  67  98 123],#858d96
+1400,sculpture,"https://api.nga.gov/iiif/1773d012-d1fe-4348-96bc-f306d9c63c2b/full/!200,200/0/default.jpg",[ 31  56  77 141 168 182   1   0   1  23  43  55  53  76 105],#1f384d
+1480,print,"https://api.nga.gov/iiif/26893e08-83d1-44e1-b230-0e746f03741d/full/!200,200/0/default.jpg",[190 216 230 154 178 194 120 139 153  62  71  81  90 104 117],#bed8e6
+1480,print,"https://api.nga.gov/iiif/a722ae39-af79-4bca-9d61-fa9041c81d8e/full/!200,200/0/default.jpg",[119 140 156 185 214 230  60  71  83  89 105 119 154 180 197],#778c9c
+1450,decorative art,"https://api.nga.gov/iiif/84b87b46-ecf6-47d1-bdfc-70e697a1581a/full/!200,200/0/default.jpg",[173 173 177  82  93  89 135 135 138  46  51  37 209 210 213],#adadb1
+1490,painting,"https://api.nga.gov/iiif/530f9ddd-be0e-4a5e-9c81-95af7fa67587/full/!200,200/0/default.jpg",[ 33  57  70  45  49 156  49  85 109  95 127 160 134 166 204],#213946
+1467,print,"https://api.nga.gov/iiif/a1af18f5-77f8-4627-b19b-2caf7776058a/full/!200,200/0/default.jpg",[168 192 207 121 141 157  95 112 127 144 165 181 194 220 234],#a8c0cf
+1475,sculpture,"https://api.nga.gov/iiif/7fd0873b-9381-4b5f-928f-c0d98decdc7a/full/!200,200/0/default.jpg",[ 35  54  78  82 101 127   0   0   0 121 139 162  53  73 102],#23364e
+1480,print,"https://api.nga.gov/iiif/241a40b1-9819-4baa-96e3-7fd95cfdb4dc/full/!200,200/0/default.jpg",[101 116 131 131 152 167 188 214 231  69  80  92 163 187 204],#657483
+1480,print,"https://api.nga.gov/iiif/c5668564-3b81-4626-a78c-10268fda8364/full/!200,200/0/default.jpg",[ 61  70  80  96 111 123 192 219 234 170 197 213 136 155 168],#3d4650
+1480,print,"https://api.nga.gov/iiif/28310f4d-c097-4224-be4c-0a3629f88ac2/full/!200,200/0/default.jpg",[146 178 199 194 224 241 127 158 178  94 119 137  53  73  90],#92b2c7
+1475,sculpture,"https://api.nga.gov/iiif/96f3e22a-5ba8-4bd8-8990-c74bc53cc17e/full/!200,200/0/default.jpg",[ 54  65  75  81  94 107 126 141 157  31  39  49   6   5   4],#36414b
+1475,sculpture,"https://api.nga.gov/iiif/2630d140-5d0f-4c5d-92ca-fa5c2279e0e3/full/!200,200/0/default.jpg",[129 156 183  34  58  81  90 118 145   0   0   1  57  88 116],#819cb7
+1450,print,"https://api.nga.gov/iiif/5fa8c34a-89ba-4145-8632-54b5f9dc6d36/full/!200,200/0/default.jpg",[ 55  82 115 100 138 142 124 165 194 154 198 230  59 106 220],#375273
+1450,sculpture,"https://api.nga.gov/iiif/c86058d1-5081-485a-a761-2a80c9256004/full/!200,200/0/default.jpg",[ 58  79 105  41  60  82  89 115 140  25  39  52   0   0   1],#3a4f69
+1475,sculpture,"https://api.nga.gov/iiif/51b2cb38-d881-46e5-96f2-5d7040d6f4d7/full/!200,200/0/default.jpg",[ 44  60  89  60  76 102 115 124 134  37  48  65   4   2   2],#2c3c59
+1475,print,"https://api.nga.gov/iiif/3c63ec69-bf34-479c-bc81-b90cdb591393/full/!200,200/0/default.jpg",[ 66  80 133 118 141 116 132 178 205 163 207 233  87 130 179],#425085
+1480,print,"https://api.nga.gov/iiif/4a5efcaa-8f31-45af-8fff-f024fe2932dc/full/!200,200/0/default.jpg",[187 224 244  48  67  91 147 190 219  81 108 137  64  88 118],#bbe0f4
+1470,sculpture,"https://api.nga.gov/iiif/9ded1153-dc7f-4508-8ec5-efccce9a544b/full/!200,200/0/default.jpg",[ 89 103 118  59  73  85  39  50  59   0   1   1 131 143 159],#596776
+1470,sculpture,"https://api.nga.gov/iiif/9ded1153-dc7f-4508-8ec5-efccce9a544b/full/!200,200/0/default.jpg",[ 89 103 118  59  73  85  39  50  59   0   1   1 131 143 159],#596776
+1480,print,"https://api.nga.gov/iiif/73975c65-28e0-4520-8871-3a5b18831558/full/!200,200/0/default.jpg",[192 216 231 122 139 153  92 105 117 156 177 191  63  70  80],#c0d8e7
+1470,sculpture,"https://api.nga.gov/iiif/c99980ed-85be-4912-9f62-b9da662eab63/full/!200,200/0/default.jpg",[ 64  66  69  43  45  48  89  91  94 186 186 186 130 131 132],#404245
+1480,print,"https://api.nga.gov/iiif/ac668ca7-2cea-4c9f-82b2-d72c0847e535/full/!200,200/0/default.jpg",[ 70  92 116 131 168 199 176 216 240  49  66  88  97 125 153],#465c74
+1475,sculpture,"https://api.nga.gov/iiif/5c3c67ae-a22b-4a01-9657-21ef3a9bdafe/full/!200,200/0/default.jpg",[106 139 170  31  48  69   0   0   1  73 100 130  49  71  99],#6a8baa
+1470,sculpture,"https://api.nga.gov/iiif/e3f99219-99ba-4e96-a265-4e0d8bf8566c/full/!200,200/0/default.jpg",[  0   0   1  26  50  72  16  36  51  41  69  97  82 107 128],#000001
+1475,sculpture,"https://api.nga.gov/iiif/2a8f2171-addf-4e3f-8bb1-cb584848d033/full/!200,200/0/default.jpg",[ 56  78 107 151 151 152 170 171 171 103 127 158  80 103 134],#384e6b
+1460,print,"https://api.nga.gov/iiif/c2680f96-3e9b-4c6f-b8e8-42423a3c38f0/full/!200,200/0/default.jpg",[135 151 165 110 126 139 180 199 210 157 174 188  83  98 111],#8797a5
+1475,sculpture,"https://api.nga.gov/iiif/cf54537b-bb4f-4fa7-8c87-033071162a5f/full/!200,200/0/default.jpg",[  1   1   2 125 129 135  77  81  86  58  63  69  97 100 106],#010102
+1480,print,"https://api.nga.gov/iiif/52160af2-2740-45e3-8943-db47be28f26b/full/!200,200/0/default.jpg",[ 52  98 159 120 167 203 145 192 224 210 237 249  72 123 185],#34629f
+1475,sculpture,"https://api.nga.gov/iiif/e2de56b6-92a0-4a63-a473-92dde6a230f9/full/!200,200/0/default.jpg",[ 33  39  45  53  61  67   1   1   1  86  93 100 129 136 144],#21272d
+1450,print,"https://api.nga.gov/iiif/bcb3a7e2-7806-4009-9363-2d2eb87d2f59/full/!200,200/0/default.jpg",[ 39  49 147  75 121 136 173 213 238 116 181 215  96 146 174],#273193
+1475,sculpture,"https://api.nga.gov/iiif/3b296455-f4df-4330-bdec-5143040590b5/full/!200,200/0/default.jpg",[ 17  43  75   0   0   1  50  76 103 104 137 165  71  98 126],#112b4b
+1400,sculpture,"https://api.nga.gov/iiif/21456ee0-c741-49a4-95ab-fada3bdcd18e/full/!200,200/0/default.jpg",[ 24  38  50   1   1   2  86 104 120  60  77  91  41  57  71],#182632
+1480,print,"https://api.nga.gov/iiif/03c90d44-5e05-4eea-bf1b-0355615eeee3/full/!200,200/0/default.jpg",[ 66  76  86 129 149 165  83  95 105 104 119 132 197 216 224],#424c56
+1480,print,"https://api.nga.gov/iiif/6328624e-4f8f-4b38-81d1-c1dae395121f/full/!200,200/0/default.jpg",[149 177 194  88 104 116  62  73  83 115 135 149 178 213 232],#95b1c2
+1475,sculpture,"https://api.nga.gov/iiif/936fe45e-0035-44bc-a01e-35b590727371/full/!200,200/0/default.jpg",[ 38  42  41 114 120 117  76  82  78 195 195 194 177 177 177],#262a29
+1490,print,"https://api.nga.gov/iiif/0716072e-dddd-47dd-85bb-1f96242a243d/full/!200,200/0/default.jpg",[141 182 216 100 139 174 110 107  63 208 238 249  67  90 133],#8db6d8
+1480,print,"https://api.nga.gov/iiif/31a3f458-370c-4d72-b882-361b81f224e0/full/!200,200/0/default.jpg",[101 124 140 178 209 228 128 153 171 154 182 200  75  93 108],#657c8c
+1475,print,"https://api.nga.gov/iiif/3313c985-b93e-4ad4-9c5e-58bc1b9e1c23/full/!200,200/0/default.jpg",[130 145 157 190 209 219  99 111 123 160 176 189  73  82  92],#82919d
+1475,sculpture,"https://api.nga.gov/iiif/069b3758-48a7-4ddb-b202-c5a8eba37fbc/full/!200,200/0/default.jpg",[ 67  66  67 187 198 209 136 140 147   1   0   1 102 103 107],#434243
+1475,sculpture,"https://api.nga.gov/iiif/579eb502-3e61-4155-a045-631cbe35c452/full/!200,200/0/default.jpg",[ 49  75  91 105 131 147  32  57  72   1   0   1  65  92 108],#314b5b
+1480,sculpture,"https://api.nga.gov/iiif/f19c14a3-38fd-4aa6-a8db-8cb65d817e56/full/!200,200/0/default.jpg",[ 89 121 138   0   0   1  38  55  70  57  75  90  23  37  51],#59798a
+1470,print,"https://api.nga.gov/iiif/b02302aa-c40c-467d-aa4f-2045546ebdc5/full/!200,200/0/default.jpg",[182 217 241 133 168 194  72 101 125 103 136 161 159 197 223],#b6d9f1
+1475,sculpture,"https://api.nga.gov/iiif/98d2e9d8-b6d8-45b6-8a14-ed69564e48f3/full/!200,200/0/default.jpg",[ 55  72  84 113 124 131  69  85  95  43  59  71   0   0   0],#374854
+1400,sculpture,"https://api.nga.gov/iiif/e5180a6d-0c4d-4c73-a67a-d7e8721e7a9b/full/!200,200/0/default.jpg",[ 96 121 144  63  89 111  45  66  87  28  44  62   2   1   0],#607990
+1480,print,"https://api.nga.gov/iiif/14ba07af-9e2a-4e98-bc1d-df9db3607f5b/full/!200,200/0/default.jpg",[124 143 157 155 177 192 182 207 222  89 106 120 195 219 233],#7c8f9d
+1470,print,"https://api.nga.gov/iiif/d8a22509-fb79-4822-ae39-9a54ec4371a2/full/!200,200/0/default.jpg",[189 223 240 102 137 168 144 192 219  37  58  71  73 104 116],#bddff0
+1480,print,"https://api.nga.gov/iiif/dc5c1cb0-4aa8-4053-ae0c-901a78e37585/full/!200,200/0/default.jpg",[ 56  65  77 117 136 153 183 211 230  85  99 114 150 174 193],#38414d
+1485,sculpture,"https://api.nga.gov/iiif/6eb3ab0d-1c4b-48bf-a73e-8c3affecff09/full/!200,200/0/default.jpg",[ 68  84  99  24  35  45  44  57  69   0   0   1 106 127 145],#445463
+1470,sculpture,"https://api.nga.gov/iiif/6f101dd6-381f-4a00-a02f-b716d59a4799/full/!200,200/0/default.jpg",[ 44  53  63  22  28  36  71  81  91 110 119 130   2   1   1],#2c353f
+1450,drawing,"https://api.nga.gov/iiif/14d4da1f-8387-439f-9c7b-8c513c756d2e/full/!200,200/0/default.jpg",[ 86 124 159  38  65  89 114 155 185 218 236 248 134 179 206],#567c9f
+1475,sculpture,"https://api.nga.gov/iiif/2a8f2171-addf-4e3f-8bb1-cb584848d033/full/!200,200/0/default.jpg",[ 56  78 107 151 151 152 170 171 171 103 127 158  80 103 134],#384e6b
+1470,print,"https://api.nga.gov/iiif/fda9bb28-c25d-4b2c-a6ad-64d54f934762/full/!200,200/0/default.jpg",[142 168 186 192 214 226  67  90 106 111 138 157 159 185 202],#8ea8ba
+1470,print,"https://api.nga.gov/iiif/7968bee0-1573-4912-823d-1ba04ee9b7b5/full/!200,200/0/default.jpg",[138 182 204 108 147 165 180 217 235  82 116 133  52  83 105],#8ab6cc
+1461,sculpture,"https://api.nga.gov/iiif/7e3e9011-e077-4367-9d26-17445092e6cd/full/!200,200/0/default.jpg",[ 82  99 119  38  49  60 118 134 154  54  72  92   0   0   0],#526377
+1480,sculpture,"https://api.nga.gov/iiif/c4c95ba1-df2a-42d8-a816-0f63c3f2387a/full/!200,200/0/default.jpg",[198 202 204 153 165 175  57  89 117 107 128 145  29  53  76],#c6cacc
+1485,print,"https://api.nga.gov/iiif/337600d5-098f-4d48-b14e-b18ecb074b82/full/!200,200/0/default.jpg",[203 225 239  84 103 118 171 193 207 114 134 148 141 162 177],#cbe1ef
+1470,painting,"https://api.nga.gov/iiif/411d388f-e778-47f8-a5e8-0c030fa03aaf/full/!200,200/0/default.jpg",[125 173 211  29  35  20  92 135 160  23  46  87  49  91 119],#7dadd3
+1480,print,"https://api.nga.gov/iiif/0ee018b5-346f-42d1-9543-8148f95e2706/full/!200,200/0/default.jpg",[104 127 144 161 194 217 178 211 232  71  89 105 134 163 185],#687f90
+1475,sculpture,"https://api.nga.gov/iiif/222c7863-8505-4810-8227-e99df6a62796/full/!200,200/0/default.jpg",[136 138 140 198 198 198 169 170 171  55  62  68  83  91  98],#888a8c
+1450,sculpture,"https://api.nga.gov/iiif/1e277811-9073-4836-b9c6-fc35165ec4aa/full/!200,200/0/default.jpg",[ 61  64  63 101 106 105 129 131 130  81  85  84 213 213 213],#3d403f
+1490,sculpture,"https://api.nga.gov/iiif/65b68af1-1dac-4038-833c-549099c60234/full/!200,200/0/default.jpg",[ 90  99 110   0   0   0  64  69  74 129 139 149 169 178 187],#5a636e
+1460,print,"https://api.nga.gov/iiif/b45585b7-c276-43c1-ab3b-7ef3e89cb153/full/!200,200/0/default.jpg",[188 224 244  75 104 107 141 194 223  92 132 169 107 152 211],#bce0f4
+1470,painting,"https://api.nga.gov/iiif/1a761edd-c52e-47c0-b422-df074e14c803/full/!200,200/0/default.jpg",[140 157 170  98 113 128  90 105 121  55  74  95  42  49  56],#8c9daa
+1460,print,"https://api.nga.gov/iiif/fab38d42-216f-4322-a993-224d59281cbd/full/!200,200/0/default.jpg",[ 49  74  96 120 147 194 178 216 234  90 127 144  80 180 220],#314a60
+1400,sculpture,"https://api.nga.gov/iiif/9ca16dd8-5683-461a-95f7-827126359e8e/full/!200,200/0/default.jpg",[ 73 107 128 104 140 162  44  49  56 146 170 187 205 210 215],#496b80
+1480,print,"https://api.nga.gov/iiif/bce08ebb-ef71-4e2a-8514-613b94e7841f/full/!200,200/0/default.jpg",[ 48  65 123 122 163 191  93 118  97  72 108 178 168 210 233],#30417b
+1475,sculpture,"https://api.nga.gov/iiif/e95812ff-d68a-42bc-b1e6-555fea2ed4dc/full/!200,200/0/default.jpg",[  0   0   1  98 116 142  68  84 110  46  62  87  27  42  62],#000001
+1475,sculpture,"https://api.nga.gov/iiif/7e1b3b87-2065-455a-aa9a-de4ca8d41f95/full/!200,200/0/default.jpg",[148 157 165  73  96 109  53  72  86 121 133 142  88 114 127],#949da5
+1475,sculpture,"https://api.nga.gov/iiif/b4d6af28-531d-4542-908c-6478f4cf328a/full/!200,200/0/default.jpg",[  1   1   2  70  89 113  54  72  95  37  54  73  96 115 134],#010102
+1470,print,"https://api.nga.gov/iiif/7d616e89-ce0a-471b-bc6c-dad73cc20f0a/full/!200,200/0/default.jpg",[ 71  80  90 188 207 216  91 103 114 141 157 171 114 128 141],#47505a
+1400,sculpture,"https://api.nga.gov/iiif/22aada6b-41a7-45ad-a1e4-333320e1d4e9/full/!200,200/0/default.jpg",[ 47  58  70  75  83  94   0   0   0  29  38  46 106 114 127],#2f3a46
+1475,sculpture,"https://api.nga.gov/iiif/21dcbae5-b32a-490a-b2a0-dc72b279dd14/full/!200,200/0/default.jpg",[124 138 152  66  69  73  11  12  12  46  48  51  87  95 104],#7c8a98
+1496,print,"https://api.nga.gov/iiif/dd67ba9b-543f-4741-8e4f-71e6ba0dd68f/full/!200,200/0/default.jpg",[208 231 244 108 122 135  66  76  88 178 200 213 145 164 177],#d0e7f4
+1470,print,"https://api.nga.gov/iiif/b02302aa-c40c-467d-aa4f-2045546ebdc5/full/!200,200/0/default.jpg",[182 217 241 133 168 194  72 101 125 103 136 161 159 197 223],#b6d9f1
+1400,sculpture,"https://api.nga.gov/iiif/8e28a65a-8694-46d0-b517-a012fa95af12/full/!200,200/0/default.jpg",[  3   3   3  55  77  97 119 147 170  82 106 127  30  48  64],#030303
+1490,painting,"https://api.nga.gov/iiif/39eccc24-0e44-4e47-bbc2-24d5cacd4417/full/!200,200/0/default.jpg",[106 154 175  73 109 126  36  36  26 147 197 217  49  66  76],#6a9aaf
+1460,painting,"https://api.nga.gov/iiif/74df6f92-b371-42c7-b835-b4cb9ae167b6/full/!200,200/0/default.jpg",[ 63 120 160  91 147 194  29  60  89   6  11  12  21  32  27],#3f78a0
+1475,sculpture,"https://api.nga.gov/iiif/e4121a90-605a-4c00-8866-6d3e8719cfd0/full/!200,200/0/default.jpg",[ 51  65  89   0   0   0 120 129 147  75  88 111  27  40  58],#334159
+1480,print,"https://api.nga.gov/iiif/703d7c43-aec7-429d-8dbb-38ec58196dba/full/!200,200/0/default.jpg",[158 181 196  61  71  83  91 106 119 196 222 237 123 142 157],#9eb5c4
+1470,print,"https://api.nga.gov/iiif/51c2c35a-527a-4557-9e7f-12f5e8d1a17a/full/!200,200/0/default.jpg",[ 75 116 154 143 187 218  60  92 125  49  70  96 101 146 183],#4b749a
+1480,print,"https://api.nga.gov/iiif/c6a9ad57-48b7-44ac-9291-e134505406ef/full/!200,200/0/default.jpg",[172 185 194  63  72  80 120 132 140 152 164 173  91 100 109],#acb9c2
+1475,sculpture,"https://api.nga.gov/iiif/63d4baa7-38d6-4d5f-87f1-1761442eca77/full/!200,200/0/default.jpg",[130 144 157  87  99 109   1   1   1  32  38  43  53  62  69],#82909d
+1480,sculpture,"https://api.nga.gov/iiif/125404af-817b-416c-8740-4c51cd907499/full/!200,200/0/default.jpg",[ 61  92 137  44  72 111   0   0   1  99 127 163  62 101 177],#3d5c89
+1480,print,"https://api.nga.gov/iiif/d45dfcae-36c7-437e-b1af-0235a7c87a47/full/!200,200/0/default.jpg",[128 147 160  93 108 121  61  71  81 190 217 232 161 183 198],#8093a0
+1475,sculpture,"https://api.nga.gov/iiif/881c8540-c46b-4613-80e6-0f38c77e791a/full/!200,200/0/default.jpg",[  1   1   2  31  49  69 114 146 171  76 103 128  50  73  97],#010102
+1480,sculpture,"https://api.nga.gov/iiif/155e33d1-8aec-4b2c-9319-d26f5fddba84/full/!200,200/0/default.jpg",[ 92 129 155  37  69  96   0   0   1  61  98 128 128 166 191],#5c819b
+1475,sculpture,"https://api.nga.gov/iiif/8ebb9c65-0a8c-4e8e-ba9b-25dfa6dddad0/full/!200,200/0/default.jpg",[191 207 220  93  94  94 174 185 192 116 127 135 148 162 171],#bfcfdc
+1400,sculpture,"https://api.nga.gov/iiif/7c1713a9-9b1b-48d1-8a64-3e53a4a05822/full/!200,200/0/default.jpg",[115 127 145  84  98 118   0   0   1  42  54  68  62  76  94],#737f91
+1480,print,"https://api.nga.gov/iiif/e72f79b7-b515-4ced-96d3-a7af59ea0f7b/full/!200,200/0/default.jpg",[178 214 237 143 174 197  81 107 128  48  69  87 112 142 163],#b2d6ed
+1465,print,"https://api.nga.gov/iiif/ead4dc75-0db7-4949-9660-c9c7749f91b5/full/!200,200/0/default.jpg",[142 162 176 108 126 139 185 208 221 155 176 192 125 144 158],#8ea2b0
+1480,sculpture,"https://api.nga.gov/iiif/6a8a6528-e8a7-4281-b85b-611d30916dab/full/!200,200/0/default.jpg",[107 132 162  42  66  99   0   0   1 152 176 203  68  94 128],#6b84a2
+1498,print,"https://api.nga.gov/iiif/59a59a92-c379-418b-bbfc-1f58d1a4eebe/full/!200,200/0/default.jpg",[141 161 175 105 123 136 176 199 213 203 228 243  72  83  93],#8da1af
+1480,print,"https://api.nga.gov/iiif/06e29a55-a946-4a35-ba82-fc16755196c4/full/!200,200/0/default.jpg",[187 214 229 156 181 199 101 122 138  66  85  99 130 153 170],#bbd6e5
+1475,sculpture,"https://api.nga.gov/iiif/1ebb0c64-763e-4679-b248-fed68fac0195/full/!200,200/0/default.jpg",[222 223 227  43  44  49 176 177 180  71  73  79 126 127 130],#dedfe3
+1480,print,"https://api.nga.gov/iiif/01582e0d-4afb-4cd6-bc10-3949d366c554/full/!200,200/0/default.jpg",[193 218 233  87 100 112  58  67  77 155 177 192 119 136 150],#c1dae9
+1475,sculpture,"https://api.nga.gov/iiif/bbfd102d-25de-4fd1-9854-bb91fb217204/full/!200,200/0/default.jpg",[142 153 170   0   0   1  49  64  77 104 117 132  70  85 101],#8e99aa
+1475,sculpture,"https://api.nga.gov/iiif/069b3758-48a7-4ddb-b202-c5a8eba37fbc/full/!200,200/0/default.jpg",[ 67  66  67 187 198 209 136 140 147   1   0   1 102 103 107],#434243
+1490,print,"https://api.nga.gov/iiif/a80c61e3-2375-46e4-96cd-1f009fe05d19/full/!200,200/0/default.jpg",[ 84 119 145 177 212 234  63  94 102 144 181 209 113 149 175],#547791
+1480,print,"https://api.nga.gov/iiif/773b8c69-0e25-493d-8ebb-745a30250abb/full/!200,200/0/default.jpg",[ 56 104 199 134 171 207  99 133 160 181 220 243  57  87 116],#3868c7
+1475,sculpture,"https://api.nga.gov/iiif/867ac317-f275-4111-8c3e-faf7d1c907b0/full/!200,200/0/default.jpg",[  1   1   1  44  57  69  64  76  89  29  41  53  97 109 122],#010101
+1475,sculpture,"https://api.nga.gov/iiif/101671e1-b897-4fb6-9355-0ccc155452cb/full/!200,200/0/default.jpg",[207 208 209  53  82 109  87 119 146 116 148 174 175 176 176],#cfd0d1
+1452,print,"https://api.nga.gov/iiif/7012fa61-bc88-4cbc-a206-3cafac9e4064/full/!200,200/0/default.jpg",[129 151 169 153 176 194  89 108 125 184 211 223 110 131 148],#8197a9
+1450,print,"https://api.nga.gov/iiif/21c9c9d7-861d-47cb-bae2-67c87db3b5a5/full/!200,200/0/default.jpg",[210 234 244 120 146 165  50  62  70  82 103 117 155 186 208],#d2eaf4
+1480,print,"https://api.nga.gov/iiif/276893af-872c-4fc3-9ccd-f9749cbe7d5e/full/!200,200/0/default.jpg",[166 198 219  96 113 128 134 157 176  60  70  82 206 237 250],#a6c6db
+1475,sculpture,"https://api.nga.gov/iiif/222c7863-8505-4810-8227-e99df6a62796/full/!200,200/0/default.jpg",[136 138 140 198 198 198 169 170 171  55  62  68  83  91  98],#888a8c
+1472,print,"https://api.nga.gov/iiif/83147a65-ac94-4458-99cf-ad05e72262a5/full/!200,200/0/default.jpg",[115 130 142 148 164 176 180 196 208 215 232 243  79  91 103],#73828e
+1485,print,"https://api.nga.gov/iiif/2b6345e4-7448-4629-97e6-e288f126cf7c/full/!200,200/0/default.jpg",[127 158 179  69  96 120 157 188 208 192 219 237  98 128 152],#7f9eb3
+1400,sculpture,"https://api.nga.gov/iiif/818da59d-1f60-4eca-8228-be04a218563c/full/!200,200/0/default.jpg",[ 51  62  72  87 102 113  31  42  51   1   1   1  19  25  31],#333e48
+1475,print,"https://api.nga.gov/iiif/45fb42d0-659a-4027-a7eb-47d89e5b329b/full/!200,200/0/default.jpg",[182 210 227 132 155 172  76  94 109 159 184 201 104 124 141],#b6d2e3
+1470,print,"https://api.nga.gov/iiif/9f753a95-cf58-429f-a049-29365ffe1000/full/!200,200/0/default.jpg",[104 136 159 182 218 241  71  99 122 162 199 224 133 167 192],#68889f
+1475,print,"https://api.nga.gov/iiif/4081fa95-53c8-451b-b59c-69ebac592906/full/!200,200/0/default.jpg",[173 204 225  59  70  82  88 105 120 117 140 157 146 173 193],#adcce1
+1470,print,"https://api.nga.gov/iiif/90f98992-42e5-4393-abf1-d3c963850b5a/full/!200,200/0/default.jpg",[100 120 136  71  88 102 126 149 166 151 177 195 174 203 221],#647888
+1480,print,"https://api.nga.gov/iiif/70f14e54-bd47-48d7-98ae-acdd430daf4c/full/!200,200/0/default.jpg",[ 87 116 114  49 110 224 127 163 181 181 215 232  46  62  86],#577472
+1475,sculpture,"https://api.nga.gov/iiif/665b1697-4c9c-43bb-9a82-a707f274d661/full/!200,200/0/default.jpg",[ 78  84  94 174 175 175  53  58  67 184 185 185 105 112 123],#4e545e
+1475,technical material,"https://api.nga.gov/iiif/2f2b5198-1116-4cad-8c1d-868641b7247a/full/!200,200/0/default.jpg",[ 71 122 196  58 101 164   5   7  13  91 141 207 116 162 218],#477ac4
+1475,sculpture,"https://api.nga.gov/iiif/86507bd9-7e7b-418d-8973-8c16014eeec7/full/!200,200/0/default.jpg",[112 175 208  72 124 159  43  84 117   0   0   1  19  47  75],#70afd0
+1400,sculpture,"https://api.nga.gov/iiif/3a58d1e2-d904-4788-b25f-66eb82093f05/full/!200,200/0/default.jpg",[ 94  95  98  62  63  64 139 140 141 208 207 207 234 230 229],#5e5f62
+1490,print,"https://api.nga.gov/iiif/85e40c53-4b51-4cfc-8444-dee06e38c0c6/full/!200,200/0/default.jpg",[173 194 207  69  79  90 100 113 125 136 153 167 206 230 244],#adc2cf
+1475,sculpture,"https://api.nga.gov/iiif/26c4d359-89ff-4356-9c89-630faf9b1781/full/!200,200/0/default.jpg",[ 65  68  70   3   2   2 102 107 113 198 207 220 142 149 159],#414446
+1470,sculpture,"https://api.nga.gov/iiif/43237e44-a640-469a-8027-59e0881e2a7d/full/!200,200/0/default.jpg",[ 53  68  82   0   0   1  92 108 125 175 204 214  32  45  57],#354452
+1480,print,"https://api.nga.gov/iiif/5530351c-0871-4ef2-afdd-bcb265aae2fd/full/!200,200/0/default.jpg",[ 64  77  89  97 115 129 190 217 233 161 185 203 129 151 167],#404d59
+1450,print,"https://api.nga.gov/iiif/59e480a5-48ee-488e-ba9d-5cc4840f4541/full/!200,200/0/default.jpg",[181 203 218  71  82  94 138 157 170 105 119 132 218 238 249],#b5cbda
+1450,print,"https://api.nga.gov/iiif/a7346ab0-f760-404d-90a9-71008d82c696/full/!200,200/0/default.jpg",[177 212 236  92 132 158  91 124  87 127 172 200  58  88 116],#b1d4ec
+1470,sculpture,"https://api.nga.gov/iiif/2091d65e-3ef5-4359-8ddd-c2070c79afe6/full/!200,200/0/default.jpg",[  0   0   1 125 148 166  42  58  74  65  83 100  93 114 131],#000001
+1470,sculpture,"https://api.nga.gov/iiif/b821549e-87d0-4a90-a630-54f9257341b7/full/!200,200/0/default.jpg",[ 76  78  79 186 197 205 160 167 172 105 108 109 135 139 142],#4c4e4f
+1400,sculpture,"https://api.nga.gov/iiif/d81d6aa8-0c1b-45bb-a592-f8405dbfb416/full/!200,200/0/default.jpg",[ 61  77  96   3   3   2 146 160 178  95 112 133  36  48  65],#3d4d60
+1480,print,"https://api.nga.gov/iiif/14a3f228-3852-4cbc-a33e-5b8f17f7eca5/full/!200,200/0/default.jpg",[ 88 129 198 140 183 218  49  65  98 179 214 239  72 102 155],#5881c6
+1480,print,"https://api.nga.gov/iiif/a9d6eb3c-55e3-4842-a3fc-e7e22521438b/full/!200,200/0/default.jpg",[141 152 160  62  70  77 113 122 131  87  95 103 165 179 189],#8d98a0
+1480,print,"https://api.nga.gov/iiif/84062352-c7d1-4b50-8d50-92511532f2e0/full/!200,200/0/default.jpg",[ 57  65  75 117 137 153 151 176 193  86 101 114 184 213 231],#39414b
+1450,print,"https://api.nga.gov/iiif/5fa8c34a-89ba-4145-8632-54b5f9dc6d36/full/!200,200/0/default.jpg",[ 55  82 115 100 138 142 124 165 194 154 198 230  59 106 220],#375273
+1475,drawing,"https://api.nga.gov/iiif/8f7fc4ce-24f7-4d39-8b19-693974f7c4b4/full/!200,200/0/default.jpg",[ 72  97 132 116 151 185 104 136 171 130 165 197  90 119 155],#486184
+1400,sculpture,"https://api.nga.gov/iiif/c2fe3763-db1b-4868-9dde-84da989143c3/full/!200,200/0/default.jpg",[ 35  47  57  55  76  95 127 150 171  81 106 129   1   2   1],#232f39
+1480,sculpture,"https://api.nga.gov/iiif/2d416f08-7a2e-4b59-b032-c33c3d409e67/full/!200,200/0/default.jpg",[ 72  92 115   0   0   0  45  63  83 107 127 152  31  47  58],#485c73
+1475,sculpture,"https://api.nga.gov/iiif/069b3758-48a7-4ddb-b202-c5a8eba37fbc/full/!200,200/0/default.jpg",[ 67  66  67 187 198 209 136 140 147   1   0   1 102 103 107],#434243
+1450,sculpture,"https://api.nga.gov/iiif/da60a64d-a8c4-4c90-b26e-70074ad2727d/full/!200,200/0/default.jpg",[147 166 181 113 130 146  45  68  89   1   1   1  31  47  65],#93a6b5
+1480,print,"https://api.nga.gov/iiif/b0838173-8d9b-471c-980e-911bd6e35645/full/!200,200/0/default.jpg",[135 161 180  62  74  87 161 191 212  86 103 118 110 133 150],#87a1b4
+1485,sculpture,"https://api.nga.gov/iiif/dab4060a-a5f5-4b71-8483-e9f898f5b94b/full/!200,200/0/default.jpg",[ 83  95 111 109 121 138  65  77  95  48  61  79   1   0   1],#535f6f
+1470,sculpture,"https://api.nga.gov/iiif/eb2694a1-a18b-445b-b9a1-e5413b349c40/full/!200,200/0/default.jpg",[103 104 103 197 200 201 129 132 131 170 176 177 149 154 154],#676867
+1480,print,"https://api.nga.gov/iiif/53631a05-b372-46f1-9214-ceddb5599a05/full/!200,200/0/default.jpg",[190 209 220 158 175 188  67  77  87 130 145 157  99 112 122],#bed1dc
+1480,print,"https://api.nga.gov/iiif/bc5e9c09-0dfc-400c-9dc8-486c9b7960ba/full/!200,200/0/default.jpg",[123 146 163 186 214 231 157 182 199 201 228 243  88 108 125],#7b92a3
+1475,sculpture,"https://api.nga.gov/iiif/f8cb4690-edcd-4e6f-95fc-f7017ca6c3e5/full/!200,200/0/default.jpg",[ 30  53  85 103 125 146 171 189 200   0   0   1  44  76 117],#1e3555
+1470,print,"https://api.nga.gov/iiif/af760aa8-72c9-40f0-97d4-e01c8e8bff11/full/!200,200/0/default.jpg",[ 52  71  89 151 188 215  81 111 133 116 151 174 211 239 249],#344759
+1470,print,"https://api.nga.gov/iiif/2ecb8f6d-a9c7-4a49-ac89-cf36c46076c2/full/!200,200/0/default.jpg",[ 77 108 132 178 214 238 134 170 195 107 141 166 160 197 222],#4d6c84
+1470,sculpture,"https://api.nga.gov/iiif/1667a1e4-b675-4857-831d-1add5c80008a/full/!200,200/0/default.jpg",[  1   2   1 126 134 138  58  65  67  90  97 100  33  39  40],#010201
+1460,sculpture,"https://api.nga.gov/iiif/9c14a91a-b294-43f3-b05f-8826a32c9109/full/!200,200/0/default.jpg",[120 140 156  73  91 109   0   0   1  36  48  71 150 169 181],#788c9c
+1480,print,"https://api.nga.gov/iiif/4a5efcaa-8f31-45af-8fff-f024fe2932dc/full/!200,200/0/default.jpg",[187 224 244  48  67  91 147 190 219  81 108 137  64  88 118],#bbe0f4
+1470,print,"https://api.nga.gov/iiif/54fefe78-41cb-4428-aafa-954241c42cc8/full/!200,200/0/default.jpg",[154 180 199 137 162 179  89 112 128 114 138 155 188 212 227],#9ab4c7
+1450,print,"https://api.nga.gov/iiif/e8b58c4a-5057-49e4-bf41-e3b9e96dd296/full/!200,200/0/default.jpg",[173 206 226  57  76  93 151 184 206  90 113 130 124 150 169],#adcee2
+1475,sculpture,"https://api.nga.gov/iiif/dc0ca889-bdb9-453b-873c-fbe70d839f8c/full/!200,200/0/default.jpg",[ 41  53  63  64  77  87   6   5   4  85  98 110 125 149 178],#29353f
+1475,sculpture,"https://api.nga.gov/iiif/d562cc9e-1196-41b7-9738-302fb3df07ee/full/!200,200/0/default.jpg",[ 50  63  74  76  90 100 148 166 177  32  43  52   0   0   0],#323f4a
+1450,print,"https://api.nga.gov/iiif/eed34552-7450-468d-975f-e4164a0d34c4/full/!200,200/0/default.jpg",[ 85 102 117 119 140 156 157 182 198 195 219 235  52  65  79],#556675
+1470,sculpture,"https://api.nga.gov/iiif/4be1c415-b3d5-499a-8f79-9e3d416b9fe1/full/!200,200/0/default.jpg",[108 117 126 208 215 225 139 150 161  36  47  62 172 184 196],#6c757e
+1400,sculpture,"https://api.nga.gov/iiif/165edfb0-a302-4918-a231-77d457b57f5b/full/!200,200/0/default.jpg",[  5   4   3  50  61  71  70  83  94  31  41  48 104 117 128],#050403
+1490,print,"https://api.nga.gov/iiif/7c9d8d2e-d6c6-4e69-8600-6440992eabfa/full/!200,200/0/default.jpg",[196 218 230 169 190 203  71  79  90 137 155 168 104 117 129],#c4dae6
+1450,sculpture,"https://api.nga.gov/iiif/c163f419-ef36-4d58-98db-5c19a86a420d/full/!200,200/0/default.jpg",[164 164 164  45  50  54 231 231 231 129 130 130 199 199 199],#a4a4a4
+1490,painting,"https://api.nga.gov/iiif/505de18c-648f-4d3c-93a7-413b3243be90/full/!200,200/0/default.jpg",[ 81 112 123 145 162 153  44  68  82  28  41  50 166 197 202],#51707b
+1480,print,"https://api.nga.gov/iiif/ff88aad9-a3d4-476c-8504-b66fc5b2828d/full/!200,200/0/default.jpg",[117 141 158 186 213 231  61  78  92  89 110 126 146 171 189],#758d9e
+1495,drawing,"https://api.nga.gov/iiif/137f897f-486a-4907-accd-bfd65ecd2823/full/!200,200/0/default.jpg",[123 165 194  82 116 142 152 199 229 105 143 171 137 186 218],#7ba5c2
+1450,print,"https://api.nga.gov/iiif/82b9d1fa-c659-4f55-9860-ed0913f550ab/full/!200,200/0/default.jpg",[206 232 244  78 109 131  43  65  80 157 194 218 105 147 173],#cee8f4
+1480,print,"https://api.nga.gov/iiif/d818fb3d-da2c-4c83-8bd5-1accb790b327/full/!200,200/0/default.jpg",[ 89 109 125  62  78  91 141 169 188 115 140 158 167 197 218],#596d7d
+1475,sculpture,"https://api.nga.gov/iiif/759ef368-388b-43e2-8a17-2a332b059cf4/full/!200,200/0/default.jpg",[164 167 169 119 130 138  65  73  79  42  48  52  89  99 105],#a4a7a9
+1480,print,"https://api.nga.gov/iiif/d135934c-06b2-4ba7-932c-2cf9b4d056ff/full/!200,200/0/default.jpg",[172 214 237 111 155 185  54  89 116  84 123 151 141 188 217],#acd6ed
+1470,print,"https://api.nga.gov/iiif/cfbaf822-ef7f-4411-9fab-19fc3f354d10/full/!200,200/0/default.jpg",[ 48  61  70  73  93 102 103 127 137 135 164 179 171 205 223],#303d46
+1472,print,"https://api.nga.gov/iiif/30a17e40-21ef-4ea7-a9f9-0aab064ce6ba/full/!200,200/0/default.jpg",[ 70  84  97 158 180 195 127 147 163 192 216 232 100 117 132],#465461
+1400,sculpture,"https://api.nga.gov/iiif/22aada6b-41a7-45ad-a1e4-333320e1d4e9/full/!200,200/0/default.jpg",[ 47  58  70  75  83  94   0   0   0  29  38  46 106 114 127],#2f3a46
+1480,print,"https://api.nga.gov/iiif/d2b08070-f9ef-43ad-9ff0-237898db0d2b/full/!200,200/0/default.jpg",[ 94 105 115 181 199 211 143 161 175  66  75  82 112 125 136],#5e6973
+1490,print,"https://api.nga.gov/iiif/90ab9ead-6115-4c3a-b3ee-0c5c629f1a67/full/!200,200/0/default.jpg",[180 216 237  86 120 156 114 165 201 103 109  66  56  83 106],#b4d8ed
+1480,sculpture,"https://api.nga.gov/iiif/d493ee5d-3dfc-4c2a-ac6d-acf0e059b957/full/!200,200/0/default.jpg",[ 48  97 138  30  66 100  73 126 165   0   0   1 117 168 202],#30618a
+1465,print,"https://api.nga.gov/iiif/4abd5cf7-d0a7-4a77-985e-79534a860ebd/full/!200,200/0/default.jpg",[121 140 152 102 121 133 157 177 191 190 213 224 138 157 170],#798c98
+1480,sculpture,"https://api.nga.gov/iiif/6a8a6528-e8a7-4281-b85b-611d30916dab/full/!200,200/0/default.jpg",[107 132 162  42  66  99   0   0   1 152 176 203  68  94 128],#6b84a2
+1480,print,"https://api.nga.gov/iiif/332251bf-70ec-472b-84c2-1b5f939c6841/full/!200,200/0/default.jpg",[187 205 214 137 155 168 114 129 139  65  73  80  90 101 109],#bbcdd6
+1450,sculpture,"https://api.nga.gov/iiif/2045e8af-42ac-4fce-9ecb-0163c0355bf5/full/!200,200/0/default.jpg",[ 30  36  43 161 185 197 109 123 134   2   2   1  53  63  73],#1e242b
+1470,print,"https://api.nga.gov/iiif/b2a1a9bc-2640-4336-94f8-978bf0ae3b5f/full/!200,200/0/default.jpg",[ 65  76  85  93 106 117 154 171 185 122 137 149 183 203 219],#414c55
+1480,print,"https://api.nga.gov/iiif/8f64f9a9-de02-445d-94ad-aba7460945c3/full/!200,200/0/default.jpg",[196 226 240 108 140 169  55  75 105  80 106 140 140 181 205],#c4e2f0
+1480,sculpture,"https://api.nga.gov/iiif/9a262c5e-41a7-49c0-bad9-85e18ca71c84/full/!200,200/0/default.jpg",[133 141 150 229 230 230 181 189 194  79  70  65  67  98 123],#858d96
+1475,print,"https://api.nga.gov/iiif/90ec4892-5f49-4aae-b331-34d972760125/full/!200,200/0/default.jpg",[170 212 237  62 102 132 128 185 216 104 150 177  63 103 191],#aad4ed
+1475,sculpture,"https://api.nga.gov/iiif/4fe27dc9-e4c8-4b91-9196-e97b5b207c01/full/!200,200/0/default.jpg",[ 57  66  79 134 144 158   4   3   3  30  37  49  91 101 113],#39424f
+1480,print,"https://api.nga.gov/iiif/36dd8bcf-fad6-4c16-ad33-421337c1b420/full/!200,200/0/default.jpg",[134 168 188  93 122 150 159 190 207 178 207 223 206 230 242],#86a8bc
+1470,print,"https://api.nga.gov/iiif/d9801bf3-1d37-4350-85c8-6659a44eaa9f/full/!200,200/0/default.jpg",[125 171 208 191 226 244  70  79  71  68 107 141  91 134 177],#7dabd0
+1480,print,"https://api.nga.gov/iiif/eac9b6bf-9629-47a8-83c3-c2542f9b876e/full/!200,200/0/default.jpg",[ 68  84  98 122 147 164  95 115 131 170 202 221 148 176 195],#445462
+1470,print,"https://api.nga.gov/iiif/b4e1e86d-043a-43ca-8dd8-0ac17e29c198/full/!200,200/0/default.jpg",[102 131 154  70  95 116 132 165 189 183 217 238 162 197 221],#66839a
+1497,print,"https://api.nga.gov/iiif/a7e40a9c-167e-4c34-a98c-c16969f74358/full/!200,200/0/default.jpg",[ 67  78  87 137 154 166 170 189 202 207 228 240 103 118 129],#434e57
+1450,sculpture,"https://api.nga.gov/iiif/283a164e-28b1-4e33-a521-acd6a9fd4958/full/!200,200/0/default.jpg",[109 122 144   0   1   1  26  34  50  47  57  75  73  84 103],#6d7a90
+1470,sculpture,"https://api.nga.gov/iiif/484e9817-02a0-4f5f-a077-03838179029f/full/!200,200/0/default.jpg",[  0   0   1  82  96 108  57  70  81  33  44  53 122 134 146],#000001
+1498,print,"https://api.nga.gov/iiif/cf8ed2f1-4e9f-47f4-9b15-bbfd9659ad77/full/!200,200/0/default.jpg",[ 61  76  91 174 209 232 112 139 160  86 107 125 141 172 194],#3d4c5b
+1450,sculpture,"https://api.nga.gov/iiif/b3b29f5f-98f5-475a-b9dc-c8fc89624270/full/!200,200/0/default.jpg",[  1   1   1 116 152 183  44  71 102  26  44  67  72 106 139],#010101
+1475,sculpture,"https://api.nga.gov/iiif/f517095e-7a3f-412a-8cee-c57c1035393b/full/!200,200/0/default.jpg",[ 11  11  12  70  76  86  49  52  59  93 105 118 121 143 163],#0b0b0c
+1480,print,"https://api.nga.gov/iiif/2e4d983f-267b-4551-b41b-c06b9a073a57/full/!200,200/0/default.jpg",[192 217 232  67  80  92 156 179 194  95 110 122 124 142 156],#c0d9e8
+1475,sculpture,"https://api.nga.gov/iiif/810cea1c-5517-4f2a-b805-dfe44a9da4a7/full/!200,200/0/default.jpg",[  0   0   1  92 171 212  41  92 134  61 130 175  19  53  85],#000001
+1475,print,"https://api.nga.gov/iiif/05a22f47-6fb2-423e-9837-b4734f4c30d0/full/!200,200/0/default.jpg",[ 87 110 127 123 148 164 193 224 242  50  69  86 161 186 203],#576e7f
+1480,sculpture,"https://api.nga.gov/iiif/7c139daf-1850-48c7-9ecc-2342f678d290/full/!200,200/0/default.jpg",[156 184 195  54  82 112  74 108 142 101 136 162   1   1   2],#9cb8c3
+1460,print,"https://api.nga.gov/iiif/f15a399e-db62-47b0-b8f5-3c5bbb25b9ea/full/!200,200/0/default.jpg",[109 128 145  71  87 103 143 165 184 171 196 216 209 233 246],#6d8091
+1475,sculpture,"https://api.nga.gov/iiif/166f5600-9962-4ffd-b227-56f416276c47/full/!200,200/0/default.jpg",[ 41  58  67  32  46  52  72  94 103   1   1   1  57  72  76],#293a43
+1480,sculpture,"https://api.nga.gov/iiif/00b0bee7-370f-4818-9d6e-272b0ffd7c26/full/!200,200/0/default.jpg",[  0   0   0 170 186 195  90 106 117 141 158 168 117 134 144],#000000
+1475,sculpture,"https://api.nga.gov/iiif/b3aa64d6-731e-4253-ae26-c436617518a2/full/!200,200/0/default.jpg",[ 53  85 110  34  60  84 122 159 187  74 108 136   4   3   3],#35556e
+1400,sculpture,"https://api.nga.gov/iiif/12f5b9ab-f032-4cf5-b95d-77d4ba71976c/full/!200,200/0/default.jpg",[ 47  60  85 106 115 129  36  51  71  63  75  95   0   0   0],#2f3c55
+1400,sculpture,"https://api.nga.gov/iiif/78537b36-4172-4624-8545-1f5566085a2c/full/!200,200/0/default.jpg",[ 38  59  76 112 139 152  56  77  96   1   2   1  25  42  57],#263b4c
+1475,sculpture,"https://api.nga.gov/iiif/e4121a90-605a-4c00-8866-6d3e8719cfd0/full/!200,200/0/default.jpg",[ 51  65  89   0   0   0 120 129 147  75  88 111  27  40  58],#334159
+1400,sculpture,"https://api.nga.gov/iiif/175d0f21-1153-4c81-8dd1-0511234d8fcd/full/!200,200/0/default.jpg",[ 58  71  90  38  52  72   0   0   0  28  41  57 107 125 137],#3a475a
+1480,print,"https://api.nga.gov/iiif/c32dec97-8524-466e-9175-15d6e3e4855c/full/!200,200/0/default.jpg",[102 126 143 137 165 183  65  83  97 188 219 238 165 197 217],#667e8f
+1470,print,"https://api.nga.gov/iiif/cef0e177-dc95-4358-83e1-120d1f139c36/full/!200,200/0/default.jpg",[130 161 183  41  40 159 175 209 228  47  65  83  89 118 133],#82a1b7
+1470,sculpture,"https://api.nga.gov/iiif/af3e37d1-4924-4764-bb20-06ef21087adb/full/!200,200/0/default.jpg",[160 171 181 121 130 139 139 152 164 187 193 201 105 110 115],#a0abb5
+1475,sculpture,"https://api.nga.gov/iiif/037fdc93-59fe-41a8-80a6-accec5e4f20e/full/!200,200/0/default.jpg",[ 50  68  83   0   0   0  30  46  60  79  96 110 122 139 155],#324453
+1470,sculpture,"https://api.nga.gov/iiif/67dc7e47-34a7-4eb7-8c46-3fc3624a7129/full/!200,200/0/default.jpg",[  2   2   2  88  98 105 125 136 144  62  72  80  41  50  59],#020202
+1450,print,"https://api.nga.gov/iiif/82b9d1fa-c659-4f55-9860-ed0913f550ab/full/!200,200/0/default.jpg",[206 232 244  78 109 131  43  65  80 157 194 218 105 147 173],#cee8f4
+1470,sculpture,"https://api.nga.gov/iiif/1a7e79f0-728c-416e-8e2b-610b0d7b0898/full/!200,200/0/default.jpg",[ 75 103 127   0   0   1  43  67  88 117 148 172  17  35  52],#4b677f
+1450,print,"https://api.nga.gov/iiif/2e9a6f3d-fc08-4295-9317-f8057d7bbbaf/full/!200,200/0/default.jpg",[115 138 154  83 104 120 171 198 215 207 239 250 144 169 185],#738a9a
+1475,sculpture,"https://api.nga.gov/iiif/67a42f0e-3bee-4037-a2c0-9e50fcd8dda3/full/!200,200/0/default.jpg",[  1   1   1  52  72  96  81 102 129 116 142 171  28  44  63],#010101
+1490,print,"https://api.nga.gov/iiif/39d5a41b-94d0-48b5-9912-9df5d5f79191/full/!200,200/0/default.jpg",[120 143 161  70  85  99 174 204 223 146 172 191  95 114 131],#788fa1
+1480,sculpture,"https://api.nga.gov/iiif/35b8c046-f482-4d46-a5b9-1072a0224338/full/!200,200/0/default.jpg",[121 134 150   1   1   2  58  71  86  35  46  59  83  97 114],#798696
+1470,sculpture,"https://api.nga.gov/iiif/c73f61a2-1c0e-4f4b-adb4-d30100120abd/full/!200,200/0/default.jpg",[ 64  80 104  86 101 123  45  61  83   0   0   1 109 125 147],#405068
+1480,sculpture,"https://api.nga.gov/iiif/de1061af-39a3-412b-a32d-0fdcbb5fac91/full/!200,200/0/default.jpg",[  0   1   2  76 119 167  39  73 118 134 165 194  51  96 148],#000102
+1470,sculpture,"https://api.nga.gov/iiif/25d95461-6d71-4e8e-946f-f9737214aa29/full/!200,200/0/default.jpg",[122 148 172  39  73  99  28  58  83  76 104 128   1   1   2],#7a94ac
+1480,sculpture,"https://api.nga.gov/iiif/c20af1fa-ba5b-43b0-a7ad-4a31d8dbdcb2/full/!200,200/0/default.jpg",[ 52  72  88  33  50  65 104 133 156  73  96 115   2   2   1],#344858
+1475,sculpture,"https://api.nga.gov/iiif/21dcbae5-b32a-490a-b2a0-dc72b279dd14/full/!200,200/0/default.jpg",[124 138 152  66  69  73  11  12  12  46  48  51  87  95 104],#7c8a98
+1450,sculpture,"https://api.nga.gov/iiif/7fba2f61-f59e-4dbd-b96e-d75ca9908ea7/full/!200,200/0/default.jpg",[116 147 188  56  84 126   0   0   1  83 112 153  37  61  96],#7493bc
+1450,print,"https://api.nga.gov/iiif/e8b58c4a-5057-49e4-bf41-e3b9e96dd296/full/!200,200/0/default.jpg",[173 206 226  57  76  93 151 184 206  90 113 130 124 150 169],#adcee2
+1480,print,"https://api.nga.gov/iiif/3c77a17a-49bb-442f-8eaf-ae02e2a3dbea/full/!200,200/0/default.jpg",[157 175 190  55  63  72 101 114 126 130 146 159  76  86  96],#9dafbe
+1480,print,"https://api.nga.gov/iiif/333565e8-bf2e-4e28-90bf-96645bfce417/full/!200,200/0/default.jpg",[ 97 107 117 153 168 180  71  79  88 121 133 144 182 199 210],#616b75
+1450,sculpture,"https://api.nga.gov/iiif/9ae10edf-97f9-4c09-8f36-c510480b7870/full/!200,200/0/default.jpg",[114 132 148  58  77  92  40  59  74   1   0   1  32  49  61],#728494
+1475,sculpture,"https://api.nga.gov/iiif/fc6f7c85-7b13-4a83-b602-a35574eea118/full/!200,200/0/default.jpg",[ 40  55  69 119 136 154  63  79  93   1   1   2  88 104 120],#283745
+1475,sculpture,"https://api.nga.gov/iiif/4594c016-b5a2-4974-9786-7c0c443f41f6/full/!200,200/0/default.jpg",[147 163 176 173 187 200  49  64  78  90 106 119 113 131 147],#93a3b0
+1468,sculpture,"https://api.nga.gov/iiif/185f38e8-3152-454f-b6ce-4b5e7a715bfc/full/!200,200/0/default.jpg",[ 54  87 117   0   0   1 123 166 193  83 122 152  33  55  80],#365775
+1470,sculpture,"https://api.nga.gov/iiif/47543a99-cc03-4c14-b9d8-91473727d293/full/!200,200/0/default.jpg",[ 81  92 101 124 135 145   0   0   1  30  39  47  53  63  72],#515c65
+1480,print,"https://api.nga.gov/iiif/712a9829-6039-4971-8c5f-89ea7ac8d1f6/full/!200,200/0/default.jpg",[187 208 223 142 159 172 161 180 194 177 198 213 119 136 149],#bbd0df
+1460,print,"https://api.nga.gov/iiif/fe9bf3d7-c495-427e-b5b2-266f8a652977/full/!200,200/0/default.jpg",[190 222 238  99 144 172 136 178 200  52  84 110  80 115 139],#bedeee
+1480,print,"https://api.nga.gov/iiif/42b6ddc4-77cb-4e35-a1a2-4d588184317a/full/!200,200/0/default.jpg",[116 140 156  90 110 126 167 196 215  63  79  92 142 168 186],#748c9c
+1480,print,"https://api.nga.gov/iiif/f1331dad-f029-436c-85d5-de935b3f462e/full/!200,200/0/default.jpg",[ 51  75  96 206 236 245  99 131 158 130 165 189  75 103 127],#334b60
+1475,sculpture,"https://api.nga.gov/iiif/6db673df-c004-4588-9594-4b92d0fb6eda/full/!200,200/0/default.jpg",[ 48  71 108  68  94 128  38  58  91  27  44  73   0   0   1],#30476c
+1480,print,"https://api.nga.gov/iiif/338f0ff4-1639-476e-bf88-28dc7a852afc/full/!200,200/0/default.jpg",[ 97 115 130 129 152 168 160 186 203 193 220 237  64  76  88],#617382
+1475,print,"https://api.nga.gov/iiif/09e43168-75c6-4ab0-a53e-c2ad7ede7053/full/!200,200/0/default.jpg",[101 128 150 211 240 250 156 196 224 132 166 191  66  85 103],#658096
+1470,sculpture,"https://api.nga.gov/iiif/04bb276d-02b4-475f-83cf-1697f0cc343d/full/!200,200/0/default.jpg",[ 84  99 112  50  64  75   1   1   1  24  37  45 127 144 158],#546370
+1490,print,"https://api.nga.gov/iiif/1dcaf7e1-6831-4d70-aa74-6df7b4cbdb66/full/!200,200/0/default.jpg",[195 231 244  96 118  72  84 117 149 118 169 203  55  82 101],#c3e7f4
+1450,sculpture,"https://api.nga.gov/iiif/be71c190-08ad-49fb-9125-775c2fa9fb98/full/!200,200/0/default.jpg",[171 190 200 121 142 155  80 101 116  50  66  78   0   0   1],#abbec8
+1450,sculpture,"https://api.nga.gov/iiif/a4330c6b-a872-4dda-9549-1fdbbdbbda21/full/!200,200/0/default.jpg",[115 128 145  82  95 112  56  71  90   4   3   2  37  53  74],#738091
+1475,sculpture,"https://api.nga.gov/iiif/c49b4ed2-5bc3-4f30-a274-6962c7d8fc43/full/!200,200/0/default.jpg",[ 54  65  77  33  42  50 142 153 164   0   0   0  94 105 117],#36414d
+1475,sculpture,"https://api.nga.gov/iiif/e4121a90-605a-4c00-8866-6d3e8719cfd0/full/!200,200/0/default.jpg",[ 51  65  89   0   0   0 120 129 147  75  88 111  27  40  58],#334159
+1475,print,"https://api.nga.gov/iiif/6f93c3b2-d712-4ebb-9324-130f1d2568a5/full/!200,200/0/default.jpg",[115 135 150 173 199 214  83 100 113 194 220 234 146 169 184],#738796
+1400,sculpture,"https://api.nga.gov/iiif/1d710935-52c1-4e1b-9e8c-d217f58844ac/full/!200,200/0/default.jpg",[175 181 185 144 149 154  62  83  98 206 210 216 112 121 128],#afb5b9
+1470,painting,"https://api.nga.gov/iiif/99820c90-ed52-4981-9954-bd0512acacfc/full/!200,200/0/default.jpg",[ 34  47  94 119 138 166  63  70  52  24  33  39  73  95 126],#222f5e

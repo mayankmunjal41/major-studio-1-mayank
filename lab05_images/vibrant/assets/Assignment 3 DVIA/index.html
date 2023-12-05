@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Text: Sentence Sentiment Chart</title>
+  <link href="https://cdn.jsdelivr.net/npm/modern-normalize@2.0.0/modern-normalize.min.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/@fontsource/inter@5.0.12/latin.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    /* Add your custom CSS styles here */
+    .tooltip {
+      display: none;
+      position: absolute;
+      background: white;
+      padding: 10px;
+      border: 1px solid #ccc;
+      z-index: 1;
+      max-width: 600px;
+    }
+
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 30px;
+      flex-direction: column;
+    }
+    body {
+      background: #1d1d1d;
+     
+      font-family: 'Cardo', serif; /* Use the Cardo font */
+    }
+    h1 {
+      color: white; /* Heading color */
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Trump's Last SOTU Speech (For now)</h1>
+    <div id="app"></div>
+  </div>
+  <div class="tooltip" id="chart-tooltip">
+    Sentiment Score: <span id="sentiment-score"></span><br />
+    Sentence: <span id="sentence-text"></span>
+  </div>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/rita@2.8.31/+esm"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sentiment@5.0.2/+esm"></script>
+  <script src="js/test.js" type="module" async></script>
+</body>
+</html>

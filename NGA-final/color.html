@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Color Extraction</title>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="libraries/vibrant.js"></script>
+</head>
+<body>
+  <script>
+    const inputFile = 'weighted_sample_with_colors.csv'; // Replace with your CSV file path
+    const outputFile = 'output.json'; // Replace with your desired output file path
+
+    const newData = [];
+
+    const colorGenerator = async (pic) => {
+      try {
+        const palette = await Vibrant.from(pic).getPalette();
+        const paletteArray = Object.values(palette)
+          .filter(swatch => swatch !== null)
+          .map(swatch => swatch.getHex());
+
+        return paletteArray;
+      } catch (error) {
+        console.error(`Failed to load image: ${pic}`);
+        return ['#000']; // Return a default color in case of an error
+      }
+    };
+
+    d3.csv(inputFile).then(async (csvData) => {
+      for (const row of csvData) {
+        const imageUrl = row['imageurl']?.trim();
+
+        if (imageUrl) {
+          const paletteList = await colorGenerator(imageUrl);
+
+          newData.push({
+            imageUrl,
+            paletteList,
+          });
+        }
+      }
+
+      console.log(newData);
+
+      const blob = new Blob([JSON.stringify(newData, null, 2)], { type: 'application/json' });
+      const link = document.createElement('a');
+      link.href = URL.createObjectURL(blob);
+      link.download = outputFile;
+      link.click();
+    });
+  </script>
+</body>
+</html>

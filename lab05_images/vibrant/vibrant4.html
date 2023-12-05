@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Vibrant.js example</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="libraries/vibrant.js"></script>
+    <style>
+      /* Style for the swatch & image */
+      .swatch {
+        border: 5px solid black;
+        height: 100px;
+        width: 100px;
+        float: left;
+        margin-right: 10px;
+      }
+      img {
+        max-width: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="image_container">
+      <!-- Add your image elements here dynamically -->
+    </div>
+
+    <button id="downloadCSV">Download CSV</button>
+
+    <script>
+      const imageDetailsMap = new Map(); // Map to store image details (year and primary color) by URL
+      const colorTypes = new Set(); // Set to store color types
+
+      d3.csv('final_sample_3.csv').then(function (data) {
+        data.forEach((image, index) => {
+          // Check if visual browser classification is "painting"
+          if ((image.beginyear >= 1400 && image.beginyear <= 1900)) {
+            const imgContainer = d3
+              .select('#image_container')
+              .append('div')
+              .attr('class', 'img-container')
+              .attr('id', `img-container-${index}`);
+
+            const img = new Image();
+            img.src = image.imageurl;
+
+img.onload = function () {
+  imgContainer
+    .append('img')
+    .attr('src', this.src)
+    .attr('class', 'img');
+
+  Vibrant.from(this.src).getPalette((err, palette) => {
+    if (err) {
+      console.error(
+        `Error extracting color for ${image.imageurl}: ${err.message}`
+      );
+      return;
+    }
+    console.log(palette);
+
+    if (palette) {
+      // Get the first color from the palette
+      const firstColor = palette.Vibrant || palette.Muted || palette.DarkVibrant || palette.DarkMuted || palette.LightVibrant || palette.LightMuted;
+
+      if (firstColor) {
+        const hexColor = firstColor.getHex();
+
+        // If URL is not in the map, add it
+        if (!imageDetailsMap.has(image.imageurl)) {
+          imageDetailsMap.set(image.imageurl, {
+            beginYear: image.imageurl,
+          });
+        }
+
+        // Add the first color information to the map
+        imageDetailsMap.get(image.imageurl).firstColor = hexColor;
+        colorTypes.add('firstColor'); 
+        // console.log(firstColor);
+        // Use a Set to store unique color types
+
+        const div = document.createElement('div');
+        div.className = 'swatch';
+        div.style.backgroundColor = hexColor;
+        div.setAttribute('data-color-type', 'firstColor'); // Add data attribute to identify color type
+        const element = document.querySelector(
+          `#img-container-${index}`
+        );
+        element.appendChild(div);
+      }
+    } else {
+      console.error(`Error: No palette extracted for ${image.imageurl}`);
+    }
+  });
+};
+
+            img.onerror = function () {
+              console.error(`Error loading image: ${image.imageurl}`);
+            };
+          }
+        });
+
+        // Function to create a CSV file and trigger the download
+        document
+          .getElementById('downloadCSV')
+          .addEventListener('click', function () {
+            let csvData = 'Begin Year,';
+            colorTypes.forEach(function (colorType) {
+              csvData += `${colorType},`;
+            });
+            csvData += 'Image URL\n';
+
+            imageDetailsMap.forEach(function (details, url) {
+              csvData += `${details.endyear},`;
+              colorTypes.forEach(function (colorType) {
+                csvData += details[colorType]
+                  ? `"${details[colorType]}",`
+                  : ',';
+              });
+              csvData += `"${url}"\n`;
+            });
+
+            const blob = new Blob([csvData], { type: 'text/csv' });
+            const link = document.createElement('a');
+            link.setAttribute('href', URL.createObjectURL(blob));
+            link.setAttribute('download', 'image_details.csv');
+            link.style.display = 'none';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+          });
+      });
+    </script>
+  </body>
+</html>

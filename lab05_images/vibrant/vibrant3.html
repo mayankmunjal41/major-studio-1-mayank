@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Vibrant.js example</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="libraries/vibrant.js"></script>
+  <style>
+    /* Style for the swatch & image */
+    .swatch {
+      border: 5px solid black;
+      height: 50px;
+      width: 50px;
+      float: left;
+      margin: 5px;
+    }
+    img {
+      max-width: 100px;
+    }
+  </style>
+</head>
+<body>
+  <div id="image_container">
+    <!-- Add your image elements here dynamically -->
+  </div>
+
+  <button id="downloadCSV">Download CSV</button>
+
+  <script>
+    const imageDetails = []; // Array to store image details (begin year, primary color, and image URL)
+
+    d3.csv('mmunjal.csv').then(function(data) {
+      // Function to randomly select n images within a specified time range
+      function selectRandomImagesWithinRange(rangeStart, rangeEnd, n) {
+        const selectedImages = [];
+        while (selectedImages.length < n) {
+          const randomImage = data[Math.floor(Math.random() * data.length)];
+          const beginYear = Math.floor(Math.random() * (rangeEnd - rangeStart)) + rangeStart;
+          if (beginYear >= rangeStart && beginYear <= rangeEnd) {
+            selectedImages.push({ beginYear, url: randomImage.iiifthumburl });
+          }
+        }
+        return selectedImages;
+      }
+
+      // Generate 500 random images for each century from 1400 to 1600
+      for (let centuryStart = 1400; centuryStart <= 1600; centuryStart += 100) {
+        const centuryEnd = centuryStart + 100;
+        const randomImages = selectRandomImagesWithinRange(centuryStart, centuryEnd, 500); // Reduced to 5 for demonstration
+
+        randomImages.forEach((image, index) => {
+          const imgContainer = d3.select('#image_container')
+            .append('div')
+            .attr('class', 'img-container')
+            .attr('id', `img-container-${centuryStart}-${index}`);
+
+          // Check if the image URL is valid before creating the image element
+          const img = new Image();
+          img.src = image.url.replace('!200,200', '!500,500'); // Update thumbnail size
+          img.onload = function () {
+            imgContainer.append('img')
+              .attr('src', this.src)
+              .attr('class', 'img');
+
+            // Use Vibrant.js to get the palette
+            Vibrant.from(this.src).getPalette((err, palette) => {
+              if (err) {
+                console.error(`Error extracting color for ${image.url}: ${err.message}`);
+                return;
+              }
+
+              if (palette) {
+                for (const swatch in palette) {
+                  if (palette.hasOwnProperty(swatch) && palette[swatch]) {
+                    const hexColor = palette[swatch].getHex();
+                    imageDetails.push({ beginYear: image.beginYear, hexColor, url: image.url });
+
+                    // Create and append swatch
+                    const div = document.createElement("div");
+                    div.className = 'swatch';
+                    div.style.backgroundColor = hexColor;
+                    const element = document.querySelector(`#img-container-${centuryStart}-${index}`);
+                    element.appendChild(div);
+                  }
+                }
+              } else {
+                console.error(`Error: No palette extracted for ${image.url}`);
+              }
+            });
+          };
+
+          // Handle the case where the image fails to load
+          img.onerror = function () {
+            console.error(`Error loading image: ${image.url}`);
+          };
+        });
+      }
+
+      // Function to create a CSV file and trigger the download
+      document.getElementById('downloadCSV').addEventListener('click', function () {
+        let csvData = "Begin Year,Primary Color,Image URL\n";
+        imageDetails.forEach(function (details) {
+          csvData += `${details.beginYear},${details.hexColor},"${details.url}"\n`;
+        });
+        const blob = new Blob([csvData], { type: 'text/csv' });
+        const link = document.createElement("a");
+        link.setAttribute("href", URL.createObjectURL(blob));
+        link.setAttribute("download", "image_details.csv");
+        link.style.display = "none";
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Color Beeswarm Chart</title>
+    <style>
+        /* Define CSS styles as needed */
+    </style>
+</head>
+<body>
+    <svg width="800" height="400" id="chart"></svg>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script>
+        // Your CSV data
+        var csvData = `Begin Year,Primary Color
+1430,#a46927
+1423,#b8761b
+1450,#a16a3c
+1450,#994345
+1410,#c2873a
+1434,#8c6742
+1450,#785135
+1425,#845c38
+1442,#a7714c
+1400,#b0713c
+1400,#c6864f
+1445,#dcab56
+1445,#f0b445
+1445,#c98e49
+1445,#9c401c
+1445,#ae7052
+1445,#b38d5b
+1435,#c88834
+1430,#d49424
+1430,#ad663d
+1435,#b18f5c
+1420,#d1a859
+1450,#c64411
+1425,#ca390d
+1445,#b4644c
+1440,#a2693b
+1446,#3f3fbf
+1446,#946c44
+1450,#bf9f3f
+1450,#bf7f3f
+1400,#ac7f52
+1400,#b18b4d
+1400,#bf3f3f
+1450,#b0844c
+1450,#a8743c
+1450,#b78747
+1450,#b48c4c
+1410,#d4c05c
+1450,#b88148
+1446,#808834
+1450,#b87cc8
+1435,#7a5c3a
+1450,#b67748
+1450,#b87646
+1441,#c57f39
+1446,#bf9f3f
+1441,#6e4d34
+1450,#bf3f3f
+1404,#a07834
+1450,#b77747
+1450,#bc9767
+1450,#9c3878
+1450,#b57f49
+1400,#607824
+1400,#6f5434
+1400,#6c5234
+1400,#3fbfbf
+1400,#d529a4
+1450,#bc8040
+1425,#b4744a
+1425,#80803c
+1450,#b87f46
+1400,#94723b
+1400,#2c309c
+1440,#b0c458
+1450,#d4786c
+1445,#6cb450`;
+
+        // Parse the CSV data
+        var data = d3.csvParse(csvData);
+
+        // Set up SVG dimensions
+        var margin = { top: 20, right: 20, bottom: 40, left: 40 };
+        var width = 800 - margin.left - margin.right;
+        var height = 200 - margin.top - margin.bottom;
+
+        // Create an SVG element
+        var svg = d3.select("#chart")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+        // X-axis scale
+        var xScale = d3.scaleLinear()
+            .domain([1400, 1450])
+            .range([0, width]);
+
+        // Create circles for the beeswarm chart
+        var circles = svg.selectAll("circle")
+            .data(data)
+            .enter()
+            .append("circle")
+            .attr("cx", function(d) {
+                return xScale(parseInt(d["Begin Year"]));
+            })
+            .attr("cy", function(d, i) {
+                return 20 + (i % 5) * 20; // Adjust the vertical position based on data index
+            })
+            .attr("r", 6)
+            .style("fill", function(d) {
+                return d["Primary Color"];
+            });
+
+        // Add X-axis
+        svg.append("g")
+            .attr("class", "x-axis")
+            .attr("transform", "translate(0," + height + ")")
+            .call(d3.axisBottom(xScale));
+
+        // Add chart title and labels if needed
+    </script>
+</body>
+</html>

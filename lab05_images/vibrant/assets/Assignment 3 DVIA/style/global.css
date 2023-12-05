@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing:border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  color: #333;
+}
+
+#container {
+  padding: 50px;
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+td {
+  padding: 8px;
+  border:1px solid #ccc;
+}
+
+thead td {
+  font-weight: 600;
+  font-size: 0.8rem;
+  background:#fafafa;
+}
