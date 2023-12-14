@@ -10,23 +10,31 @@
 		<title>Document</title>
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
 		<link
-			href="https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&family=Lora&family=Nunito:wght@300;400;500;700&family=PT+Serif&display=swap"
 			rel="stylesheet"
+			href="https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&family=Copse&family=Lora&family=Nunito:wght@300;400;500;700&family=PT+Serif&family=Whisper&family=Ysabeau+SC&display=swap"
 		/>
+
 		<script src="libraries/vibrant.js"></script>
 		<style type="text/css">
+			@import url("https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&family=Copse&family=Lora&family=Nunito:wght@300;400;500;700&family=PT+Serif&family=Whisper&family=Ysabeau+SC&display=swap");
 			html,
 			body {
 				height: 100%;
 				margin: 0;
 				padding: 0;
-				overflow: hidden; /* Ensure there's no overflow from body or html */
+				/* overflow: hidden; */
 			}
 
 			body {
 				width: 100%;
 				background: black;
+				font-family: Cardo;
 			}
 
 			.centered {
@@ -37,7 +45,7 @@
 			.graph {
 				width: 100%;
 				margin: 0 auto;
-				height: calc(100% - 32px);
+				height: calc(100% - 100px);
 			}
 
 			#checkboxes > * {
@@ -65,20 +73,34 @@
 			}
 
 			svg {
-				height: calc(100% - 32px);
+				height: calc(100% - 100px);
 				background-color: black;
 			}
-			h1 {
+			h1,
+			.subtitle {
 				color: #fff;
 				font-feature-settings: "clig" off, "liga" off;
 				font-family: Cardo;
-				font-size: 70px;
+				font-size: 50px;
 				font-style: normal;
 				font-weight: 700;
 				line-height: 130%;
 				position: absolute;
 				left: 32px;
-				top: 16px;
+				top: 10px;
+				font-size: 70px;
+				margin-left: 40px;
+			}
+
+			.subtitle {
+				font-size: 16px;
+				top: 13%;
+				/* font-family: Nunito; */
+				font-weight: 300;
+			}
+
+			.subtitle img {
+				margin-right: 10px;
 			}
 
 			.cells path {
@@ -105,6 +127,7 @@
 				fill: none;
 				stroke: rgb(96, 125, 139);
 				shape-rendering: crispEdges;
+				display: none;
 			}
 
 			.axis text {
@@ -136,47 +159,274 @@
 			}
 			.color {
 				width: 100%;
-				height: 120px;
+				height: 70px;
 				border: 1px solid #404040;
+				background: rgb(0, 0, 0);
 			}
 
 			#palette-container {
 				display: none;
+				position: fixed;
+				width: 100vw;
+				top: 0;
 			}
 
 			.palette {
 				display: flex;
+				width: 100vw;
 			}
 
 			.images {
 				display: flex;
-				gap: 30px;
+				display: none;
+				gap: 60px;
 				flex-wrap: wrap;
 				justify-content: center;
-				margin-top: 50px;
+				margin-top: 120px;
+				padding: 20px;
+				padding-right: 60px;
 			}
 
 			.images img {
-				width: 220px;
-				height: 220px;
+				max-width: 250px;
+				max-height: 520px;
+				transition: 0.5s;
+			}
+
+			.img > img:hover {
+				/* transform: scale(1.1);
+				transition: transform 0.3s ease; */
+			}
+
+			.img > img:hover .arrow {
+				transform: scale(1.1);
+			}
+
+			.arrow {
+				margin-left: 10px;
+				transform: scale(1); /* Add initial scale */
+				transition: 0.5s ease;
+			}
+
+			.arrow:hover {
+				cursor: pointer;
+				transform: scale(1.5);
 			}
 
 			.swatch > div {
-				width: 35px;
-				height: 30px;
+				width: 20px;
+				height: 20px;
+				border-radius: 100px;
+				transition: 0.5s ease-in-out;
+			}
+
+			.swatch > div:hover {
+				cursor: pointer;
+				transform: scale(1.2);
 			}
 
 			.swatch {
 				display: flex;
 				margin-top: 10px;
+				gap: 5px;
 				margin-bottom: 20px;
+			}
+			#palette-container {
+				/* display: flex; */
+				z-index: 2;
+			}
+
+			.color-icon {
+				top: 140px;
+				position: absolute;
+				text-align: center;
+				right: 50px;
+				display: flex;
+				justify-content: center;
+				flex-direction: column;
+				transition: 1s;
+			}
+
+			.wheel {
+				width: 40px;
+				height: 40px;
+				flex-grow: 1;
+				align-self: center;
+				margin-left: 0;
+				margin-top: 0;
+				transition: 1s ease-in-out;
+				animation: rotateWheel 3s linear infinite; /* Reference the keyframes */
+				transform: translate(100px, 0px);
+			}
+
+			/* @keyframes rotateWheel {
+				from {
+					transform: rotate(0);
+				}
+				to {
+					transform: rotate(360deg);
+				}
+			} */
+
+			.wheel:hover {
+				cursor: pointer;
+				transform: scale(1.2);
+			}
+
+			.count {
+				width: 20px;
+				position: absolute;
+				margin-left: -14px;
+				margin-top: -7.5px;
+				opacity: 0;
+				transition: 1s;
+				transition-delay: 1s;
+			}
+
+			.count-number {
+				color: white;
+				position: absolute;
+				top: -18px;
+				right: 0;
+				font-size: 12px;
+				opacity: 0;
+				transition: 1s;
+				transition-delay: 1s;
+			}
+
+			.color-icon > img {
+				width: 40px;
+				height: 40px;
+				margin-top: 32px;
+				margin-left: 0px;
+			}
+
+			.arrow {
+				margin-left: 10px;
+			}
+
+			#svganchor span {
+				font-family: Whisper;
+				font-size: 60px;
+			}
+
+			#svganchor span:nth-child(2) {
+				font-family: Ysabeau SC;
+				font-size: 45px;
+			}
+
+			.select {
+				width: 100%;
+				display: flex;
+				gap: 16px;
+				justify-content: center;
+				font-family: inherit;
+				background: black;
+				opacity: 0;
+				transition: 1s;
+			}
+
+			.select p {
+				padding: 8px 16px;
+				background: #f2f2f3;
+				border-radius: 8px;
+			}
+
+			.select img {
+				margin-bottom: -2px;
+				margin-right: 5px;
+			}
+
+			.images {
+				transition: 1s;
+			}
+
+			.saved-colors {
+				display: none;
+				flex-direction: column;
+				padding: 30px;
+			}
+
+			.saved-colors p {
+				color: #fff;
+				font-feature-settings: "clig" off, "liga" off;
+				font-family: Cardo;
+				font-size: 50px;
+				font-style: normal;
+				font-weight: 700;
+				line-height: 130%;
+				left: 32px;
+				top: 10px;
+			}
+
+			.saved-palettes {
+				display: flex;
+				gap: 30px;
+				flex-wrap: wrap;
+				margin-top: 50px;
+			}
+
+			.saved-palettes .palette {
+				width: auto;
+			}
+
+			.close {
+				position: fixed;
+				left: 30px;
+				top: 90px;
+				z-index: 5;
+				opacity: 0;
+			}
+
+			#buttonContainer {
+				display: flex;
+				margin: 0 auto;
+				gap: 60px;
+				justify-content: space-around;
+				margin-top: -70px;
+				width: 93%;
+			}
+
+			#buttonContainer button {
+				display: block;
+				padding: 0;
+				background: none;
+				border: none;
+				font-size: 16px;
+				color: white;
+				stroke: 0;
+				padding-bottom: 3px;
+				border-bottom: 1px solid white;
+			}
+
+			#buttonContainer button:hover {
+				cursor: pointer;
+			}
+
+			.tick {
+				opacity: 0;
+			}
+
+			.master-palette {
+				display: flex;
+				margin-top: -75px;
+				position: absolute;
+			}
+
+			.save:hover {
+				cursor: pointer;
 			}
 		</style>
 	</head>
 
 	<body>
 		<div id="svganchor" class="graph centered">
-			<h1>Hues of the Modern Art</h1>
+			<h1>Hues of History</h1>
+			<!-- <p class="subtitle">
+				<img src="circle.svg" alt="" />Each circle represents the primary color
+				of a collection
+			</p> -->
+			<p class="subtitle"></p>
 		</div>
 		<div class="" id="palette-container">
 			<div class="palette">
@@ -186,8 +436,24 @@
 				<div class="color"></div>
 				<div class="color"></div>
 			</div>
+			<div class="select">
+				<p class="save"><img src="ph_heart.svg" alt="" />Save Palette</p>
+				<p class="change">Change Color</p>
+			</div>
+			<div class="color-icon">
+				<div class="counter">
+					<img class="wheel" src="color-palette-paint.svg" alt="" srcset="" />
+					<img class="count" src="counter-circle.svg" alt="" srcset="" />
+					<p class="count-number">1</p>
+				</div>
+			</div>
 		</div>
+		<img class="close" src="back.svg" alt="" srcset="" />
 		<div class="images"></div>
+		<div class="saved-colors">
+			<p>Selected Palettes</p>
+			<div class="saved-palettes"></div>
+		</div>
+		<script src="./app-4.js" async></script>
 	</body>
-	<script src="./app.js" async></script>
 </html>
