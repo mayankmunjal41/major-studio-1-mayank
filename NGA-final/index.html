@@ -416,6 +416,35 @@
 			.save:hover {
 				cursor: pointer;
 			}
+			.image-tour {
+				position: absolute;
+			}
+
+			.click-tour,
+			.click-tour-2 {
+				color: white;
+				margin-left: 50%;
+				font-size: 14px;
+				position: relative;
+				transition: 0.5s ease-in;
+			}
+
+			.click-tour-2 {
+				margin-left: 5%;
+				margin-top: 10px;
+				transition: 0.5s ease-in;
+			}
+
+			.click-tour-line {
+				position: absolute;
+				left: 25px;
+				top: -20px;
+				transform: rotate(91deg);
+			}
+
+			.close-2 {
+				top: 30px;
+			}
 		</style>
 	</head>
 
@@ -453,8 +482,11 @@
 				</div>
 			</div>
 		</div>
-		<img class="close" src="assets/back.svg" alt="" srcset="" />
-		<div class="images"></div>
+		<img class="close close-1" src="assets/back.svg" alt="" srcset="" />
+		<img class="close close-2" src="assets/back.svg" alt="" srcset="" />
+		<div class="images">
+			<!-- <div class="image-tour">Click to save palette</div> -->
+		</div>
 		<div class="saved-colors">
 			<p>Selected Palettes</p>
 			<div class="saved-palettes"></div>
