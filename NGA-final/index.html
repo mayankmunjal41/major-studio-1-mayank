@@ -162,13 +162,25 @@
 				height: 70px;
 				border: 1px solid #404040;
 				background: rgb(0, 0, 0);
+				display: flex;
+				justify-content: center;
 			}
 
+			.color:hover {
+				cursor: pointer;
+			}
+
+			.color > img {
+				max-width: 20px;
+				opacity: 0;
+				transition: 0.2s ease-in;
+			}
 			#palette-container {
 				display: none;
 				position: fixed;
 				width: 100vw;
 				top: 0;
+				flex-wrap: wrap;
 			}
 
 			.palette {
@@ -206,11 +218,19 @@
 				margin-left: 10px;
 				transform: scale(1); /* Add initial scale */
 				transition: 0.5s ease;
+				height: 20px;
+				width: 30px;
+				margin-top: 5px;
+				margin-left: auto !important;
 			}
 
 			.arrow:hover {
 				cursor: pointer;
-				transform: scale(1.5);
+				transform: scale(1.2);
+			}
+
+			.change:hover {
+				cursor: pointer;
 			}
 
 			.swatch > div {
@@ -437,9 +457,14 @@
 
 			.click-tour-line {
 				position: absolute;
-				left: 25px;
-				top: -20px;
-				transform: rotate(91deg);
+				top: -23px;
+				right: 25px;
+				transform: rotate(180deg);
+			}
+
+			.click-tour-2 .click-tour-line {
+				left: 0;
+				transform: rotate(95deg);
 			}
 
 			.close-2 {

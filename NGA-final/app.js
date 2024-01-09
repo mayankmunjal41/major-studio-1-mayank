@@ -140,6 +140,8 @@ d3.csv("data/closest_color_rgb.csv")
                     d3.select('#buttonContainer').style('display', 'none')
                     d3.selectAll('.close-2').style('display', 'none')
                     d3.selectAll('.close-1').style('display', 'block')
+                    d3.select('.click').style('opacity', 0)
+                    d3.select('.navigate-2').style('opacity', 0)
                     // select color and change color for first swatch
                     let selectedColor = this.getAttribute('fill');
                     let swatchColor = firstSwatch.style('background-color', selectedColor);
@@ -152,6 +154,7 @@ d3.csv("data/closest_color_rgb.csv")
                         d3.select("#palette-container").style("display", "flex");
                         d3.selectAll('.close-2').style('display', 'none')
                         d3.selectAll('.close-1').style('display', 'block')
+                        d3.select('.select').style('display', 'flex')
                     })
 
                     d3.select('.close-1').on('click', function() {
@@ -163,6 +166,20 @@ d3.csv("data/closest_color_rgb.csv")
                         d3.select('body').style('height', 'auto')
                         d3.select('.saved-colors').style('display', 'none')
                         d3.selectAll('.close-1').style('display', 'none')
+                  
+
+                    })
+
+                    d3.select('.change').on('click', function() {
+                        d3.select("#buttonContainer").style('display', 'flex');
+                        d3.select('.images').html(null);
+                        d3.select("#svganchor").style('display', 'block');
+                        d3.select(".images").style('display', 'none');
+                        d3.select("#palette-container").style("display", "none");
+                        d3.select('body').style('height', 'auto')
+                        d3.select('.saved-colors').style('display', 'none')
+                        d3.selectAll('.close-1').style('display', 'none')
+                  
 
                     })
 
@@ -179,7 +196,7 @@ d3.csv("data/closest_color_rgb.csv")
                                 swatchContainer.append('div').attr('class', 'darkVibrant').style('background-color', d.DarkVibrant);
                                 swatchContainer.append('div').attr('class', 'muted').style('background-color', d.Muted);
                                 swatchContainer.append('div').attr('class', 'lightMuted').style('background-color', d.LightMuted);
-                                swatchContainer.append('img').attr('src', 'assets/arrow.svg').attr('class', 'arrow')
+                                swatchContainer.append('img').attr('src', 'assets/heart.svg').attr('class', 'arrow')
 
                                 // Your event listener
                                 d3.selectAll('.arrow').on('click', function() {
@@ -258,8 +275,29 @@ d3.csv("data/closest_color_rgb.csv")
                                                 .style('background-color', color => color)
                                                 .style('width', '30px')
                                                 .style('height', '30px')
-                                                .style('margin', '5px');
+                                                .style('margin', '5px')
+                                                .append('img').attr('src', 'assets/copy.svg')
                                         });
+                                    d3.selectAll('.color').on('click', function() {
+                                        let copyingSwatch = getComputedStyle(this).backgroundColor;
+                                        const copyText = document.createElement('textarea');
+                                        copyText.value = copyingSwatch // Convert to HEX if needed
+                                        document.body.appendChild(copyText);
+                                        copyText.select();
+                                        document.execCommand('copy');
+                                        document.body.removeChild(copyText);
+
+                                        alert('Color value copied: ' + copyingSwatch); // Inform the user
+
+                                    })
+                                    d3.selectAll('.color').on('mouseover', function () {
+                                        d3.select(this).select('img').style('opacity', 1)
+                                        console.log('hi');
+                                    })
+
+                                    d3.selectAll('.color').on('mouseout', function () {
+                                        d3.selectAll('.color > img').style('opacity', 0); 
+                                    });
                                 });
                                 d3.selectAll('.swatch > div').on('click', function() {
                                     let selectedSwatch = getComputedStyle(this).backgroundColor;
@@ -457,13 +495,13 @@ d3.csv("data/closest_color_rgb.csv")
                     svg.append("text")
                         .attr("class", "click")
                         .attr("x", xScale(dataSet[44].beginyear) + margin.left + 10)
-                        .attr("y", (height / 2) - margin.bottom / 2 - 115)
+                        .attr("y", (height / 2) - margin.bottom / 2 - 110)
                         .style("fill", "white")
                         .style("font-size", "14px")
                         .text("Click on different colors")
                         .append("tspan")
                         .attr("x", xScale(dataSet[44].beginyear) + margin.left + 10)
-                        .attr("y", (height / 2) - margin.bottom / 2 - 95)
+                        .attr("y", (height / 2) - margin.bottom / 2 - 90)
                         .text("to view collections.")
     
     
